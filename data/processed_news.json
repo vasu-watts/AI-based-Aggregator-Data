@@ -1,128 +1,248 @@
 {
-  "generated_at_utc": "2026-02-13T10:04:46.444109+00:00",
-  "total_articles": 148,
+  "generated_at_utc": "2026-02-13T11:04:58.744863+00:00",
+  "total_articles": 151,
   "clusters": [
     {
       "group_id": 0,
       "articles": [
         {
-          "title": "Bangladesh Nationalist Party claims victory in country’s first election since 2024 uprising - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTA4b2dlUEsyR0cxdVpvZnlpdE9xaVkwSmdlQVBRNElrd1p1aTdGMS1GUEd4My1Cc0EzVG1TN3ZmNHJ4YUJWUlZ0em5xLU51UXVFa3FjLVpwRF9sLXk1a3NySkJZaDB0TENNckc4c3YtbkVIYTByX0wwejQ1Z3NoNVJoclZldlhIM09md2Nqb3JLYm9TWk9sU1M0cHVRMEhrdkg2RlAtZGE?oc=5",
+          "title": "Europe’s Leaders Gather At Munich Summit, Reeling From Trump’s Criticism - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWlrSGlEdGdKczRZclI0VXBiN2NKU05nWmpDQTNkLUdzMFhZNmxrTDVGT1Zwd1Yta3JZTHlBTElOQzZhTkNWNG81SDFUdFpOU3p1WXZtZWltWjlFM2hKYVpOaWxHU1BkR1RmRW5rSkVHTk5lOFp1NWd2MXRsUkhuUDI1SEcxeWlwVElXUk85NHdEUm14c2FDR2poSmdTZFhyZmkw?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 12 Feb 2026 22:38:10 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Pride flag flies again at Stonewall Inn, challenging federal ban - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlZKcnY4SHdjSnFPWHhnQjVjcmdBMm5lR3pYeEFLck1XYVR0b25hWVhTczJONlRQSExha1ZMMUhfZ3c5Qk1qbDI2VTlCUUZ1VU0zYW5YemlSVmtLTnI5WnR6RnV4ZXNjbGhNcEwzMGhJbWRoNkp6VUNHb2FyTzRsNWlKZmI1NE0?oc=5",
+          "source": "The Washington Post",
+          "published": "Fri, 13 Feb 2026 06:56:40 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Democrats eye legal action, GOP seeks answers on Trump admin \"spying\" on Congress - Axios",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdG5Bbnhmb0VxdEpLU0FVcFQ3WUZTbmJ1WU5WeTBJblZyVnpfZFdtZkhXMEdsei1WZk4yQ2QtNEZGcGwtRGxfandyMUJfN0drUVRtbEhyZWMwMkk0WEtpX1p1ZEZYNzdGQVNjdDFOaUFKOWNfQlYwNGFwNXdjaDd5czZn?oc=5",
+          "source": "Axios",
+          "published": "Fri, 13 Feb 2026 04:44:32 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Ocasio-Cortez, Rubio to offer dueling visions of world order in Munich - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUJhZWFXQVpfSmZuRWtKekdMQ0VkYW5jdEQxNUN6a3FrTWprOURISzh2TktMV1hBWXJXREFWX1hqV0ljM01DVl9lWXBLNEtGaVJma2d2ZjBvYjBINlBRM3c2YWJqNk5mTEF4d0V1TUtmU1lXcl9lYThfcXFyS2JlNjJybw?oc=5",
+          "source": "The Washington Post",
+          "published": "Fri, 13 Feb 2026 07:04:44 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Communications breakdown over El Paso airspace closure sparks finger pointing across Trump administration - CNN",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXRfcUdHTDA2dm1yM3dQaVlWSWdhVFlxOFpjMVdCU3h1VFB1bTNVSjFUVEZpdkF6VGxyWEFKa2p6YU1YbXVMMGJ3X3J5N3VfNWdvLXNPcVRvcG8wcmcxcWppMGhYMG52RzhlWUZNNl82dU1kRlpuTGd5TXlUQ3hSUTd2ZlpBcENKMzRXZw?oc=5",
+          "source": "CNN",
+          "published": "Fri, 13 Feb 2026 02:14:00 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Sister of North Korea’s leader says South Korea’s drone regret was sensible but insufficient - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2tqZkZWakl2UzJLLTdTMk5INUdva1VxU3B2ZXhXSFZaNUNfSVB1YWM0Y3VyQk5fODBSZ3k3eG1qYnBfU1NJRXNkRnJ1bnVPZ2NmeUROXzVOY3BIblU5WW5OUzFfa0hFNm5YdWtSc09KUDhDWk82a1dtbzBtZzZva054RUthZWNfRzN3eFpNNFFVbnc?oc=5",
           "source": "AP News",
-          "published": "Fri, 13 Feb 2026 05:58:00 GMT",
+          "published": "Fri, 13 Feb 2026 04:03:00 GMT",
           "region": "GLOBAL",
           "cluster": 0
         },
         {
-          "title": "Wim Wenders Says ‘We Have to Stay Out of Politics’ as Berlinale Jury Fields Questions About Israel and Palestine: Filmmakers ‘Have to Do the Work of People, Not the Work of Politicians’ - Variety",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTRuazdBakM1eENkai1ockFDVWlDVEhXVURNUFlmaU9FbnBmRkFGd1dTMG5lNjFsRnB4Qng5SmU3a1dkZEJNRENqQlNvV3Zkc2FZOE5pMkhrMzZSUHlGc3ExWDZ4bENKYWtYUjdjVHFBN1ZCdXlSbVVtMEN0bWdVbE5yZXZBdG02QUozUFV6YWdGM1F3T3AwR1RR?oc=5",
-          "source": "Variety",
-          "published": "Thu, 12 Feb 2026 09:52:00 GMT",
+          "title": "EU leaders ready countermeasures to pressure from Russia, China and Trump - AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0xmWFNBVE16WmxMaXJxYlB4NEhiS3VfbVBwME9yUUg3OWtXMTBYcFBUdHZoMkdhWW1rV3MtVWMtZnBNQ05NZHVNWVZYTkRXaHpoX0pyLVY1NnZVUl9xRlZ5RUpJRzFmZmg0bHBFV0xzN0pYczNSVTZaUUFrQWlhU0lubjljejVhZlhGY2tpa0h3SU03Q2o3X1V0QW0?oc=5",
+          "source": "AP News",
+          "published": "Thu, 12 Feb 2026 21:37:00 GMT",
           "region": "GLOBAL",
           "cluster": 0
         },
         {
-          "title": "T.N. CM Stalin’s surprise bonanza: ₹5,000 credited to bank accounts of 1.31 crore women today - The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0sydjJKdFl6UkQyV041UVl2SW1FeFVkVUJUcmRDSzVEYm9iNTZ4ZXNPdUVVa0Vici1GemZvZXg1RTRWaXpBV3N1ZlZydFBKM2Y1UjI1bDhiNVdVUjJzS0tPallaVjA4cEdMUjU1alRuU1piZlY0V3h5VzRRcFlIeldIMmJ5d3BkU1AxdzVzU2ctOUhIXzhpTUp3cFRDdzg0MkJOZ3VvT0FUZWFDdS1tbHFhaldDbUhxaEVRcWlxY2JZVnZ5cXcyeGlITzdGNVMyU3hnV2pKaEZoYm5yS3luUS02UWdSYTNubUxrNjJ5YjdnTWdVUVh3RNIB_wFBVV95cUxQRy1rVnRiUlFMNTJQTTFsZGw2UkNULWFLRU1LTkk1QnpTemhnR1ZDNVY3dFA0TWJNN0VxUTZMLThHX05BX0tFcDljR1lQaHM5b1JseVhNelVBRU5xbUYxRHpfR2JfVlp5Z2JCTko5dWNLVlNlbFY0UUE0U2xaOE9ETnZtSWpnWmdDOEdUR0lTQWRmWFd5bTl4ZXZObG1NVUpvVDJaSEJiU1JrR09Uc1Z3aHlRZUM2MExBejJPX2JnNkpsTlFFT0xaRi1DYWpURWRWOTBEZ0ZYN25XdVU4YWpBM09BZ3NmcEZTUHdYZVMyNENFX1RqX1RDVEhIUTBHOHM?oc=5",
+          "title": "When Amazon badly needed a ride, Europe’s Ariane 6 rocket delivered - Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHVNWDJpRU43SktTcnNjd2x1Sl9SUHFodXU4VkY2LWFlUWJXS1pfT1R0bTdiWHZqSXFWSmtfX0xEQnVVaW9kdi1NUUtYeGMxZUtOanpmNWNjNmFHaHg0TENzRG5Dc3ZFWVI3Z2xQRE45VzFSZ1RESURGWExPNDg5a2JtaTJfU3dEODhVdXhBcWstNXJCbWFxNzZsa294NVEta3d2dkpLVQ?oc=5",
+          "source": "Ars Technica",
+          "published": "Fri, 13 Feb 2026 00:34:29 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Trump’s campaign against ‘left-wing’ media finds a new target: Apple News - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEJrQU9zNDlVWW1wY25FTVhhY2x0UTl3M1E1MHpBWGdaYWZOSGhmM0M0b042Q2hFbE9SU0dqdk9NbldvSTB3VFVpLS1mYnNKekNfY0tPblJxZ3FJcUFERHdBZFBDNlJabnMwRTVCV18yZTAtSDFXOXpEYmtHVF95QkItT2I4cjNTWDZUcTdaWmRvczA?oc=5",
+          "source": "The Washington Post",
+          "published": "Fri, 13 Feb 2026 07:41:13 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Republicans Have Moved Into a New, Even Dumber Phase of Bad Bunny Outrage - Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGtkR2V0LTR6Yl9oMFd6U3BVbEMtTi1WemVzN29CYzcwNktNU19OS3dJVUM2aFNBSFFpV2lObkZHU2dkQlhnVmk5eVFjZGFNc25aLWd2Tl9veGhOdHo1NmhCRWtKOVdBakdSckRiRmp4TVBnRnVONE9GSjR0eUZRSTd2d3NJM1FHeWU0bVFGdWxQOGxpT2pjUnpGVUpibWdwY2JiTnd5bEo?oc=5",
+          "source": "Rolling Stone",
+          "published": "Thu, 12 Feb 2026 17:49:03 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Leclerc leads Norris on second day of Bahrain testing - F1 - The Official Home of Formula 1® Racing",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnhQNllCZ21WYngtbnlrdXpvYXFGQlpkeGpqejVKajVpWmpMUVVHZVpyeE9YejdwdTVpM2U5Z0gyTG9ybGlMWjdONDlXdU1zS00xY0ctWWhJeExNUC1kWmZoNFFPZXhLRmpRMEV3blVDWDZaWUlqY0hnTFhaMnY0UG5JOXJJWVJJY0VtN3VFZGR4SFI5Rzl3ek1Zak9YYV9XNzNKM2VDeDE5Wld1c19ZV0ZILWdSbUdBWEh4Q1JpbDJwTWR5UTMzc3Q5WQ?oc=5",
+          "source": "F1 - The Official Home of Formula 1® Racing",
+          "published": "Fri, 13 Feb 2026 02:14:53 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Tony Kornheiser, Michael Wilbon sound off on Kansas State coach Jerome Tang blasting his players - Awful Announcing",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdG1mQWQzX0JzWllUcWVOM3pqdC1UOTNEZFNCRm1rZ09MdjQyVlFCcGZ2V3h3SVpwVjloa0duN1l4SXpPN25WcDVkVWVTdzhORzNhWTYzczdNOEVSWXRKWGp5Ui15N0JHWVdWOTA1QlFrd3BXTHh0bXNSN2d0YlNxZy1OYXJyZVpGdGptdWVldVR0aWp3b3FxeV9yN1BQSUl2V0pYeEYza2QzSEk1RFZlRXAwb0toeWRjVl9LNjJn0gHDAUFVX3lxTE9ELUlUbVhVMkNJOTNXRTVKb0dYZk9YTkRzN0U5dXNTTm5vc3R1bURhZjdib05IUVVBZjY5ZGFwMlJPVkRnSVQtRUZSUUtjV01NU1ZTZWRqdS1Va0p4ZlZUVGxta1FFTkVUX0FwR1N2eHJvYnhBLWJGeU9aYTNrTTVXb2tOVlE3UUVucUlqSjM4VHNUODkwT21HVzF6THZnYzlRQldQakNwb2NIdkptUFZmZTFvVldnU2FRdFBEelFGUzlfOA?oc=5",
+          "source": "Awful Announcing",
+          "published": "Fri, 13 Feb 2026 03:21:57 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "NASA telescope spots the building blocks for life spewing out of comet 3I/ATLAS - Live Science",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmpXRzdWM00xM3JSQzRFb0VLYzlUZkJLcWZhV0VaTXI5VkJGS3dqMGdPSE9UWXI0QlhWbW8tOVItUGpCN3YxMlo5bDlmV3c4S0xXaUZRNGhSVGVaVFJEWmludlNEbjItdURUR0xZcE14cjdnTGlyQUI3YTF4RkxpMldTUUJneG9tTjEtSm9EclNOU0haLUdkWV9ra2NtcnIzUmVkbmJrTk9icmpuWWlJdzJTR0NvbnNIY2kxUA?oc=5",
+          "source": "Live Science",
+          "published": "Thu, 12 Feb 2026 22:07:21 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "ULA’s Vulcan rocket suffers another booster problem on the way to orbit - Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamtfdGR3Y2t3Rk9aOW8tck45ZEhhS1NxbmM0bnZmV2ZBclA0VFM1c21jME9FQk9rT2szYXVzUEl4bVVtZV9HMmxMbl8xWFdEOWJVeVBESi1RY3l4NXlmdkUya3lhbThuaVd3b3c2YUJoVmJsdTl4Rjhjdk9xdWZvaWhmVUZoYlB5aTNFU1VRbFgyNlduOUQ1U2FCNjdQcVJWdFE?oc=5",
+          "source": "Ars Technica",
+          "published": "Thu, 12 Feb 2026 21:33:13 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Gravitational lensing technique unveils supermassive black hole pairs - Phys.org",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjBMNmRxUmktNXdNYjVuaWhBUTN1UEVWaHdEekFUdFNyazJBVzRqVlBrcUk3c3JmYnd6QVBsVjB5VXlhY2FxeEdhM3dnZmZlSGl2U2tZeC12bVMyczM1bjJjUjhBdGNKbmdmR01qaGtqclRIOU9rRFpWX3F1UmlYallQRVFzNFcwQmVBOEN0Zlg?oc=5",
+          "source": "Phys.org",
+          "published": "Thu, 12 Feb 2026 20:56:41 GMT",
+          "region": "GLOBAL",
+          "cluster": 0
+        },
+        {
+          "title": "Trump revokes basis of U.S. climate regulation, ends vehicle emission standards - The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFBBVVhvRVAwV0pldmNtMU9CZGUzaG0tX0J6N044WmlXR01pbWNLcW9LYlJJNFRqb0FXY3hQbEhMbW9pbjFsaC1zVHYycXgwQUhFdjhyWU5pVFh4RXRPazRXMU1UeUdlOW03TGJZSTljVVFCYVJNZE04RVYzbGpiT3J0amNvNDN1X2l2a0RQZFphU0dOeml6bnBmSnN4WE5ZZTZldWtpNzJDX01BbkRuWUpYNmZzRHN3ZkE4LXZZMlVBUC1VYzBXMEJlTHNPREFSSTZTdGpjSdIB3gFBVV95cUxQSXdWMFg0Tl9Eek91OGNFbXpsWHZMSkdzN0pyVU5uRTNLbTF3RGl3QnFKS2ZCbWJlZGlfRHNCWWFaZkp6c0NmZExCZURMNjlJSjBXbjgtUWNERXJpM256WUgwNHN5QnpMenlEMHk4djJHbDlhWGlBZEhZOU5GYk9sWVRaa3BJMHRISDBONGgtSGxnbkxvOV9XVmF5TUNPcjd0RFpEbENXMDNqZzRhTk1CNW93S3l2VnNsdHU4bTRORUtFbXJsQUJXZlVUVmx3M0ZDX1RmWWNCT2N6UTRkR0E?oc=5",
           "source": "The Hindu",
-          "published": "Fri, 13 Feb 2026 03:32:00 GMT",
+          "published": "Thu, 12 Feb 2026 20:16:00 GMT",
           "region": "INDIA",
           "cluster": 0
         },
         {
-          "title": "As PM Modi shifts his office tomorrow, PMO gets a new address: Seva Teerth - Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV01yYXBnNG5vaGVodUFXQllLbm03WUpkeTZaM2I4SjlCSXhfY3VnRS1BWFRRX1RtQms2Y0U3ZmR4cW9YSTYtVDMzT3RKMVZXcWwwLVFpX3ZzTXBUM0hsT1NRcmhHc1ZLTkhtZ2QwRmVRS3BKemhsc0JwaXEtckV2dENwVGZkTk1OZXRWUVhXQ3ZkaVFMR3ZWc0xwdFpBanFDMG9wMlRiMVhmYnpfVjJoZzVYaDF5VEsyTTFYR1VRMEVicjJxMFJ0S2VSVjByN3ZaZThhcFUxZw?oc=5",
-          "source": "Times of India",
-          "published": "Wed, 11 Feb 2026 23:21:00 GMT",
+          "title": "Trump ends Minnesota immigration crackdown, 'but we're not going away,' says Border czar Tom Homan - Mint",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTGtIRk52aGtucXJwR1V3VGhUSTVMMHFnYUZDN19sZFJPYTBBaHVZdDhCYXFINnpGUURZT0ZOOFdqRFhKZlFPMmRLVjM4Q0pFVlM3ZUVlZm5LVXVYSnVwV3loZm5yT0o5MmQ0SG1fdURHbjl6MkpEdjB2X2NySWJ1M2V3TDV3RmlGN2FNNndDa2hhU0ZwRHFINUZZeVlhUWRQNDdNZzI5TjVKR1k2TmNiUjFWNXRjeE03b2FOOVY5TDJhWjFCOVJaandvTERIZjBYMURJNjM2LS1HZ19JZFZ2SFRvdmxFQdIB6wFBVV95cUxOSDlIclJvYXZHbmhRZDRnN2wzZHpMbU1ycHBkT08tNXI5RW1WdEp2bWlHVkZhS295eGpZR29pR2NqcFpjd2owV2xWOTZ1bVFSNEVLZkRTTU1TNW0tOWh2ZnRDYlZYVG1qbE1ZXzJDMjkwc1BtbDN6enQyNnRMMlRqWm9zLUlvMk1rUmJUelBjRUVESjdWVldZWDByZ2FIWjJ1bktxQnpiLWc4c182ZTdWb3BwYzFYQlpObGRfQ01NYVRPWFBFWHNlRUxvSHl0UVBXdVhNaHJsa18zLW95V2VLZzIwV1B2N1J5RUN3?oc=5",
+          "source": "Mint",
+          "published": "Fri, 13 Feb 2026 03:10:35 GMT",
           "region": "INDIA",
           "cluster": 0
         },
         {
-          "title": "Dark Prince to Bangladesh PM: What Tarique Rahman 2.0 means for India - India Today",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1doTHFTZTZXLWFEYzJab19pczF0R1g0WmhTTl94YkxSSU9acklOSU1GUzh5cFRkYzd2VFR4c1lLY1FSbXZQeF9jYU1jOHRlNE9iSUFkU0IzRldkSHM4YnRxSlVEelpTNldaUzRPcldpVDh0MzdMczRxZlVpSTlBS1U3VHVfVkZJQmVTMzZxdmFGVkRmanhjcHEwVmJBU2dsc3FyeU52SjFPbnFkQUpLLVR3T1I2RS050gG-AUFVX3lxTE90aWFOMmdhUFhwRmgzNWZLalh2MFZtNk84TWxqWllac1VkeHkxQkdadkR2SDgwWXBMSm5xU21pQ215MU1mZ01MM0R4Q0VCSm8xUU5LT0h6UXVaaEMtTmZSQk1FdXd3UG1ydm5QYUtzczVZTU9DTVF1QVh3UFVrR3o2T2otVFUzZnpoRUpMeUdQTFN2eVFOem9iWEhBUmVYWkRYTVNzQS1pSnRObTYwVW1KWjV3TU83dldsb2FqZ1E?oc=5",
-          "source": "India Today",
-          "published": "Fri, 13 Feb 2026 06:33:54 GMT",
+          "title": "Apple 0-Day Vulnerability Actively Exploited in Sophisticated Attack to Target Individuals - CybersecurityNews",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42SW1nZWdPejdJd0RlbWlGQmtSZHBZXy1CTjJjMk82bVhVZU42cnNDVHp2YmxraUhGZDYzQzVCYVpGblMxdkVIT2xlaDhfMnRDc1QzejYwMVRXRVRIelRVeHhHSG1DVFFYMjFoVk9YNE1iWlpv0gF6QVVfeXFMUERDNk5Xbm92NEJZMGVVS2pyd2pjRFFocEJBTmtseldCeHN2ZF8xc1NvUDNseGFRZFVjMnBycTBrSnVaZ3RnUlAyeUpJaEljTUxJTXp4SGdaRXFqMmVELVdXMXZsNkFvc2ZWb2VNS3ljZTA0ck5xUTJDMUE?oc=5",
+          "source": "CybersecurityNews",
+          "published": "Thu, 12 Feb 2026 02:42:16 GMT",
           "region": "INDIA",
           "cluster": 0
         },
         {
-          "title": "Delhi schools get fresh bomb threats; students, teachers evacuated | Latest News Delhi - Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlN4THNmTTE2WTFBS0kzQlNWdjNSV2lRV1dBejJGNFl0WlZsNnQ1bkxPSzEteDAzeXpwN1NFVncwQnk3X0hwdjFOTkhid1EyRjlrbnZFcTVRRjdQRzJKRHBkRVFSakdZOEtYY25NYzNZV2k3V252ZEhZSDBSN3JZeC1YUlhDekJ6a3Zhbmpyb1dyOW9TOFFZV01xSWhyOXZILUxWcWV3cUhUdzRIYkYzc1kxYUJmWkgwWjBSdFVHMGdxcWQyNHJvTlg3eVRvYy1EM3F0ZEV4UXJWZzlpZW5R0gHkAUFVX3lxTE9iMkQ4OUlsZi1WVXY5SG1EU3BGNDBlc194SmRHcUtqRkRaLWVzM2hKSkg4dTdTTkJCaTc5QWQyb3FleksyVkRjSW1XVm5udUU2OTdCaTg4eE9NLTQ5WWpISzBEa3VId3BzaUd4S3FZVHh4amM4YnhzSlVPeC1wRjRSQ3dpb0FoV3V5OThrYlZTaGFIQlNSWUtYR2F2VlZOUW15cjNwQ1RxTF80cHJlSGppVWxGMGNWbHNBbVItLVVlSE5IZTYwNHdkN1NHb3JZN0dlTE15SExjY0dQd2tGelNTV1ZfVw?oc=5",
-          "source": "Hindustan Times",
-          "published": "Fri, 13 Feb 2026 04:17:25 GMT",
+          "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks - BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFd5YUI3Q2V4Tk8yMHNKQmVKd3U1NmI3X2M2dERrVnF6dEVvQWExWWFJSmZDMzZZVXp0X0QwYmowU0k2SWQxdFlXTzBhUm1GaDZSVzVPZTU5akJLMk05bzFCVmZBV09HTTF5cTc3QXNYSHJKTnVJUlgyeVNsbFhiT2Zqd2h6OFE0cVhnWG1sSjUzLUpOZ3hFckxvQ0p2VWRnbm50MUZZYnNjWUw1XzNBaUlGRQ?oc=5",
+          "source": "BleepingComputer",
+          "published": "Thu, 12 Feb 2026 01:06:05 GMT",
           "region": "INDIA",
           "cluster": 0
         },
         {
-          "title": "Govt doesn’t blindly release more funds; we follow a transparent process: FM Sitharaman - Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVQ0bkN3LUNTV3J6cGlTN1M3LTFqZ2xJM2ZrOVRZazdMTTJOV2tvR1BmanFIR0JOVWhkdUhpRkR0RHd0c2QwN2xiSlRsVHE0WFV5WkZoLWFMSWd2OEZZNnI0a2Q5MkVxWXhlUGxMaVl0UmN5TXBIRVFlLTNhTFVjeG1pc1czWU5mLVVueDZLR0Q1X1E2cmR1WDRhVzE5Y1YwcjY4MVROTmtfenFzVzEwcjdncTBBZEVsY1Rab0tQV2VvQUxYQm92NEpDTE52Q083ZWZtYU9tMEJId9IB3wFBVV95cUxOai1JNnpRT0E3TzhIYllfV3dhaTRIZmN4dFBsbW16bVVWYVpHN3lOVllzMG9mNnhxbEl2X0dDTU1VTFpZV0NWdi1JNGRfS2J6V0ZHX3FvdlNheFFid2Y5RzlsMWpEYWVZMXhmRVVCS25DUFU0c21FT2pHODJscHAxZVN1dkNnZkd2S0gzbGt6eU1UR3I1VmlTRDNHN0tBLURiSHNHRlU4V3lYV3Q2elV1S3gxeFpxcmZRYzh6Q0FTaFhFZlA2dGZrb2NJT09uTXkzUXZGVTRMWVBVSTBadk80?oc=5",
-          "source": "Moneycontrol",
-          "published": "Thu, 12 Feb 2026 14:16:53 GMT",
+          "title": "Can Carlsen Claim Another Title? FIDE Freestyle Chess World Championship Preview - Chess.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTZ5cjFqT2xKbDVobTJIanRLTnZJWmoyeHFKQ3FmZFc4VzQ0bWlLMDVkNFQ5YndNOGZZR09DV0czcUg5cldrcDVsZS01X1hndURKUkJuOVdWZVYyc2pOWDRpZHFUalFTWHFzV2VYSWdRS291ZDhxVzI5SlNQdUxIdmVCTE5nRmVQd1JxaA?oc=5",
+          "source": "Chess.com",
+          "published": "Fri, 13 Feb 2026 08:29:00 GMT",
           "region": "INDIA",
           "cluster": 0
         },
         {
-          "title": "Bangladesh election result live: Tarique Rahman-led BNP wins majority in first poll since student uprising - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xclZyRlVWb1ZtTTdfUUZTNkJiNFNHek5UQ0pycDhMZDRSZklxeHJDN2V3d1RtUmhIbG9nSFhsZlJ1ZGRBdF90OHFGak1rZUdPbkNFNA?oc=5",
+          "title": "Scientists think an $80M wall around ‘Doomsday Glacier’ will slow sea level rise - Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWNPWVhpMHBMMGFBamg0cG1DWHByRFBtczg0alh6VmtfdlhiZnRsSXNhNlpoYkg2Rjlnd3NzTzNFU2pBUVctOUhCcmo5dGo5d3hlTm15bTNPUFBaaTNmMnV3N3VOYU43N0ZVRndSc3NPMHFodkFFeW9ESldoUjRyVDB0OTJqa1A3TEtUSmxVRGJVUVNtUXpnLS13?oc=5",
+          "source": "Forex Factory",
+          "published": "Thu, 12 Feb 2026 18:12:00 GMT",
+          "region": "INDIA",
+          "cluster": 0
+        },
+        {
+          "title": "Trump revokes landmark ruling that greenhouse gases endanger public health - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFc2JSdE5jWW1JdVFrZlVYcFlBZE9uUnRDZkQ5VEh4QjJEWlB5OHRmOXp4Z1VEcGEzMkxjNmJTRmdqSkFGX3lYcHJ3LTNEWTJocFpmT3dLNkV0S0xC?oc=5",
           "source": "BBC",
-          "published": "Fri, 13 Feb 2026 06:27:46 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "No forced Part 2: Nani’s The Paradise makers issue a big statement - 123telugu.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazdJUi1NYkswMEN4bW9hRER4dlJLeGZrTnU2Vm5EdWZMQnlhc3JRWHEtZ0E3WnRiNUc0QWc2Q3luSnVOWHFZQzJ4dE1Mc2czRjAxdXlGQmVmeG9ncktlcGY1SDdoWlE4Z0JyTzZQMmpORnMxX2dabFpJOE5FeEo5VTByeUs2anRVM2o4X08ybklJTDdlWmtYRXk2UFpYX2J6WFBibkpiLVbSAbABQVVfeXFMUHF4ZjBnZlRXajJUSEd2T0kzWWJydmptVTRfb21OdFhSYndrQ1d2VUZWbFpId2hKbzRpSXVnUFBDSUF1XzlLYkQyVFVHOUxPOGx4YVR4dnYtbDhCZktfdjZfdkR3Sy1kaWE2MVlvbWVzLUxNSVJyYUkzXy1wQWszVVp0Q3lGUEpHRjNWdlhYSXNSZjJOLW1MM1NrRF9qOXNpMnRfSWhQak5aVmJobjJKVmI?oc=5",
-          "source": "123telugu.com",
-          "published": "Fri, 13 Feb 2026 01:35:00 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "CONFIRMED! Balaji Motion Pictures announces Ragini 3; Tamannaah Bhatia and Junaid Khan to headline date-night horror - Bollywood Hungama",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSVJBZUlpYWNlQ0ZGQnFocTR3SVQteHRsRm1TdjNsOU55V1pmTlo0TVRjTmQxay12Rkc1YXh4aEt6TjE1QWFnQWJOS1hGOTZyNTNYRHNkVkVHcWpIUDZGdWVkZlEzNjBmMUI2Yy1Gd0ViU2JNWnpuTUk1MVZVVWtTZm5VRHgtWnltYlFlcGk3b3g4WFRBZ19nRHI1Qjl1U1dBV3BSMkhBVlNkem5Ed3dMSkJDc1BKSm5mQjVYaWtJY0draUN0Nmdwd2RKR3ozWS1MVUhGNU92bGdjVXktZkFWRHV1LVNNTDVRU3FjTdIB8gFBVV95cUxOeWU5cVc4QTlxR3FfMXlfVF9XRk1OZ2EzMnJBY25vX1BDTkIzZXgwOUJjanVjeDl3RVhiam1aeVhoeHBlaVEyNmNiTS1URFVJa2RlN0tyZEpOMk15NnJOR2R3UUxVLVFNWGlqM0dhTjBzY2pWcm94WWpzbW55S1FvaUpsS2t5eTZIVFc2WjMxRi0wQ3V1UFh2amdUeG1MYW9oVkF1U0dQQVhXWExJWkotNHNpeF8zWUoxTi1Qb20wQzd2MDJMUnJENmdCbkh0amhFMTc4eUcwZjE2TkNMTDZjMDVHWnFJVUl4dHdJb011bTRUUQ?oc=5",
-          "source": "Bollywood Hungama",
-          "published": "Fri, 13 Feb 2026 05:14:06 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "'Jana Nayagan': When and how will the Thalapathy Vijay starrer clear censorship? What's next for H. Vinot - Times of India",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNQ1dmdkg0X2xzdExzOWEtazdNMGV0M0pjSVdQZmZHTTNPT2hsQWtvRm9PS2xVdW5lYzhGOWVDMDBJQUdjckJTbFZ6WG9YbU9BSzhEdEJORW1Eb1pucjV3TW9KaWtZNFV5bXJBUTU2TGxxUmRKYTNhSUZzX2E3eko0UDZNUllEeE9KQUtIbXhCZ3llOTRNdk5GLXM5Q1lLUW9OMTJxMXloN09tWFlFRWp3bUdSUW9zM2RfSFBrdHg3Zkw3UTVKZmdncUE5cnpmc200UTI0U3Q4MXhpRkc3UTFCaS1CdkxZY0VZSTQ1czBYd2ljMjJmcVVfTTZNQXVpdkFjbzJCYmVYdTZrN1VkdUYtNVZxdE9NOVJTV1JUNEZjaGVQYUxWLTNqR1FtbEg1Zm1m?oc=5",
-          "source": "Times of India",
-          "published": "Thu, 12 Feb 2026 08:22:00 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "Mohammad Amir insults unwell Abhishek Sharma just days before India vs Pakistan T20 World Cup clash: ‘He is just a...’ | Cricket - Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWpjVVZNb3c3aGxFbVRZd2dWZlBOWkUyWkE4TEhrZEJsQTVrNDcxWkJGdGlTa1BWY2tpZWpoUmFlYU83ekMya044bzNvcmQ1c1RPZ2M3LWlKTUR0cjlZNVlIUWUtTWY3NERGT3l1XzYwdm5QSUlwSGtpeG11QlhNbUZvdWR1UW5iaS1lbU85aFhNbWZMUWkyaVdYSmlaNXNGWjU3NDZ5U3Z5a2g1b3M2b1NoUkpZOEVVYUZnM0JDNzFOZ0Z5eWhBZk8ya1hoOTFORFVMS1AtZHk1MEM2c3h5M2Zyd1RDTGZmZXdWZGduYWxSQkVTeXdIQ256bDFVQlBZbFNv0gGIAkFVX3lxTE9aVkhyNTh3dnl2TGgtSFFSQS1JdEdTN2M4cmVvNThmYi1heTN2R0RyNnozT2ljX3R5VzFqSGZ6ZkVuYXozOW1McTdmQUNLN0VoWDYyMGltWGQyMXZPTERoRXd6YjhXdEFjenNKOG9ubkhvRE05Wlp4b2xLNHRvZGsyX0hLQzNLQTdmbndob2RUSUZ3NzVSdjJBMkZyQ2xQT3ZWcUNKNFVBNjUycUhCZHRBY0FFOHkzdWxSbzgyNzF2WFZhVHVhSDlEcWxTRUpTS3lEdS01clgwLWgtTHRHS0RHU2Nhby1lQXUtLTY3R2dJTmk3bnVReE4wOW94SEtHNlpWZmlNVWJ4aQ?oc=5",
-          "source": "Hindustan Times",
-          "published": "Fri, 13 Feb 2026 06:38:38 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "Anti-vaccine sentiment threatens pandemic preparedness: Health official - Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWnNZVzNMbHM5WXFjZWpqWl9CbXdpVC1qNXBUV19KNlF4LURUZ3dyZGNqRk9Fd1pZY3dyU21uWEJTUEFhZ19FaFhmVWhxbHpwWnUtLTN2amQyOF9kUjNjQlR1X2toekMyVFdlR3NIdXVHZWpuYXNZRUg0SWJxWk9HeDdoNHRRT3pwd1hCblV3VlNMTnE5UUFHYUJPcjZaUlp6V2hCZk83YWljN2dpUTIzWXJ0VHFDVnB1NG1nSW02QnF1Vm1NM3Y0MnFaSdIB0AFBVV95cUxQVU15clIwVXNaX2FDTkV4T3o5Ni1jWi1CNndfOUpaTlFrX05zazRJSzMzc1JrcDZod0M3ZFNRME9FQW1TNmtIU1Z4UFJLV0lLdjI5SzZzT1VJeW5EMWxQTWhiblgzU2UwRW9iTVBpcVB0LTNmQS0xT0FtcnJXQUhfODZzMlRuNTVhSERQbU1rb09QYmlwbDh4Nm1FNTZ4bDlsUUpYbjBfUHpPRDFBLTVTcmRHRFpkUnAzYkhXcnRWR2licVBxU2JFN0lnV3pjdFFw?oc=5",
-          "source": "Business Standard",
-          "published": "Fri, 13 Feb 2026 04:38:00 GMT",
-          "region": "INDIA",
-          "cluster": 0
-        },
-        {
-          "title": "Bangladesh election result live: Tarique Rahman-led BNP wins landslide majority in first election since Gen Z uprising - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13WW1Ka3Q5Qy1JZ2VKNGk1TW9BbmkzZUxPbGVQOTZ5Z20yUmJZb2N5clpmRzZDM2UxcWN0dEl6TmxZUzNqU1FDNFJnM2RHLVZIc05mck42QQ?oc=5",
-          "source": "BBC",
-          "published": "Fri, 13 Feb 2026 09:41:58 GMT",
+          "published": "Thu, 12 Feb 2026 18:46:47 GMT",
           "region": "EUROPE",
           "cluster": 0
         },
         {
-          "title": "Bangladesh's BNP wins sweeping election majority, promise of stability - CNA",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTQzNWx5Ql90d1dlM2hpWVJHSFZ1akM2RlBoMGhDOHFxenZ4TFBzQ012NU0wdGtjQWlkMVhwOGpBdnpVajRsaHFYeWQ4cnRPSkU2MzQ1a211Tnh5Z1QtSkFKOXVLcHZwNFNKZkJkMzZkYzJGblNmVVJCb3lSSjNvVjNsY0JmOXhqMkxmVi1rd2tWTk5WYTU5eEVEdEZucjVFcHRz?oc=5",
-          "source": "CNA",
-          "published": "Thu, 12 Feb 2026 23:21:00 GMT",
-          "region": "ASIA",
+          "title": "Democrats at Munich security summit to urge Europe to stand up to Trump - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDBzSm9hVUhPVG01Tm41LTM3azctSUJoNjJFTkc4aHdrS1dGVl9BZEhweUtTeGVmdEZDb1dmb1Zfak01b2FoOUVPYy1QWVdwRlBIb3VIY3JScUZlOFl3WDVRcTVwcU5JN2pkbldpZ0RveXhuLWxGV1F5SktNR2YxaWczWnB6UTEtYVlnc0pZOTF1dUZxZVRleVZYWEwwUGNrUmhpSjVKeGJGODZVSXNpWHE4TFI?oc=5",
+          "source": "The Guardian",
+          "published": "Fri, 13 Feb 2026 08:31:00 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "Mother of fire disaster victims speaks to Swiss bar owners at hearing - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fTWtQWEs5MWFmNlo4RE5SN0FwMTNRb1QtanNDNG9CNGt6V0t0eDFlNzRpTWlhWXRaUVphTmpGYnpjNllXdkJfOEV3YWJXOEE0bURIQ2hJeWxqQUQw?oc=5",
+          "source": "BBC",
+          "published": "Wed, 11 Feb 2026 14:20:33 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "Ukrainian drones attacked north Russian oil hub Ukhta - The Barents Observer",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDUtVG5HRlMtbURWNTYxMHFLRlZFeFhzczFJYkFHdUVtUTFIbnRXNzFPN3hTWE1Na3F3Q3VmMDFpa3pTWlAxOVZqV1hrSFlwc19CTnlKR0JsQjdXRzY2V1VhVFVXdklwcEN5eXk3SUh2NUlCWUxGaDdodGxienZxLTRiUnpYWjNIbkNPY0dvc0Z5NjdybV93cGc1S24yWWU2SkE?oc=5",
+          "source": "The Barents Observer",
+          "published": "Thu, 12 Feb 2026 08:21:22 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "FTC warns Apple over alleged lack of conservative news - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zbzdkTWpQejdldUtFV1NlSVBTcjh5aUF3YURPZTI2RzdCdkNfNGQyNjMzVFVud1JYaWUzVGJ0b0JOTXlEcFdDUnBacUVsang2UWFUdnFaQ1V5VmtR?oc=5",
+          "source": "BBC",
+          "published": "Thu, 12 Feb 2026 21:57:14 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "LIVE: F1 Bahrain pre-season testing - Russell leads Hamilton on Day 3 | Live text - Autosport",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXB2ZkZjV3duV0xZNmlzMTZKWnREZHlwZWoyWUh5cWVMOVprWThDMHVhOUdjcGxEMnRnb01hU3kzQXpYMnRmUVRXMTRaUnQ1R1RfQkMxVWQ2M2pvb3Z4N2QwMENrcHhVUGNOVTN6Nk5HMDZ5X0pid2QzaWh6ZFBIYnF3YzBGXzRQMnZzV3FTMV9YUnVlQUhNVlVPZm91MVR3cFo4RzdzRnJ5ZndFWWdYdA?oc=5",
+          "source": "Autosport",
+          "published": "Fri, 13 Feb 2026 10:04:18 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "Astronomers detect a solar system they say should not be possible - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03dF9VT01mUlpBMGJjZXd4U1FaWlR2aDZiRUUyTHVtdDhkVUFZYmNVQTJxUGlhNy1QVDU2Q1JQVzZ5bEozeEhrT3c0MG1GdFpIalNzXzk5OFFJblJMaVREX3hhTFVPUkRwODF0WGwxY0NuQ1FIVzQ5OTJ3?oc=5",
+          "source": "CNN",
+          "published": "Thu, 12 Feb 2026 19:00:46 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "The Radical Plan To Build An 80-Kilometer Wall Around The \"Doomsday Glacier\" Of Antarctica - IFLScience",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1JPRVpQc3VTaVdxTmlISFFoYlRrbDRhV0dkaWJRajdHc1RhaGdHdy1ZZmRYdVF0SW5Zc2ZMem5ZQ1laLVZKaW1qMnplMEdscHBCcHhzRmtkVkhaOU1CVTJ4aUxIaEVicjBfUEpyVEVFc214MTgzTXBoNlc4WGNsemlPLWdqRi01YjF3T1NfOVl0cV9Xa2gzVXR0QUdGZGV4cllKRjROdmJfYUlPal90MWhsdmc5T2RySER4bXdR?oc=5",
+          "source": "IFLScience",
+          "published": "Fri, 13 Feb 2026 03:22:03 GMT",
+          "region": "EUROPE",
+          "cluster": 0
+        },
+        {
+          "title": "Scientists Report “High-Confidence Detections of Artificial Objects” on the Moon—Could They Solve a Cold War-era Mystery? - The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUWFjUkdGYmFyV0ZUQ3lBY0Fla212b1hSNzVSMENTcTZKZVlnd3E1c1I5NXp6Y2dvZkNJVFZoaGpvaDVVX0lpNHM0SFJ6QTNILVV0Y1I4eHdHWHVGYmVJUUZTTGtvdHYtUW00VmR6THhhWXlzQ2c0dURvTUk3VHB5bGMxY3ZqdkdaRVo3ZFFJZzRhUk1TY21uVHh2QkNvSXFSRE5GY0drZVNLbm9ZQjBHdFhobzY5Z08tSUh0UDk4RVlTT0hyWFdyeFVZVUc1bjV1RmNvd1hYa2Q0UQ?oc=5",
+          "source": "The Debrief",
+          "published": "Wed, 11 Feb 2026 17:34:35 GMT",
+          "region": "EUROPE",
           "cluster": 0
         }
       ]
@@ -131,194 +251,146 @@
       "group_id": 1,
       "articles": [
         {
-          "title": "Top AI Stocks With Short Squeeze Potential - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGZyQS01NjZZRVJWX0dVUTMyVkRXbTI0LXNvajRhNkVTZWZ2M192UDVnS1dlc21YSmktR0I4Ni1kMXlxTFJGWjhqRTg1bzhLZUhXVTV6bkVQQzNncXdUMVd1eGtNNEVKbGx1elc4VEhzb3VmQ1o1RGc4VlQ5bU90ZTJTSWxuRW50NnNn?oc=5",
-          "source": "Seeking Alpha",
-          "published": "Thu, 12 Feb 2026 22:12:56 GMT",
+          "title": "Former McKinsey partner to lead Australian opposition party - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWkZqQ3ZxR0xLNlcyVGRXNlpYZ0thTWNiNzd1SFFON2JNcEZxNmdYQVlXSVRPRXFlVDJMckFaOXJrLUlRSnozc1R5dy03RXQ0TkFIVi16WDY3M0JSTThfUW9wRFhTZ0Uxem1ZU0VuY2Q?oc=5",
+          "source": "Financial Times",
+          "published": "Fri, 13 Feb 2026 01:27:34 GMT",
           "region": "GLOBAL",
           "cluster": 1
         },
         {
-          "title": "NASA telescope spots the building blocks for life spewing out of comet 3I/ATLAS - Live Science",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWmpXRzdWM00xM3JSQzRFb0VLYzlUZkJLcWZhV0VaTXI5VkJGS3dqMGdPSE9UWXI0QlhWbW8tOVItUGpCN3YxMlo5bDlmV3c4S0xXaUZRNGhSVGVaVFJEWmludlNEbjItdURUR0xZcE14cjdnTGlyQUI3YTF4RkxpMldTUUJneG9tTjEtSm9EclNOU0haLUdkWV9ra2NtcnIzUmVkbmJrTk9icmpuWWlJdzJTR0NvbnNIY2kxUA?oc=5",
-          "source": "Live Science",
-          "published": "Thu, 12 Feb 2026 22:07:21 GMT",
+          "title": "Seahawks' Julian Love sets record straight on how much they knew was coming from Patriots offense in Super Bowl LX - NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHhPR0NGUkJNQXdKUG5jODZYbGZjdDZBNjBwX0lvR1M2RWx6LV9LTGdLZk0wbEJyYlZmS210cGRnNHFGeWtWM05NaEk1TUN2VTdtcVBhX3FiX1JUcko3akpfeS04N25kNHBlU0thMjBENUV1djB5aGpzTVg0SDNYcF8tUV81Wi1SZzV3Ym1PYll1TktKTlljTUs3ak5YSmluWnItRXg0NktpcHBYaUhFRE5YS2tCZWF4NC1iOExYM0Y1dTE2aXQ1eTJaZG56dG5mREU4Rw?oc=5",
+          "source": "NFL.com",
+          "published": "Fri, 13 Feb 2026 01:51:00 GMT",
           "region": "GLOBAL",
           "cluster": 1
         },
         {
-          "title": "Defence panel gives nod for 288 S-400 missiles, used during Operation Sindoor, from Russia | India News - Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSHZtUWN0RlhBVkJUQXZEcE9RNWNXcnpUUWdLSFhFdTQ2VnBmTzM5SWdJbzB1OWxJdzZBUVNzcEFocGp2VmctQmM3RXBWMnNET2ltSWVqd3J4eVZwN19UdkxsVUNKYXY2Q1gtQmZZWVZZMU1mcTBFRXkzNlVaTmdrU1Btbi10dHVmaWpYTDdKaHlWbmFYN3hSbGo3ZXZDTUsyNmtGb3o3SFcxYlpkVlRkTzhhQXZITGZPZ3VHZUIycGpSNFhaSXoyc1g1T0ZaVjdJQTNDNkhjbi1LdlFVTEEtLTNCQnBlUdIB6wFBVV95cUxPZHVZdTI3U3N6ZG4zUFUxSHlzMDNpMVg4LUVIZDI1dC1DdWlkUVA5NVJwMngxSmVVWW5zLVdwRkFKcnpObWN2anQtb0piX19QbWFmWjVRQzNGTm1reGtrVmdMYUZva3NydmRiekVqNlR4Y1dfVVMyYjF3V014d1EzVVFjRHNHb0VXYXlOU0tzeEJFUVVndjc0Q3Zudlp1Z0VYM3NaaWhDZ0x6bEZRa241X1hudXdXdEFXajI2U01aa0Y3TkdVS2dQNENYVjBMS015eEpVT211SVRWZFE0VXVQOVhlT01BVWE1eWZ3?oc=5",
-          "source": "Hindustan Times",
-          "published": "Fri, 13 Feb 2026 00:34:44 GMT",
+          "title": "Coffee or Tea? One May Be Better at Preventing Dementia, New Study Says - EatingWell",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CcENJMXh2REwtb2JVY2NNOXlYNXA3UGZ6RFBjb29faXplRFV0ZUdUMzVBQjlUUzZTMzlrbElOeWxjcUxaNzhSU1htSFAwekszTVdaa3VVWEpROGp1bEkzV1hNbEQzMGpWNmh6cC13?oc=5",
+          "source": "EatingWell",
+          "published": "Fri, 13 Feb 2026 00:55:37 GMT",
+          "region": "GLOBAL",
+          "cluster": 1
+        },
+        {
+          "title": "Curran drafted in after Taylor is ruled out of remainder of T20 World Cup - ESPNcricinfo",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEtfMlVheENNOHJmeENPdzh6N1dhQ3B1akZmaS1RVWpXYWwyanRTal9RaGZQRDZnS3RZWXBGTWliZXAyYW1VdVpSLVBxNWpreHV1R3hwX3kwbDB4MmJxX0FHa2o2MHVhV3lrYTN3QjRuLUUzbjlGSE1uLVRNeTB0eVhRS09RWjNsVHgyQnpNVWNEMkxKa3BKM2d3NVY4SHhMY1hvUjJTSEVvR3RqelBPVkVZWVgydHFoN1N5MWVKd3Q4djdpMGlQUFZmUGQ1bkEyeDBZcWln0gHnAUFVX3lxTE9RNldQWXEtbEZEeExrdG1Ndk1qaXo5aUdzcElNenBaeDc3cVFIX19NN0JvUDdJNC1UNzBCQ0F2bUhWZTlpNHBxRmwtQWx1M2Y0RVQ0b2xfOFZIaGk2RExVLWVoT2k5NmRyTHIyTG04blZVWWhpZGJOcWMzd3dFV2JhNDFRRlFQNWs3Ql9ZMDZpaVNFSEh3b2dpVUlYUEdWMnRaRlZHa3d6TGZwSXBkZ3FZanlubjlhRVl4a3duazhXX2JDU09NWTNCN1dyalcxNjd3NndjeGdLOWtGTzJIZjJiMlFjZWlqNA?oc=5",
+          "source": "ESPNcricinfo",
+          "published": "Fri, 13 Feb 2026 07:04:53 GMT",
           "region": "INDIA",
           "cluster": 1
         },
         {
-          "title": "Bloodbath in IT stocks: NIFTY IT tanks over 10% in 2 sessions; why is the rout intensifying? - Upstox",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMEZDVGg2aF9FTnh3MHZSOFpDMGhFUkZTOG5uTkhFUWg0ZmtCWWtkUTgxeG9jZ0pjaTRGd3BYMm5udkpkN0w0UkJyM3J5cXQ2LXNrLThFdXZhbndoaDRKWUZTRjZjZmFNNllpUE1MeEFDc2hHUDNIQTRCamtWRGstRml1MTZIenhxLWl3amlXNk9kTWVEandFMEEtM1YxSHJCUTZRcDZWMElhcXhpOEJXMjBVUENqT2ticjNTZkhmTUI0Q2Zqd1BRaC1vc0N6Zlktd2NINGZJUHMteXNuUTdjag?oc=5",
-          "source": "Upstox",
-          "published": "Fri, 13 Feb 2026 04:25:00 GMT",
+          "title": "Where’s Joe...? Poms slump in huge World Cup boilover as glaring problem exposed - fox sports",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1RhVGV4dWE0RTllZWliRklJcEllUFZra1Q0VWpnZTNjaFRVdFJRSDhDaEYtMlc2V3haYmQ1SmY5WDEwUHduaGpIbWxPcTVWV2lZUUdxX1V1N2x6eWM2NFVVMmhoeEtxNHpDMjNtVkEySmtPN0lUczFzbkUtOHNSOVJpbHhVRFhoNHhHM1huWjJqd3VDQWZVaDJ2TGVXUVV5Q2hQN3pfSl9QUzduenRLZkVUbjVCWk1pU1hBSkgwMjY4YTJFSE1QUWNQSnhaTVg4TENjZ0VveGZEZ1VVNmFEOXZxRlJ6aGZnejFDeHNLeVU?oc=5",
+          "source": "fox sports",
+          "published": "Thu, 12 Feb 2026 01:22:06 GMT",
           "region": "INDIA",
           "cluster": 1
         },
         {
-          "title": "India-US trade deal: New Delhi's trade surplus with Washington may cross $90 billion within a year, says S - The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMzVtUWR4U0EwcmF4bFY0ZTh0X1o5U3I3VDJHcmVXRnNDdVFZSVd1VDRCenBNdVduNGVMMEUxVExBckZfUW4wOEQ1WkNldDBCTjZjYUMtckJremQwRElHbTFuU3BldENLN0phTGlHYWRSVlNiMmhwWVduSndDcW43QVNfMHVHRjVuRnc1am1hck04ZU5FeTYtWTJmQzhab1F5S2M3dTMzWVRfREpFa2RuS3dYb3p5NmtRTHNBUGJaVGZoTGgzcF9YbkRvaEZDaENQejhQMTAxY3M3R1hPaVlyaVpSMUNSbXQ2aVNBR2hrXzhkSktjRXV3b3hUVGhYMm13TzdkME83N25JVER4YmxmcjE4eHB2Wjczd01ic9IBogJBVV95cUxPLWNQLWxlckNrVlViLVBvWUJLbzJ5ckF6cnVfcFNRenVjRVMzNTNzc0F3RXhyckdiYkRibHdBVS0tM0o5bkFQQTM3UWNLZkxJUGJNM0Znd1l0T0ktbTNPdU9ZNk9JRzJjajVGQmh4WlgwdXpMc05weXVDUEJVUVFHUnY2bHprRDRDRUtRZkZlM21jRDg2SzFpbnFoelVkbnFic1gtem9hVE9HOWZiRUh0TnZjc09VaHY5emVXcW1TWnNEcXF5TU5jMHlLVUc2QkkyYWdqc2FhWFZSTldRR19aVEd6SkxEcUpkY01yeTdiaGptVEQ4b3A3R3NSTWpFOEhCUS14MnQtSmpSVHQtZ1B3cVVrSW9EMldBOUxtcFRPMVc2dw?oc=5",
-          "source": "The Economic Times",
-          "published": "Thu, 12 Feb 2026 02:57:19 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "ONGC Q3 Results: Net Profit Surges 23% to ₹11,946 Cr, Declares ₹6.25/Share Dividend - PSU Connect",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ25lTU9lRzVfNVROTGVEMVhRZng5TDc5b1E4MGk2WHJxS0Zhc09PSkl3Y2N0bmstamZyVjRQN2h1ZDFZVGdLcnloS3pIS1l1X1Q3aW9iNzJpeVBrbFhCMkJrQjl0VURTVGRyMEg1RHVpOTNIejlWRnpydjk4QzNaS212VkxPb0V2M184eQ?oc=5",
-          "source": "PSU Connect",
-          "published": "Thu, 12 Feb 2026 18:00:00 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Google DeepMind's Pushmeet Kohli explains why India is in perfect position to leverage AI | Read full... - Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcExES3ZvdEVxTlJTeXROSkxYbDBwM3NGbVNzY0Z4djl3OXQ3TE5XcFJGcDVnSFZyRmtPVG9Ubld0MUFvVjNtc0M4cHFXbVg2bktLekxOa2pIc19iOFJxNEZyak4yMHhNcTF2RTA3SzhET3U4SEQzbGZoR09mRzRsZ20weGlIeHE5S3NHblEtUWM4RmQ5eVFqRE9sUncyV29DQ1o1NnFRRnBaSjFtRFFqb2R6Vk9nVVZBSHpya2NFWGZXQ3VYTGRjYWRnODhQOUN1X3hKRUpIUW9IWXNHUDY3MGNobzd5aHd4QXZtUFluYVBjZ0lscHE5MndSWnV2UW5tS2ExOWFRZWZQZ9IBjwJBVV95cUxNeDJOSUNjYWROcVo3Ti1ZTFN5aXVPb1RGaUN5VG1LY21DcWRIRThMeW1TRFNENFBkdU05RDNVVF9NWk5OcWhudG0xVFY5d0ZMa1h0VUE5aHZ1bzF2SVhfek9HbWwwUjF0RzFCcWRVaHdnajNXNjFXbHhseXBOQmQxNExCajV2MmRPR2YxOUx1Q2dLRnVMTDR5SUlNRzZfcUdHaElBS3ozNW95ejhFZ0E2OVFmc29EQnd6VUhKS3pEZ28wNWZiWXhxdlJuUzhMR0hxRkowdjVMY1dBQU5BcDNxOFc5R1RhSkFzUkZ6ZDRjUzl3UW84X0FtVzkwdnNYb0dhQk00WDJlQmlFb2oyLXhJ?oc=5",
-          "source": "Moneycontrol",
-          "published": "Thu, 12 Feb 2026 07:13:09 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Gold and silver rate today LIVE: MCX silver, gold prices in India gain. Will this rally sustain? - Mint",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2hKalFCSzRlRzB5WjQyb1VLM1lrdGRQQm1lUWsxeGlDQ2gzNTFTNk1EdmhEQmt6c1ZicFM3OTM0M2NaRy1ndEVmZkRxY1hoS2RyWGxpWkI4dWFDc2lxcldxeVcwRXR5VWsxQWpJMTQzZmRMVkpjdVNWNWpEOWdHa2R6RU5pWXhMSVFFaDMxdkV3Uy1jYVJhcVk3ZnhqVmhpNVVqZkdLRVQ0TjEyYmJleTEzTUV1Z0ZSWGZnNEJSdnpQeGJrNTJFZ3Qzc2ZTWTdKLXdrOTRidy0zbWs?oc=5",
-          "source": "Mint",
-          "published": "Fri, 13 Feb 2026 09:43:49 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Scaling a startup: Why you must focus on the ‘who’ as well as the ‘what’ - imd.org",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDhndENHajdaaXk2aHR5Y0xhQXdCeXNnb0VIOGRSa2d6QW94Y0dEb0VmU0EyTW1qWHc5ZVJGVUZqbTBuYmxfTFJnOEJNYWE0aFUzcC03R0EtNEVUX0FKb1FadlpTMDk5cjVJNjRtN2tvYlBnSElnM2xaY1JUZjM1SWtXcE9VbkV1bW1NMFpCSW1yR3pQN3BteklCWmRramxpU0ZpVGFHUUEtUQ?oc=5",
-          "source": "imd.org",
-          "published": "Fri, 13 Feb 2026 08:04:35 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Cyber Model Arena - wiz.io",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUNGgwUThaN0VBTG9tWUt1ekFZMzBYcHJ4Y2xOZDVjemh1YlBEM0FCX1F6MTdCWjM5VERyaUpsWV9STzhPX2MzYWpDWEE?oc=5",
-          "source": "wiz.io",
-          "published": "Thu, 12 Feb 2026 15:39:56 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Voyager: How Nasa still talks to spacecraft that has left Solar System forever - India Today",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb21mY3NSQWwteW9xcDdjT3ptdmhIaUlsVEhNZ2E3MGRDcTFyNFI0Z05nUkl6QlNpWGJwYjZuaEItRmdhR2Y4N0tfUW1JckRLVXlnR1luajB6U241cUdwNlctcVlMRDVWQWhINF82eW5fQ3RQWFFUa3NqU1Y1bnhmRVFsRVZZRGRjdF9Mbi1HYVU0RHkyOERFOGNUV3M1WmlFQXR6RlBSMDRGUE1mT21LeVIwOFhHeFdlaF9PbzNWSHRtcklNQk8wb0ozWFlzdTlTWEHSAdcBQVVfeXFMTl84ZTY4bDA0aFlCb05jLVNaamV0UWd1N1BMTHJVOTFoWklSZHQtQzE3enA0TWNYV0x3ZWxtVkNEcDR2QmpicjQ2dnN4NEZGVzlLTzQ0OW5nWUVsNjA0LWJNRTNydDJENmNCTU5HbV9WdnRUMUdvTm5qOTlNS1JsdVdzajl0QUswUjZQUnZhYWVjYTBSRTZ6UlRQekFrV1RsTGNuckRmR29OOUtwWGJxZ2tXc1hJSkVpS1ZES0VVYmZsMlMxVjMwUC1yMVJNbURfVUJyMHFBNmM?oc=5",
-          "source": "India Today",
-          "published": "Fri, 13 Feb 2026 07:16:22 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Exploring air–sea interactions in a regional weakly coupled data assimilation system: An observing system experiment for the 2023 Indian Ocean monsoon and Cyclone Biparjoy - ESS Open Archive",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlelBRUUw4Rl9SeTlMenpIZDJkazNyNmNJTU9mLXBnQ3ZKUGdBVWRoVzUwa2xXOGxPVEN1ek9CcEVhbjJLUkdBV1oxMlgyZHdBWWQ5UE9ESWtEUVhvSU5NbGpaMFVUeUhJOWFsaHItakUtcldSQkQ2a3VzSmdEQQ?oc=5",
-          "source": "ESS Open Archive",
-          "published": "Thu, 12 Feb 2026 20:01:35 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "This tiny protein helps control how hungry you feel: Study - The Sentinel - of this Land, for its People",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGhqeV8tTkhXNW1xU2hzNkJPSDB4ZWZIblp4cUVjaFdPYWRLdlRkMGN3NEFscWMyNFlxa2d2eWNTME90Q0JMZUdhbkZCY0V3OTVzZElnUnNoeTN0WDF0Z0VLVjFvN05lUkJmSTZJOEN2RnNRbjBPd2xQNW4tWERSZ20xTVp2ZTU4b0lWS005R3Mzd3JrZ3prTFJXZ1dmTGZoZEQyRtIBsgFBVV95cUxPZjhaekJ5WGloYWJWdzQ2dGpsS2ozV29jaGpKeEpwRnVjZjBudjByZXRBUXY4N3ViVV91UDk4bXhQY0Nzb0xuZjBvZHlibVFVY3hpTjIxTEs3RVNSY1oxWENCa0g3TjhIeVR1RXRRRXhveXNTYnBOQ0VRQ0djQm1VZnR3ZlRqSzVRUmVEclM1dFBVNm1BZDB4aE1pSU1kdTNmVVY2c1RtOUtkYThDVXFNLXRR?oc=5",
-          "source": "The Sentinel - of this Land, for its People",
-          "published": "Fri, 13 Feb 2026 04:43:53 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "Scientists think an $80M wall around ‘Doomsday Glacier’ will slow sea level rise - Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWNPWVhpMHBMMGFBamg0cG1DWHByRFBtczg0alh6VmtfdlhiZnRsSXNhNlpoYkg2Rjlnd3NzTzNFU2pBUVctOUhCcmo5dGo5d3hlTm15bTNPUFBaaTNmMnV3N3VOYU43N0ZVRndSc3NPMHFodkFFeW9ESldoUjRyVDB0OTJqa1A3TEtUSmxVRGJVUVNtUXpnLS13?oc=5",
-          "source": "Forex Factory",
-          "published": "Thu, 12 Feb 2026 18:12:00 GMT",
-          "region": "INDIA",
-          "cluster": 1
-        },
-        {
-          "title": "How to deal with the “Claude crash”: Relx should keep buying back shares, then buy more | Nils Pratley - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZWw5WVFGVjlRRHRTVHhJcTFXQ19EeUl6U2p6MXU5MXY0TVRpMGJRV3FEM2RzN3JfbmdHVDdsWlQ2Z2pHNnNLSTRkLVNDTEl6QU9obVRwNVYydS1oYXZuaU4ybk1IRDU4cHVhRmdyOW5OOElmTVBrYVpSQzlUN0hKdFZpbkliM3BYYTdCRG9FYUZ5QTJKT2g4SGtyY3J5ZGhkNm1oMlVjVEU0Zmpt?oc=5",
+          "title": "Reeves urged to reassure MPs over public finances amid £6bn-a-year Send costs - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWpXMF90aGVWdUI4ZkRDbUtKR2ZXeEF1V1BZTng2WGVkeG12VGJXQ2lxUHN2NDdid3VVLVVPeG1MZllsWTBVMUd3NWY3ZmJncG1TaXROQTI4SGdFUEJlR2tPRm5SS3E3X0txTlhEODU2VVVYTFBlQkRQMHpmZ3Z2X2E2RlBrX0dTdnlEX01DWmZtSlMwVEgyRlJTejFoMlFDa3Bz?oc=5",
           "source": "The Guardian",
-          "published": "Thu, 12 Feb 2026 18:19:00 GMT",
+          "published": "Fri, 13 Feb 2026 07:02:00 GMT",
           "region": "EUROPE",
           "cluster": 1
         },
         {
-          "title": "Argos is back with another massive Big Red sale — I've picked the 10 best tech deals with up to 50% off - TechRadar",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQjM0aVY5MjljWmxZOVFOZU9tWWVmek9KUmZNV2R2MnRJZGJLNkZ5SS14RElHd0J5R0pOMjhib3NoNlZhT3N3c1owMEhwSVNzTUhtdVh0cUtEZFQ5bHVHdGllM2tJa0ZFbFhkaUw4WlJrUklteW8tTVEwVDV2OUcwbjJuYjlwTVBnY2E0MW5nNG9DRWltWWJDRVlJMnJKNUhYblZlazBHRDFfVU9MWENtbFB5czBqUm5fVVhldTkzbGd0Zk9JVDYwMzhtN1hOeXRJVnZGeXdNNHRJQ0R2eXNGRGtB?oc=5",
-          "source": "TechRadar",
-          "published": "Wed, 11 Feb 2026 16:48:10 GMT",
+          "title": "Labour’s love affair with Europe has run into big and unexpected trouble - The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTVvQ0pZb2FiSlRpbXdabUY2bFdLV3dUcHE0VTFpRTQyWkFKYzQxWnFjTVFEbGZFN1o1emtZZHBfakpINFQzS3dVaVF3c0U3dXhzNFpEeDlHQmpaNlgwX1pZb2tJOWlpaXgzMVRKVTBCTnF3VGlpZkl1eHFITXA0OXZsc0dISExIMWs1YUpGVVpaMVp6Z3U1alFkS3llOWZjT1gyVW53WGVpejQ?oc=5",
+          "source": "The Telegraph",
+          "published": "Fri, 13 Feb 2026 06:38:00 GMT",
           "region": "EUROPE",
           "cluster": 1
         },
         {
-          "title": "The Radical Plan To Build An 80-Kilometer Wall Around The \"Doomsday Glacier\" Of Antarctica - IFLScience",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1JPRVpQc3VTaVdxTmlISFFoYlRrbDRhV0dkaWJRajdHc1RhaGdHdy1ZZmRYdVF0SW5Zc2ZMem5ZQ1laLVZKaW1qMnplMEdscHBCcHhzRmtkVkhaOU1CVTJ4aUxIaEVicjBfUEpyVEVFc214MTgzTXBoNlc4WGNsemlPLWdqRi01YjF3T1NfOVl0cV9Xa2gzVXR0QUdGZGV4cllKRjROdmJfYUlPal90MWhsdmc5T2RySER4bXdR?oc=5",
-          "source": "IFLScience",
-          "published": "Fri, 13 Feb 2026 03:22:03 GMT",
+          "title": "UK weather latest: Arctic blast hits Scotland and northern England with snow and ice warnings - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CaG43TTEyRDJfYnV4QTN1QUl3bEk3ajFrRVhkdm1ESnpoYWg0VGJjUWFSWm8wN0xqS29OejdSS2NiUFI3M0Z6U1VGcDN3R3hHNERqRjhZUQ?oc=5",
+          "source": "BBC",
+          "published": "Fri, 13 Feb 2026 10:55:58 GMT",
           "region": "EUROPE",
           "cluster": 1
         },
         {
-          "title": "Scientists Report “High-Confidence Detections of Artificial Objects” on the Moon—Could They Solve a Cold War-era Mystery? - The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUWFjUkdGYmFyV0ZUQ3lBY0Fla212b1hSNzVSMENTcTZKZVlnd3E1c1I5NXp6Y2dvZkNJVFZoaGpvaDVVX0lpNHM0SFJ6QTNILVV0Y1I4eHdHWHVGYmVJUUZTTGtvdHYtUW00VmR6THhhWXlzQ2c0dURvTUk3VHB5bGMxY3ZqdkdaRVo3ZFFJZzRhUk1TY21uVHh2QkNvSXFSRE5GY0drZVNLbm9ZQjBHdFhobzY5Z08tSUh0UDk4RVlTT0hyWFdyeFVZVUc1bjV1RmNvd1hYa2Q0UQ?oc=5",
-          "source": "The Debrief",
-          "published": "Wed, 11 Feb 2026 17:34:35 GMT",
+          "title": "Keir Starmer set to call for multinational defence initiative to cut rearmament costs - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SzJwY1FIdkRUbU41d0JNeENNTldIYW9QWGZjYzB1NzVsQ1VnRFIwNk1FeXkyUU5HZVNZOWc1VUJlQUtnd2plUXFkdEV2aE4wU2dwY2w1RVU0MEdlZGZYQVZxN3BwZFFMWnFHeGY0Nzg?oc=5",
+          "source": "Financial Times",
+          "published": "Fri, 13 Feb 2026 05:00:31 GMT",
           "region": "EUROPE",
           "cluster": 1
         },
         {
-          "title": "Jupiter-bound spacecraft turns gaze on solar system trespasser - The Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEFkOTJIVnRjQmtPZ2V6V1ZsVDV5bmlmaFU3OFIxbmxoakhubzEzYTlHdUpiM3phaUllSWNjc1RRMkw0Q1dHMVhLZ1BlUXd0RXJwbTRjTEdPcVF5Q1gxMC1XZVlab3NVLVI5cEpBTkRMMGwzQ250b25XR3Fpb19sZnR5U21kcXNEOWNpMmpQVllrUW1oTy12NHg1TQ?oc=5",
+          "title": "Global beer company with 500 staff based in Scotland to cut 6,000 jobs - The Scottish Sun",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY095LUVIVDlucmFPUU5SSUZOc1ppMkRiYUF2UVUycV9NQWlTZkt5QlVhWU0teUxEdHVhdTREcGZkQU0xdjhwMUQ1RTRWRjhKQ29SZGg2aG5TaERCMFA5UjZ3QnZjSEFjV1pMeGViNlpnX3dfR21vSjNueUR5MG45elZZMWg4dzZfYU5GaklhUQ?oc=5",
+          "source": "The Scottish Sun",
+          "published": "Thu, 12 Feb 2026 08:17:00 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "I’ve visited hundreds of London pubs and these are the best five. Cheers! - The Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmZvR3cxenlKOUFpa2lacGc5TlNCRGpJdjdVcG1vWklpcTBhSWNQM2JGcENTWlpqYVg5Y1oyNzU1X3poYTd2MWtfN2FXV1NuQnZPblNhVlhoRDdPV0RaeHk1M01uSExQZTB4UUNiV0tEYlo0a3VpOGR1OXhCUzI5VVhQckRqeDJBMUc1RVNzczV2ZXlMdDNJODFiUU9aY3M?oc=5",
           "source": "The Times",
-          "published": "Thu, 12 Feb 2026 13:40:56 GMT",
+          "published": "Fri, 13 Feb 2026 05:00:00 GMT",
           "region": "EUROPE",
           "cluster": 1
         },
         {
-          "title": "NTUC to roll out AI training pathways for workers at all skill levels, subsidy for AI tools - CNA",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0l1cnFEYi0yM0tiNlJ4Si1qdWtTQ3ZYcG5KWUt4Ukw2OUotRmY3WUZJSHpFWEhQOTlocEJMRDFzSExCY1RwbG5sd2JQdWNYeDR1aThQZ3FJZEVBVFBHUVlXUHMxRFJsRWQ1Vzg2ckJnZGJZOGJJU3ZFOGJlbDh1TTNIZEltZlBZaGRqc2h4LVpidXZySGFlNUR6c0MweE1JZ1JhZmVWSQ?oc=5",
-          "source": "CNA",
-          "published": "Fri, 13 Feb 2026 04:00:00 GMT",
+          "title": "Steven Spielberg donates $25,000 to James Van Der Beek's $2m GoFundMe - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FQjVJdlJITVg5ajFKRDBKVlZYY1daS005QWxFQTUwS1BMZ0U1QmNabjJOaTJHTmFpdXV0azZnTnBkMEc4Y2xMNEtfbDRUMHZuV2pRamp1a0dVMmx6?oc=5",
+          "source": "BBC",
+          "published": "Fri, 13 Feb 2026 09:40:18 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "It’s Never Over, Jeff Buckley review – a sympathetic, urgent look at a life cut tragically short - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hvUG1sMVVkQWpQQ2tiWkpnRUY5eVpSSG5kWmpKdUxOWTlEaGs5UnpCTVFIZExxS3J1eTdUX1Vmb0VMQmRfRF9DMXFPTlRqcEMxTXJQblJEUllQRnBxMGRmZ0NkcWdYeXhlRFdkV1g4Q0RQOEp3cTVjb1B1S1M3MnprVUFyalU0LVl6czlmUDNQYjV5QWduX3VsYnVrLVhsaV9abml4eDdBR2lyQjdXVktXbTByS2xRSlFCZDk2SHItZ092VXUwQlktVm1zTUNaWFE?oc=5",
+          "source": "The Guardian",
+          "published": "Thu, 12 Feb 2026 09:02:00 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "Chelsea XI vs Hull City: Predicted lineup and confirmed team news - London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0xRaHVTV0pwdW5ZUms0a1YyankzdHR5RFlFRjdTbDdMLTliSk1mYVhZeFpaUTFnMjU5YmQ4TXdTSWpwcThQemRlczNwZnZHd2xtMmVxQno4cEFKS0pNQms1UWFMVFNhWVFYVTdrNW9FZ0d5c1FfUEo5ejNqMjExRDNSRjItbTZvckdJZ2N0d0NWaW5POVNyU3NBaWZMLW5MenBGVU5VTEFxVXB6cnAtMUZjRjJ5bllaeVBvX2ZBZ3hrcWYxcExJVXpWVUNIUVl1a21kLTVRYUI5T1ltbTkw?oc=5",
+          "source": "London Evening Standard",
+          "published": "Fri, 13 Feb 2026 07:32:24 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "Arsenal: Will Arsenal's end-of-season form haunt them again? - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVnBsRGFBakhNTnVnNDBWUkVmTnp0aGFobkFFbm4zSzU3emg5YzloRk5wTVJOTUowYm9zQWZ1aEJpQ2k5ZmotUGdGU3p5Tm1KQXFyTVNVU1preEIxRlRnNF9HT1QxQ1E?oc=5",
+          "source": "BBC",
+          "published": "Fri, 13 Feb 2026 00:21:08 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "More exam stress at 15 linked to higher risk of depression as young adult – study | Exams - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUZGcG5rMldqbm1FOUdrZGc0czBQZUE3WFVJZ3B4cDcyajNuZk1DbEM1SUJ1bzJjRzRod1VZdDVxUllyUVRYOHhWcmxwZ2VLX2Iwb1lKOEt6QWtwOFdzQThKb2w0ZzJqOThJa0xDUUtOYnE0RnYyR05ZbzdBTjNyTjhmUmZOdC1ESVRxTWYwRFZpR3l2eFB1Qnk0bno5b3pKUlE?oc=5",
+          "source": "The Guardian",
+          "published": "Fri, 13 Feb 2026 02:30:00 GMT",
+          "region": "EUROPE",
+          "cluster": 1
+        },
+        {
+          "title": "Brentford 1-1 Arsenal (13 Feb, 2026) Game Analysis - ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lemNKN0ZPeU1LQjZMR3d0TWVRUUhMZm4wTi15VU1KbWV0Q180Q2g2bGw3ZV9FWU1NZW8zT0ZENlRFQVgyMXNKcHZYcDNUc3k2bDBwcW5GXy1hMG1GMk0xMU9oOGRrQQ?oc=5",
+          "source": "ESPN Singapore",
+          "published": "Fri, 13 Feb 2026 01:07:30 GMT",
           "region": "ASIA",
           "cluster": 1
         },
         {
-          "title": "Banks drag STI below 5,000 post-Budget, but analysts see ample ‘fiscal dry powder’ - The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0pwS3hfenBLRGdBU2E2MUNwREU1ZFR5akJxaEJ3bFVtd2JmZlZETHl6TXJ4Z1dIdHdSeWtrT3I4VW9XNngyNW9ZSUVLRHdRbGFIbVBLMWhnQnRvelhZWm1lay1UdWdKdnlTUUJpWERfRmxwUHk4blFGVklwSlpwbGM4NjBzdXRKWjIxZnVMQWowcS1BMGdZOU5jRjdCdEZYaTVNa29jeFF1Y25zblp2RFRaZ2lwLXFQbEhCdVZJV0xjYWM?oc=5",
-          "source": "The Business Times",
-          "published": "Fri, 13 Feb 2026 01:36:00 GMT",
-          "region": "ASIA",
-          "cluster": 1
-        },
-        {
-          "title": "Ajisen Ramen operator Japan Foods’ lead independent director investigated by CAD - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzBqWDIxVVgzWWhIdGdiTTB6dlNDQnp0TjZ5MDk5TWlBRUZVczJGUG8tX2lKRkpTa2VrX3JFbnlNVXlSTGhLTElUc01BcUxtNmtFUFpLZEVMcUdMc0M2LU9PUGdvSlI2RTN6VFZNOXBGY2M2Yy1QQ0x4Z0V5Z1o3bGNuQVJLcUhvV0JLa3FNbDA2czJicklzQm0xSzdoeWF0S1hDM1lDREJRVU5TRHlfQXkzdGt6MW1FT0ZaRnBaN0cxMUV3Z2cwNjdRQUI?oc=5",
-          "source": "The Straits Times",
-          "published": "Fri, 13 Feb 2026 02:38:54 GMT",
-          "region": "ASIA",
-          "cluster": 1
-        },
-        {
-          "title": "Announcing ASUS ExpertBook B5 G2 - ASUS Pressroom",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xMEVQU2MyWHVTSFRNTmxpci1EOVBJb1M4cjlKUWhmNkhzMy05UHBLaEkxeFNOLVRhTGlHbC1rYXNMXzB5MmhVeVZDQS1zaUNYUk0xQmpsaDNySXZiS2RnX19feWFWSzVUMEFxZ0Y1RUdISVU?oc=5",
-          "source": "ASUS Pressroom",
-          "published": "Fri, 13 Feb 2026 02:26:20 GMT",
-          "region": "ASIA",
-          "cluster": 1
-        },
-        {
-          "title": "RSIS Seminar by Professor Stuart Anderson - S. Rajaratnam School of International Studies (RSIS)",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OLWlVOFBaVjFnOE5zazMya19RbExpcG1rVDlrZUJXeEQ3MmV4UW55RXk2a194czhFYmlTSnY0bi1Ub3pjclRJYQ?oc=5",
-          "source": "S. Rajaratnam School of International Studies (RSIS)",
-          "published": "Fri, 13 Feb 2026 08:12:53 GMT",
+          "title": "Raheem Sterling joins Feyenoord until end of season - ESPN Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDRkRk1mMUQzbkZwRUJmQlY5YzJEUmo4anNPNFZkU1M5U0JfUkRlb2V2NFFkLXJGRGEtbVp6cURxWVhRNTN2NWs1LVl6S0tLbWxsXy1CX0V2SzBPd0VLRmZhbERNbmxYeW1pMFNUSUQycnFZY0ZlLUROWWh5bXNMb0F1RmthR1p5dnF6Q3RnVTl6Vk5YNDV0Tg?oc=5",
+          "source": "ESPN Singapore",
+          "published": "Thu, 12 Feb 2026 23:55:58 GMT",
           "region": "ASIA",
           "cluster": 1
         }
@@ -328,146 +400,178 @@
       "group_id": 2,
       "articles": [
         {
-          "title": "Resident Evil Requiem Trailer Reveals Leon Is, Sadly, Once Again Infected — And Another Returning Character | Sony State of Play - IGN",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVRreUZ0TTVxV1pFQklPTmFEMXFYTWNvX25oUGtBSVJfY24xcmh1eEl2TkZQTXNDbGNNX05SVkRJZjlGTFRzWW1xSFJrZDhaQW5PQ0FFdk5mc2JLdjg2SktSaFhqXzVGTEhXNVBpbjdVaEFBbHZMMGE0Yk5tcmo3VHYtb0pMNVpaemRWTjJlaXhYQkdvLUh1b0NTUUdBZGZ6OFdtZnAxM3o3aWQ0LWV5a0hsXy1nb0Y1Uk9lTm1WV0pFdFFIRExXZ1UwTDZiQ1FXM3FDWEZUb0FfSFplc2NmamRObEhpUQ?oc=5",
-          "source": "IGN",
-          "published": "Thu, 12 Feb 2026 23:58:27 GMT",
+          "title": "Bangladesh Nationalist Party claims victory in country’s first election since 2024 uprising - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTA4b2dlUEsyR0cxdVpvZnlpdE9xaVkwSmdlQVBRNElrd1p1aTdGMS1GUEd4My1Cc0EzVG1TN3ZmNHJ4YUJWUlZ0em5xLU51UXVFa3FjLVpwRF9sLXk1a3NySkJZaDB0TENNckc4c3YtbkVIYTByX0wwejQ1Z3NoNVJoclZldlhIM09md2Nqb3JLYm9TWk9sU1M0cHVRMEhrdkg2RlAtZGE?oc=5",
+          "source": "AP News",
+          "published": "Fri, 13 Feb 2026 08:21:00 GMT",
           "region": "GLOBAL",
           "cluster": 2
         },
         {
-          "title": "Round Up: The Previews Are In For Pokémon Pokopia - Nintendo Life",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTdwUGFwc05BdTB3Rzk3RE5TdzZCdmdoZlp0VXdQRUFyN21UU0NDcHRPQ2dWMXQxVFlJMXN5cGtUVmt2S2dsTXF6blJqMU82c1JiX2ROMVZnaThUN3FUdHA0d2xIY0RueTVfamc1NWlBNkY2RjlSY0I4cFNlSXpEMUt6azNsYWRZZTBtelRQNDhtNEpK?oc=5",
-          "source": "Nintendo Life",
-          "published": "Thu, 12 Feb 2026 05:25:00 GMT",
-          "region": "GLOBAL",
-          "cluster": 2
-        },
-        {
-          "title": "Monster Hunter Stories 3 Preview: Me and My Pet Rathalos - IGN",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWw0bG5OaUtXOGFyb202amhWMmhiellHVzhrUFdsZmpzZEdhMkJacEtUQmtWcVQ5ZExEMlVlZEQ3NDVxeTN4TVZwVFFJZENtaWppeHctZXlLUXBnMnJKeS1MS0h1UF9xUi1NNExLYW84NDlXalBXQ2NJUkotblhULVNpRE1yaF8ybnJkYw?oc=5",
-          "source": "IGN",
-          "published": "Thu, 12 Feb 2026 15:00:00 GMT",
-          "region": "GLOBAL",
-          "cluster": 2
-        },
-        {
-          "title": "Exercise rewires the brain — boosting the body’s endurance - Nature",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pVFZpVG9RdXNOYktHdHVRN2lPelQ2M0VwUk1XcExOYm5ZMXRSaGhVMGZha3BtSzdXSFU5X3lMRjdmTWdReHp0YV9ONzlwX2NLN1ZzNFBjdG5PQUtRdDJN?oc=5",
-          "source": "Nature",
-          "published": "Thu, 12 Feb 2026 23:33:44 GMT",
-          "region": "GLOBAL",
-          "cluster": 2
-        },
-        {
-          "title": "How to managing epilepsy during pregnancy, puberty and menopause: Here's what every woman should know - Moneycontrol",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2QycGZkMmZ5VGtaYWdJaGdOSmZBWWpYRVBqcHVmTTFqbWdNTWhOdlptQ1hSTkdWcVRlX2ZSZDBDbmdwUXhSV1BTaklfdmQ3aURTN2MyTE1DTkJnZklmdjJPV082OEdQdE5IMG0zRVNnX29yWWgzQWJNRGd2cTJ2U0VmUFhIZWZXMHN3MnVTUXJhTGt4VkR3WUtUaUhGNnVrOTA5ZmQ5V01fRVJVZDNnQWRRLWtGYUdEM3Y3WjRXQnlzYlhPZUFPUGxtQkh2RjJVOGtqQjRjeEhVaEhGT1hQZGpNX3FmTDdMZ1kwQzBYRW1zSTdaR2lrV2I0cEN0QdIBgwJBVV95cUxNZkNjTmpzVUFWMTlYQ0otTmtjTmpBWTNFZ1JXOU52RmNGeTNUVUhodmRBaWVHUkJnZDJTRXk4azJ3X0pWT0xSTF9HeVVXZlFCeTdUX1ZOdkVCRmUydUdwR3Y3V2tzYVpzd0Z4Q0ZXdUUyV2NtUTNURVhfU0psVVU5ZXI5QUtDYW9NbXJweGFJQ1JJUXhqMkZnNzJQWm5ZemhxRHZLdmMweUxoODl6SGdiRlBvaDMtTjRSa3YyS1B6VldfaUUzMU9tVlJuaW82X3FoR3pBdklTTzFWNFNyQU8yMlM5cHluODlwc2VWUXB3cnhiQkRQNjdCYkxZOXZnM3owR21F?oc=5",
-          "source": "Moneycontrol",
-          "published": "Fri, 13 Feb 2026 07:22:06 GMT",
+          "title": "T.N. CM Stalin’s surprise bonanza: ₹5,000 credited to bank accounts of 1.31 crore women today - The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc0sydjJKdFl6UkQyV041UVl2SW1FeFVkVUJUcmRDSzVEYm9iNTZ4ZXNPdUVVa0Vici1GemZvZXg1RTRWaXpBV3N1ZlZydFBKM2Y1UjI1bDhiNVdVUjJzS0tPallaVjA4cEdMUjU1alRuU1piZlY0V3h5VzRRcFlIeldIMmJ5d3BkU1AxdzVzU2ctOUhIXzhpTUp3cFRDdzg0MkJOZ3VvT0FUZWFDdS1tbHFhaldDbUhxaEVRcWlxY2JZVnZ5cXcyeGlITzdGNVMyU3hnV2pKaEZoYm5yS3luUS02UWdSYTNubUxrNjJ5YjdnTWdVUVh3RNIB_wFBVV95cUxQRy1rVnRiUlFMNTJQTTFsZGw2UkNULWFLRU1LTkk1QnpTemhnR1ZDNVY3dFA0TWJNN0VxUTZMLThHX05BX0tFcDljR1lQaHM5b1JseVhNelVBRU5xbUYxRHpfR2JfVlp5Z2JCTko5dWNLVlNlbFY0UUE0U2xaOE9ETnZtSWpnWmdDOEdUR0lTQWRmWFd5bTl4ZXZObG1NVUpvVDJaSEJiU1JrR09Uc1Z3aHlRZUM2MExBejJPX2JnNkpsTlFFT0xaRi1DYWpURWRWOTBEZ0ZYN25XdVU4YWpBM09BZ3NmcEZTUHdYZVMyNENFX1RqX1RDVEhIUTBHOHM?oc=5",
+          "source": "The Hindu",
+          "published": "Fri, 13 Feb 2026 03:32:00 GMT",
           "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "What every parent should know about their child’s genetic code - Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLTJDXzlNNHZ4YjJrUnJldkhzcHJSYVVPSHA3NEcwYTE2cWUyV1dIOHZndF9oWldDeDY4b05HdDhzVVBQcDdna3JuME5NcTYxb1d4ZzVSWnZOdDBydjZFS29EdHhPeXpBYURLNzZBd0J3Nk5IMnFwTTFaYVVxTTdYclM1bnhRZTdaZFpzTkx0S3AxMDVIZUhYa1FLNHp0SEJNVURyM2Y1cUpUUkp1RmdTMVN3ME95UDA0Y3FqYTBma3ZQQm9EQjNDUmFDRFRTOUpHV19zdU5sc2RsQW9uRVlEc05XMzk3cVEtQ3RObS1Fd0xFUHdYQzVrYk5LeEbSAYICQVVfeXFMUDJyZEhxdzZIQW10VVM5ZlYxdVVaNjZsbC1qNUdoU3NXUDlyUHhfd2RJNGs3OXlPZ2NjTERCbUMzSW5ad2xfV0lyMHhjWmNDM09qbTlNM2FQc3NKbTRnVmhvSXJxakphR1JhNHVkd002QlFmN0h3ZkQxLXFyTkFjV3czN0ota2t4amlxbUtTSVBzZXBvNEZCU0ViMTFSb1dIeDNWeTU5TmlLS004bm9Fc2pMTFlmbjN4eE9nS2VGSW1vTWdvc0t6WGp6aDV1ZU1EN3BCc3htdUl5THZRdThfUWtjdXJ6UXVXZnBZd0xlZ0ZkUTY3VG9BUmphWW9NWXJjNDZ3?oc=5",
+          "title": "As PM Modi shifts his office tomorrow, PMO gets a new address: Seva Teerth - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV01yYXBnNG5vaGVodUFXQllLbm03WUpkeTZaM2I4SjlCSXhfY3VnRS1BWFRRX1RtQms2Y0U3ZmR4cW9YSTYtVDMzT3RKMVZXcWwwLVFpX3ZzTXBUM0hsT1NRcmhHc1ZLTkhtZ2QwRmVRS3BKemhsc0JwaXEtckV2dENwVGZkTk1OZXRWUVhXQ3ZkaVFMR3ZWc0xwdFpBanFDMG9wMlRiMVhmYnpfVjJoZzVYaDF5VEsyTTFYR1VRMEVicjJxMFJ0S2VSVjByN3ZaZThhcFUxZw?oc=5",
           "source": "Times of India",
-          "published": "Fri, 13 Feb 2026 08:54:00 GMT",
+          "published": "Wed, 11 Feb 2026 23:21:00 GMT",
           "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "The 13 swimming spots that could become designated for dipping - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjZXJYSm91eVFhT2FlQnp1UTZSNmNuN0s1aVhsOHh0X2JjLW53bW1qajU5cHJZZ1ppeTNndUFsYUFaREo0bHRvb2d4MElEUndUQ1JZOXVqbjlERTc4?oc=5",
+          "title": "Is India’s ‘golden phase’ with Bangladesh over? What Tarique Rahman’s win means for India - Moneycontrol",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTRmVVlQVkhyS1NiMHJwZnktOV9UdW4tcG9fYUloQlpEOWlGTGwzb3dBWFFJRjc0ZWJBd0FJZXo3SmlhV01XMV9LZEVFZ1hpWGszS0t2MG10NzhTdGx5WGpzR0lBNkZsWTNld1pCak9fY1F6RnoxTkxGdzZ3ak1reHNXOGRGT3RKSU80OUU5NVYtM0E2Yld4STlUSnRrQTRpbHpRWHhFMnJmZjFKbGVZdHI5d3htZ1phUnYzanZlRUZHRXhGRzFyYmtLczh1Q184VUM5bnprUdIB3AFBVV95cUxNQVNTVWJfVXJXTkVfSjQydWJnUzZ3cXVpeXF5Q3J1QVVyd182RlRvT2ZmSW5WOTRPbHRWOWdUV2wycko1UGtJY0JyQUd6NHpJMk1sZGJMdjktZm41ZjU0b0sybUlqQUd0MUFyUW42UU5HYV9HZmJySmlHdGhtVU1XclFObk1YSzM0dVRwby1WZjZWbUZqeC1VcVE1QXE2SmRlYjVSLWRmSG9QaFMwMzdtQWE0djNLSWFqTUhqN1cxREhHelAwU2E3OUd4cnlCdHlCRWRBSGV2eDJfNkQx?oc=5",
+          "source": "Moneycontrol",
+          "published": "Fri, 13 Feb 2026 04:20:31 GMT",
+          "region": "INDIA",
+          "cluster": 2
+        },
+        {
+          "title": "Indian Farmers Protest Against Modi’s Trade Agreement With Trump - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGRkc0hTeUducUV4bWdvYlNYaDhJMk1pR2F2TWNzSExxU2ZKbjItZ2dITlByYUNZYnh5QzkyclFkX1JCbUxQdXVHeW11RWZlT0RKMlFfWlVGVFEyX2lmYV9KTWZra3liWkp0WWs3RmFzWlc2MndkbHZXTzkxY1o4enZ2dUdKVC05Ui1HUmtjcXZRaTlQWUFLYVM4ZTc1U2E2WWlDeFgzMnVpcGR2SnJIMkdSSzdYZw?oc=5",
+          "source": "Bloomberg",
+          "published": "Thu, 12 Feb 2026 12:13:51 GMT",
+          "region": "INDIA",
+          "cluster": 2
+        },
+        {
+          "title": "From Bill Gates To Sam Altman: Who’s Attending AI Summit In Delhi | In Photos - News18",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTE5JYzhlUTE0YkpGN19DdHpPVmpxUUczREJrQ1R2WURCYk9OeXMtbmRHQ3laTWVIRlNsdVdLb3F6ZUk0aG1qNzFMbmc5cHpiS1h0ZGlPSDFFbUk5NllENFBXZTVubi1wclBvWl9ncHI1RU1KS1d5REYwWm5DT1pyYXV5aUdoVGJnTEJTQUNvVjBFVjN5V09aZEtxMktBSE9pV3dWQUtBNjF1aTMxWm9OY0hScTUyVVc5VTVvbkxKd1RYbHppbVNpdXd2RlN6UU5oY0VlbmxEb9IB3AFBVV95cUxOYVZtODAyS3ZiWnh2LVAyQ1VnUDVpVFVWTUJXR1VBeDRzY1d3dWdiLVNhd2ozNmdjYlBVM3hsdFJYdERIdjJhVl9rRGNCa1pKbFcwT2pPYUYxdWdlNFRURUFmOFdjRzc2N1lPeERfb0JqRGJzdE80QkZkNF9ZcnkzVzhHNlVlbjY0bEFEbHJDRjZMQU0xSHNlN1lYWmxFbVExYjVwS3BzODUzaUY5eDVLRkUta1JvYzdmVjFGckIzYXNOTnR3Y25MblA5OEZaVG1IYjRpbm9hbG5LSUgw?oc=5",
+          "source": "News18",
+          "published": "Thu, 12 Feb 2026 14:54:34 GMT",
+          "region": "INDIA",
+          "cluster": 2
+        },
+        {
+          "title": "Bangladesh election result live: Tarique Rahman-led BNP wins landslide majority in first election since Gen Z uprising - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xclZyRlVWb1ZtTTdfUUZTNkJiNFNHek5UQ0pycDhMZDRSZklxeHJDN2V3d1RtUmhIbG9nSFhsZlJ1ZGRBdF90OHFGak1rZUdPbkNFNA?oc=5",
           "source": "BBC",
-          "published": "Fri, 13 Feb 2026 06:18:14 GMT",
-          "region": "EUROPE",
+          "published": "Fri, 13 Feb 2026 07:48:43 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "Vaping to be banned in cars with children as government launches crackdown - The Sun",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbHY5Zkk0Y2h4WVVmeTg1SzhpQURfTThMaHAyMXZ2RUZZQ1NtSmFoRHNsUGs2UUJLZmtZcExURGpEOGZST2s0Z0F6TXRGcnFQUTZDdzVWNk5ZdTRlVDRXZExodUhNN3FHWFgxNVJ5ZURqQkVFemc?oc=5",
-          "source": "The Sun",
-          "published": "Fri, 13 Feb 2026 00:04:00 GMT",
-          "region": "EUROPE",
+          "title": "CONFIRMED! Balaji Motion Pictures announces Ragini 3; Tamannaah Bhatia and Junaid Khan to headline date-night horror - Bollywood Hungama",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSVJBZUlpYWNlQ0ZGQnFocTR3SVQteHRsRm1TdjNsOU55V1pmTlo0TVRjTmQxay12Rkc1YXh4aEt6TjE1QWFnQWJOS1hGOTZyNTNYRHNkVkVHcWpIUDZGdWVkZlEzNjBmMUI2Yy1Gd0ViU2JNWnpuTUk1MVZVVWtTZm5VRHgtWnltYlFlcGk3b3g4WFRBZ19nRHI1Qjl1U1dBV3BSMkhBVlNkem5Ed3dMSkJDc1BKSm5mQjVYaWtJY0draUN0Nmdwd2RKR3ozWS1MVUhGNU92bGdjVXktZkFWRHV1LVNNTDVRU3FjTdIB8gFBVV95cUxOeWU5cVc4QTlxR3FfMXlfVF9XRk1OZ2EzMnJBY25vX1BDTkIzZXgwOUJjanVjeDl3RVhiam1aeVhoeHBlaVEyNmNiTS1URFVJa2RlN0tyZEpOMk15NnJOR2R3UUxVLVFNWGlqM0dhTjBzY2pWcm94WWpzbW55S1FvaUpsS2t5eTZIVFc2WjMxRi0wQ3V1UFh2amdUeG1MYW9oVkF1U0dQQVhXWExJWkotNHNpeF8zWUoxTi1Qb20wQzd2MDJMUnJENmdCbkh0amhFMTc4eUcwZjE2TkNMTDZjMDVHWnFJVUl4dHdJb011bTRUUQ?oc=5",
+          "source": "Bollywood Hungama",
+          "published": "Fri, 13 Feb 2026 05:14:06 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "GeForce NOW launches Amazon Fire TV app with 1080p60 streaming support - VideoCardz.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkJmQmIzcWM1bWxMM1o2di1WSWc2dGFlbVNaYmtudHFyMUdCanRNakZoQ3ZmU0VGSWZTX3h1eUNLSURmbnpWZGhHRkwwMVRiRDBZODRBdmVJT1JnMmZrWWJkalhnVDE4X1BEMHlvYkswUzBtYVJVVTFkZU4zRFBlODRILUZRZjNFd1Rwd1dQQkdUdEY4V3RxZzZUMVJNNUE?oc=5",
-          "source": "VideoCardz.com",
-          "published": "Thu, 12 Feb 2026 14:21:00 GMT",
-          "region": "EUROPE",
+          "title": "No forced Part 2: Nani’s The Paradise makers issue a big statement - 123telugu.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazdJUi1NYkswMEN4bW9hRER4dlJLeGZrTnU2Vm5EdWZMQnlhc3JRWHEtZ0E3WnRiNUc0QWc2Q3luSnVOWHFZQzJ4dE1Mc2czRjAxdXlGQmVmeG9ncktlcGY1SDdoWlE4Z0JyTzZQMmpORnMxX2dabFpJOE5FeEo5VTByeUs2anRVM2o4X08ybklJTDdlWmtYRXk2UFpYX2J6WFBibkpiLVbSAbABQVVfeXFMUHF4ZjBnZlRXajJUSEd2T0kzWWJydmptVTRfb21OdFhSYndrQ1d2VUZWbFpId2hKbzRpSXVnUFBDSUF1XzlLYkQyVFVHOUxPOGx4YVR4dnYtbDhCZktfdjZfdkR3Sy1kaWE2MVlvbWVzLUxNSVJyYUkzXy1wQWszVVp0Q3lGUEpHRjNWdlhYSXNSZjJOLW1MM1NrRF9qOXNpMnRfSWhQak5aVmJobjJKVmI?oc=5",
+          "source": "123telugu.com",
+          "published": "Fri, 13 Feb 2026 01:35:00 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "The Gmail app on Android just got a long-overdue quality-of-life update - Android Police",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zQlk2TmkxT01TSlZsUmZMTmR1cDBQMl80VmdXYXFzMUdYUFlWblY5QjdkMzJQbnEwcWIwWktiOEZkRzRTTGNhR1BXd01qd29Gd29MYWVpYzFJQnpwbGVvMW5IcC05WnFHZmhlUThqVmVuZHczNkhv?oc=5",
-          "source": "Android Police",
-          "published": "Thu, 12 Feb 2026 02:05:00 GMT",
-          "region": "EUROPE",
+          "title": "‘The Beatles’ Movies Expand Cast With Lucy Boynton, Harry Lawtey, Morfydd Clark and Farhan Akhtar - Variety",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDhqcnFlTU9FM0NIelU0LWVrQzlBWlRiUHQ1UWxEWnNQcHRwaFN5LVpfNGZSWGZKWnAxckJTX09ZczYyQVZxQW5ndFk0MGcxeWo2WE81TUppZXRnUEhSTHhwUG5rdnE2TnNxb3h6alRxLU9QWHVNcVRteE16czFNRWZ0MFFfZC0waTVOYVI0b1RUUXdTUERud2dsZDdqekphS2VNQnlSS2k0WVB5RjFxbEt3ZjRQa25NR0FRTW1IbG93QQ?oc=5",
+          "source": "Variety",
+          "published": "Thu, 12 Feb 2026 17:00:00 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "‘Choosing happy is a hell of a process’: Thundercat on funk, lost friends and being fired by Snoop Dogg (possibly) - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0VxTVJ1ckRoQ0cwY2xvTHg4VjZEYkk5Vm5UM0FXNndYTm9zWmdORzg2Um9XZHV2UERFYUFPbHE5ei1qMlpEdUd6Z3dNank4bEp5SWt2ZFMyOWp3NW1fQ0hTMDlzZUVKVGVCVEVhQmFaTGlfRWRCOVNVaFc2S2hwOU5ZZTN2a2o2T3VhNlk2RGJab0RjRWdpbUpHaWdfNUFfNk1PNVFEZi0xdnJ6X2hnRTNGVkl2LThleGVvblAxQQ?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 05:00:00 GMT",
-          "region": "EUROPE",
+          "title": "‘We have the edge’: Varun Chakaravarthy’s bold claim before T20 World Cup blockbuster vs Pakistan - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPS0hlUTh4blBxQnNkM2FBY2NfVlFKelFCUDFZcDlqSjRoa0huVEZjcTZyeE5vclRjR1E1bTNzbFZYaHRrbVUxa2llSWZvLXlNRmU0WHVmZ3pUT3JFYUtNbjZDYjNRLVdTQmtFaW82VllxWGJxMTNpSWgwSnVwZjkwcndJTXU3dlozUVhyVjV3VERKR3BpUktsQUlkeFhkM2pxYlE0bEZBYlBoMU9PdDM3X3Rwdk52cGR3RDdRU2xLVW9IYS1NMWFWbF9pYWxSb1NUWm1MWkYteE5QQ2JiWFJxZWxLcExDUGFfNTBPWXR4QmtONTFIYVNvTDZla3JnMTRJTkdGMmhxRThpM1dpNUNqNk1ubWR6eWlYclRtMXRn?oc=5",
+          "source": "Times of India",
+          "published": "Fri, 13 Feb 2026 06:56:00 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "efflux controls neuronal metabolism and long-term memory across species - Nature",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydmFPOWlNc2J2U3FpNi1QSmkyRzl1YnBhQW1rMHBSMmJYcDBFMVU4aVBaTXlHczNjTlp1UGV2R0xBSEo4bF9uRGRsX09zYUhVN3FSWUdpbVA4aE1nWG00?oc=5",
-          "source": "Nature",
-          "published": "Wed, 11 Feb 2026 16:01:43 GMT",
-          "region": "EUROPE",
+          "title": "Voyager: How Nasa still talks to spacecraft that has left Solar System forever - India Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb21mY3NSQWwteW9xcDdjT3ptdmhIaUlsVEhNZ2E3MGRDcTFyNFI0Z05nUkl6QlNpWGJwYjZuaEItRmdhR2Y4N0tfUW1JckRLVXlnR1luajB6U241cUdwNlctcVlMRDVWQWhINF82eW5fQ3RQWFFUa3NqU1Y1bnhmRVFsRVZZRGRjdF9Mbi1HYVU0RHkyOERFOGNUV3M1WmlFQXR6RlBSMDRGUE1mT21LeVIwOFhHeFdlaF9PbzNWSHRtcklNQk8wb0ozWFlzdTlTWEHSAdcBQVVfeXFMTl84ZTY4bDA0aFlCb05jLVNaamV0UWd1N1BMTHJVOTFoWklSZHQtQzE3enA0TWNYV0x3ZWxtVkNEcDR2QmpicjQ2dnN4NEZGVzlLTzQ0OW5nWUVsNjA0LWJNRTNydDJENmNCTU5HbV9WdnRUMUdvTm5qOTlNS1JsdVdzajl0QUswUjZQUnZhYWVjYTBSRTZ6UlRQekFrV1RsTGNuckRmR29OOUtwWGJxZ2tXc1hJSkVpS1ZES0VVYmZsMlMxVjMwUC1yMVJNbURfVUJyMHFBNmM?oc=5",
+          "source": "India Today",
+          "published": "Fri, 13 Feb 2026 07:16:22 GMT",
+          "region": "INDIA",
           "cluster": 2
         },
         {
-          "title": "'HIV diagnosis felt like sledgehammer blow but it's just a pill a day' - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2T3A1ZmppWDRIN3JDOEVWU1NoOTl4YmJMbENMQjFLcHJvM0hLSjk2QXVLQ0xkSkZRZlJPWTdUV3RoS0VTUk5VNDhTOWFkb1Nkd09zekM0UVN6dnpQ?oc=5",
+          "title": "Exploring air–sea interactions in a regional weakly coupled data assimilation system: An observing system experiment for the 2023 Indian Ocean monsoon and Cyclone Biparjoy - ESS Open Archive",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlelBRUUw4Rl9SeTlMenpIZDJkazNyNmNJTU9mLXBnQ3ZKUGdBVWRoVzUwa2xXOGxPVEN1ek9CcEVhbjJLUkdBV1oxMlgyZHdBWWQ5UE9ESWtEUVhvSU5NbGpaMFVUeUhJOWFsaHItakUtcldSQkQ2a3VzSmdEQQ?oc=5",
+          "source": "ESS Open Archive",
+          "published": "Thu, 12 Feb 2026 20:01:35 GMT",
+          "region": "INDIA",
+          "cluster": 2
+        },
+        {
+          "title": "AI Retinal Imaging Enables Contactless Blood Pressure Biometry - European Medical Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0czODFwTUh0VXdjN01lbUxDWVF3U2tkR1NZZkFBeXYtREE1MmNNUFN3Z045Smg3azgwWGpuOFNQMy1CZzN1MUxzb0xJUEszYjRMc19OcWJ3aVMyczFFX0J0enNQbDE0c2pjOEtPQ3RCczJWcU93NzRLaldTWm9MbmZwS2xqX0NXZUFJUms2b2ktODVjU2JSMWFPV2kydFFaSXV0QzYwaUxuYUU?oc=5",
+          "source": "European Medical Journal",
+          "published": "Fri, 13 Feb 2026 10:01:39 GMT",
+          "region": "INDIA",
+          "cluster": 2
+        },
+        {
+          "title": "Bangladesh election result live: Tarique Rahman-led BNP wins landslide majority in first election since Gen Z uprising - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13WW1Ka3Q5Qy1JZ2VKNGk1TW9BbmkzZUxPbGVQOTZ5Z20yUmJZb2N5clpmRzZDM2UxcWN0dEl6TmxZUzNqU1FDNFJnM2RHLVZIc05mck42QQ?oc=5",
           "source": "BBC",
-          "published": "Fri, 13 Feb 2026 06:22:44 GMT",
+          "published": "Fri, 13 Feb 2026 10:40:24 GMT",
           "region": "EUROPE",
           "cluster": 2
         },
         {
-          "title": "The nutrient you didn’t know you needed, and how to eat more of it - The Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcE5OdWNSTWZmdWRTS1VLblZ6YVBkNkJpUWdsVGJQM2xyMzlJZ09sdmltYnYza2d3REU5WG9EM0lXQ3lSWVhtYlJYQlprdGpPRkwtMkx5cmxjVEcwbWtWeDZDMXFfV0hBdFBaUzZLeVZkTGJ0a3ZHVWdzNDJoRlJ2czAxbEdiY2ViOFFjZWRmdmZ3T1VCVzhZXy0xaWRKZTVnM2oxbFNn?oc=5",
-          "source": "The Times",
-          "published": "Fri, 13 Feb 2026 05:00:00 GMT",
-          "region": "EUROPE",
-          "cluster": 2
-        },
-        {
-          "title": "The Dior Archie is Familiar Comfort - Esquire Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySUl4QTJ5dE5vWmtHZFA3WWNjdWFvVElsamIzdDRGaUlfRnFCMWRlUFotakpESkxBQ2tSeTVGLXJhVkFEdXFtUWZDUE0ycEJ0RVdkUTdpN28yMDJ1Um5DRXdLZHlzQ0Vr?oc=5",
-          "source": "Esquire Singapore",
-          "published": "Fri, 13 Feb 2026 07:13:49 GMT",
+          "title": "Pheu Thai to meet Bhumjaithai for coalition talks Friday afternoon - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDlQS3dlWF9GbjRBX0R0MDc2TkJnVzRtd3RNVy1vQXFtNDU2aWtVVVpQMTA4UnVTVG9OZGxyUHljQ3l4SFFlOURRdngtRnk5TVBKdFZLNzlza3pRc0ZGZ0JITGxlZGlVU1pZZ18wY0NPUDY0REJxRXppck9neTZlczFWQ2g0dmRwZTRGSmR3c1hnb2c2eGpvUTNzTGUxQXI3eW1vbmlmVDczT0pYYjd2WW8tT2puRUVBOElLNg?oc=5",
+          "source": "Bangkok Post",
+          "published": "Fri, 13 Feb 2026 06:48:00 GMT",
           "region": "ASIA",
           "cluster": 2
         },
         {
-          "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education - HPCwire",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUhjNGN3bkg0T09xbEpwa2NubDlXSmxVc1Y5NTFCaFZiUFNFZFNVV0ZwNE9vY0lRdmh5b0JZVzh5R1VVSHFmeEdsZVJxZUtuUTNUOXlNYnE5NG1faUxHR2RORHVaMDJiV0FGZWlPcTRkRzZ5eWlZUFdva0VPLUNfY3FwNFRBdW5SN2N4Rl83eEdTYTExYS1NUUxB?oc=5",
-          "source": "HPCwire",
-          "published": "Thu, 12 Feb 2026 19:21:01 GMT",
+          "title": "Bangladesh's BNP wins sweeping election majority, promise of stability - CNA",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOTQzNWx5Ql90d1dlM2hpWVJHSFZ1akM2RlBoMGhDOHFxenZ4TFBzQ012NU0wdGtjQWlkMVhwOGpBdnpVajRsaHFYeWQ4cnRPSkU2MzQ1a211Tnh5Z1QtSkFKOXVLcHZwNFNKZkJkMzZkYzJGblNmVVJCb3lSSjNvVjNsY0JmOXhqMkxmVi1rd2tWTk5WYTU5eEVEdEZucjVFcHRz?oc=5",
+          "source": "CNA",
+          "published": "Thu, 12 Feb 2026 23:21:00 GMT",
           "region": "ASIA",
           "cluster": 2
         },
         {
-          "title": "Last-minute SG Culture Pass activities for Valentine’s Day and CNY week - CNA Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmlFU0JQRlV4d2tZdEJfWUxBbmJpWmpOQm5KcXJCakhJQUtnVWd5S1RiR2RfYzZkMmk5SHVDcVpzUW9vckNpVUtyT3lON1FpbTNZaXJpcF9SMEc1NUNmb00teEJlalh6SEZYM3NHQ19iMDN2aVhFcWRIOVhNaXdUd3k2V1h5ZnZPQTUtQ05sZDZHZHYxV1ZZMjVzU3BfZ3ItU0JkckNhYXlHOU9GckFHVXR3?oc=5",
-          "source": "CNA Lifestyle",
-          "published": "Fri, 13 Feb 2026 07:01:00 GMT",
+          "title": "Palisociety to debut in Beverly Hills with The Hôtel Lili - Sleeper Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnM5Yk84aUVCVUFMLXQ5RTlnSEJwa1BGLXdQT3RLeWNCVTlSelNsT0hWZjlHaDRqV2JfN1Bra3FhNkNacmxiTVpxeWpselIwQjZpdDZxNDF2Y2V3dTVOb3JNZVZaNlN2RFNVX1FXUVo4NHJfVUt2ekxhOHk0U3RTSkJUZFhIRTliMjZkbnNheEV2bHFvVmZrUnhqSDBKWkZBNHZTSGloTEZuTDA?oc=5",
+          "source": "Sleeper Magazine",
+          "published": "Fri, 13 Feb 2026 10:50:31 GMT",
           "region": "ASIA",
           "cluster": 2
         },
         {
-          "title": "Scientists discover protein that rejuvenates aging brain cells - ScienceDaily",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xNFR2c1RkZWJLVmVwSW1KX19abDZwLUwzb2xsZEhkYlVFSks5Tm80WXdQSTRRVk5MTmR0cHJkQm1SbTVVQmY5aEFELVhQU2M4eHF5eHVOdXZMTTl2SmNxME5wc3VNMUFFcEVjblZIZw?oc=5",
-          "source": "ScienceDaily",
-          "published": "Thu, 12 Feb 2026 14:44:32 GMT",
+          "title": "Ajisen Ramen operator Japan Foods’ lead independent director investigated by CAD - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzBqWDIxVVgzWWhIdGdiTTB6dlNDQnp0TjZ5MDk5TWlBRUZVczJGUG8tX2lKRkpTa2VrX3JFbnlNVXlSTGhLTElUc01BcUxtNmtFUFpLZEVMcUdMc0M2LU9PUGdvSlI2RTN6VFZNOXBGY2M2Yy1QQ0x4Z0V5Z1o3bGNuQVJLcUhvV0JLa3FNbDA2czJicklzQm0xSzdoeWF0S1hDM1lDREJRVU5TRHlfQXkzdGt6MW1FT0ZaRnBaN0cxMUV3Z2cwNjdRQUI?oc=5",
+          "source": "The Straits Times",
+          "published": "Fri, 13 Feb 2026 02:38:54 GMT",
+          "region": "ASIA",
+          "cluster": 2
+        },
+        {
+          "title": "Announcing ASUS ExpertBook B5 G2 - ASUS Pressroom",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xMEVQU2MyWHVTSFRNTmxpci1EOVBJb1M4cjlKUWhmNkhzMy05UHBLaEkxeFNOLVRhTGlHbC1rYXNMXzB5MmhVeVZDQS1zaUNYUk0xQmpsaDNySXZiS2RnX19feWFWSzVUMEFxZ0Y1RUdISVU?oc=5",
+          "source": "ASUS Pressroom",
+          "published": "Fri, 13 Feb 2026 02:26:20 GMT",
+          "region": "ASIA",
+          "cluster": 2
+        },
+        {
+          "title": "Chong Wei wants to have heart-to-heart talk with Pei Kee - NST Online",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHBYd3R5ZmpDNFBSb0pJRGFVUXZuTEZYU2U0UE4ydVlYMzN6aTZHLTRtUGJhUmVNRnFteFJWak1TN3daU1dsZm1XLXJ6dzFyZHVrdTlScTFzU1lwd0trVHlEbTZKNzA2SkVOTHFPNy1nS3p2eENNVS16MHVNeUZGNDNWenIyT0NybklNcXhNNWg2UWUzQmpRTHc5WE1IOFB1MlY00gGoAUFVX3lxTFBJV0cyajd0YXhNVFVXdjNkdEVWTTV5bF9odG9JLTNwMklFTXp4U3FNVE43TDJYYmd0Ri1TaHI2VTFMWEg5Rll1VnAyWlRvaWk0THRKZE4wd1N6MzJqTGdQQ0wwN2F2dURZTU5LaXNiWWZPcUx0WHFuU29FeHhGN0d6Vk9VY090Vnp3V29nR1JxMFo5Tm9ZWTNhTkdVTXhuSEx5ZjZneXpEZg?oc=5",
+          "source": "NST Online",
+          "published": "Thu, 12 Feb 2026 12:27:15 GMT",
+          "region": "ASIA",
+          "cluster": 2
+        },
+        {
+          "title": "RSIS Seminar by Professor Stuart Anderson - S. Rajaratnam School of International Studies (RSIS)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OLWlVOFBaVjFnOE5zazMya19RbExpcG1rVDlrZUJXeEQ3MmV4UW55RXk2a194czhFYmlTSnY0bi1Ub3pjclRJYQ?oc=5",
+          "source": "S. Rajaratnam School of International Studies (RSIS)",
+          "published": "Fri, 13 Feb 2026 08:12:53 GMT",
           "region": "ASIA",
           "cluster": 2
         },
@@ -478,30 +582,6 @@
           "published": "Fri, 13 Feb 2026 09:59:36 GMT",
           "region": "ASIA",
           "cluster": 2
-        },
-        {
-          "title": "Just Five Minutes Of Light Exercise Boosts Children’s Brain Power And Mood - Asian Scientist Magazine",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDN2ZWFCckZrT0pYY3IwdmkycTZ4YktoS2s2OEtiSENOVk5hVUluMFBjSGExU19XQkQ0M1JfRS1VVzU5MlpZRjlyWnlqbnR0MGpxZkZ1TFJaWVdoZEpqZ0pWWG5wSDhpZklNUEQ3UHF2S3VWY0VXQVFNMjBVVTdpM1paZHRZc21TTGRIUVdqOWlkTVpRbFhGamhvMDkzaVF3T2gxLVF1aHFXVWllTHFWSURQcDAwajJoejlCdw?oc=5",
-          "source": "Asian Scientist Magazine",
-          "published": "Wed, 11 Feb 2026 15:12:17 GMT",
-          "region": "ASIA",
-          "cluster": 2
-        },
-        {
-          "title": "Natural gut-based compound developed to support weight loss safely - Medical Xpress",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbV8yV1JCeGJNOWV2c1dZYjd2aHRjOFRXRmRtU09TZzJ3bFMxenl0ajNMSmRpbUxUUXI5REZMdE9hN3U0ckNQZVRJa1lKSXYyTWJoRkd2VG1HeFRlakltN0ZVU01ZeTBPRVBueUtfYU9RSlFPNXk2NFBJNFhKOVN1WXRLZw?oc=5",
-          "source": "Medical Xpress",
-          "published": "Wed, 11 Feb 2026 22:21:23 GMT",
-          "region": "ASIA",
-          "cluster": 2
-        },
-        {
-          "title": "Indonesia strengthens genome research to anticipate future diseases - TV BRICS",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEwzd1djaVBCTEdYZ3JObmZuSTdpVXo0NV9WLV9fMEdHcHhtc1hlSlVEMXdBVnVUWkNaVkM1Slc0TmM1ZXZXdVlXa3R4SDdwOFBtcjd3STg0OHFuMVMzOHJyTTVNamdubWxJY2pFNlZQUXZCLTRmRHVPVE1IdWp3bjUzRzBZZG1adFNzeFVfczVQdHBBNDVhVGI3b3Y?oc=5",
-          "source": "TV BRICS",
-          "published": "Thu, 12 Feb 2026 20:21:51 GMT",
-          "region": "ASIA",
-          "cluster": 2
         }
       ]
     },
@@ -509,202 +589,218 @@
       "group_id": 3,
       "articles": [
         {
-          "title": "A Pilot Fired Over Kristi Noem’s Missing Blanket and the Constant Chaos Inside DHS - The Wall Street Journal",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczN5WUFDaHNBcVFURDBfaEI1UEVUdFlFYmVaYUdWejBwbGd3VHppR2ZycGRvSzBnMEVLQTBQcGwtWnZSWHMzNGhSUDRCMEE3VnlCci1heDM4YTdqeGtTSUxFYlBNMElVQXVjUUZQeG9EcmhoR3FTdy1Qbkt2cEV6cVNZYTRidXM?oc=5",
-          "source": "The Wall Street Journal",
-          "published": "Fri, 13 Feb 2026 02:00:00 GMT",
+          "title": "US and Taiwan sign trade agreement to seal chip investment - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ha05tUTlVYm15MmNla1lucEVOeEJtRzd5NzJmMU1sWEhUWl9hNXNBbTZ6U2h1TWxsOTlrR3lVdnZBS3RaZGZpRkIwVWQyN3NjdXRldDFCaWdYTDRqYVZxYl9FcFBtODBwN2VnVHhuTmc?oc=5",
+          "source": "Financial Times",
+          "published": "Thu, 12 Feb 2026 23:23:12 GMT",
           "region": "GLOBAL",
           "cluster": 3
         },
         {
-          "title": "Russia fires barrage at Ukrainian cities as next round of US-brokered talks is unclear - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZGUl9HWFEwZFNBSEdaMTI1Rm9OeWRTN0xGbU5JWGdpRy03R3N6dnlDZjZjRUtlYTJtMk9JM0lyTW5aT0FCbE53b3V6V0ozX0JpZnFpZWJaTDFqQ3VVdVFwaU1pQ0RjYktYUWpCV2F0TVh4Z2FaS1RvOUFIeEI0OU9aNXFwSVh0c0J2aHljdnQ2ZmpDNnR0ZVdFTkxqdVdGM0E?oc=5",
+          "title": "Second US aircraft carrier is being sent to the Middle East, AP source says, as Iran tensions high - AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWpDTl82THV5ZTVTMTNhbXpxc0RZSkE1dV9FM3hmV3lyUHhDeTQwS19EREljVEd1OGdhZlhnQjRITmlDS3lwbVFnbG1qQWFYeHZZdk9mdmpUWkVzclJIZTdLM3BlaGFNWFJ6Q005OUpCMTByTFZ1OEI2Nk9IcURadzlEa25ZbHZQOVZ3a2VVN0UybmthdjRhWlNwODc?oc=5",
           "source": "AP News",
-          "published": "Thu, 12 Feb 2026 16:17:00 GMT",
+          "published": "Fri, 13 Feb 2026 05:58:00 GMT",
           "region": "GLOBAL",
           "cluster": 3
         },
         {
-          "title": "Sex workers at Pahrump brothel are unionizing, alleging unfair contracts and conditions - The Nevada Independent",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeEtfa05OTmNIdkQyaU5TMWUyeWZPamFyZXVZNFZnZm1kWEpSZWtjd1FMdDBHbzUzZklzdFYwRmtsZDVwa2tzVjZpbVJ6UnIwaWV3enFJcUhiWUtkVjhHcHk5aEFURmpfUWg5dzdLSzRWM2pweUpIZmg0UEY1SWdBTDBuYUR3WGl0d0xBTHFpNEFXVVM4d0NLWS1lc19fX0wtWjB6ZERvblJkMjFXbVNiQUhHQ3MtX1B2anNRNDlYT18xb3FXRUE?oc=5",
-          "source": "The Nevada Independent",
-          "published": "Thu, 12 Feb 2026 01:16:43 GMT",
+          "title": "Top AI Stocks With Short Squeeze Potential - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGZyQS01NjZZRVJWX0dVUTMyVkRXbTI0LXNvajRhNkVTZWZ2M192UDVnS1dlc21YSmktR0I4Ni1kMXlxTFJGWjhqRTg1bzhLZUhXVTV6bkVQQzNncXdUMVd1eGtNNEVKbGx1elc4VEhzb3VmQ1o1RGc4VlQ5bU90ZTJTSWxuRW50NnNn?oc=5",
+          "source": "Seeking Alpha",
+          "published": "Thu, 12 Feb 2026 22:12:56 GMT",
           "region": "GLOBAL",
           "cluster": 3
         },
         {
-          "title": "Johnston County Confirms First Measles Case Since 2018 - JoCo Report",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEtVSzBYaVU2OHdWa1NnOThUWnhUS0dsR3ZNbGZob3doSlFCUWNxRWx0TWxSMEVUY1ZRNjFObUZkSF8wTE9wRDRnVkxqLThCc1kxOFN0MVVPZmFMWHAxd0E0N09EVXF5SVpuZ3NqaE9pc01yS3V4VGl3RFQxcllTTHBTV2U?oc=5",
-          "source": "JoCo Report",
-          "published": "Wed, 11 Feb 2026 17:20:20 GMT",
+          "title": "Sony WF-1000XM6 Earbuds Review: A Cut Above - CNET",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kblItdXdVVnhxQm5sNnh1LWJXQmVVWmRXa25MQTRvcXgtSVBwOHZRRXlPbURPOTZTeFluSm1JXzlDWTRSSGtmeFdTVVZIeElUeDRKQ3RmR01JcmVzZzlKLXNObHVFa3ZQTlpVX21obFZxQQ?oc=5",
+          "source": "CNET",
+          "published": "Thu, 12 Feb 2026 16:01:00 GMT",
           "region": "GLOBAL",
           "cluster": 3
         },
         {
-          "title": "57 cases of measles confirmed at Ave Maria University, 7 currently contagious - WINK News",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0ZMdHI4RjFiR0hSUFJMNG5VaFoxRXZTSTMxM1JRR2FiUHdiOGVuRy1pVWEwSzRBbkpUZlFncUFYQ3ZTSGMwWVdibTBLclpXbDNoRzI2YWtld1o5MUNFSkgwdXd6aFlWMGZwaTdPb1ZyYlNIS3FMdmVaSlJjWW1IR2RXQ1hvMlNZVmNhYy1MSXloT3pTdC1Rc2ZETDZxUGtYMTlWc3FTeWNQRWZkZlUzLUhnRE5KZ0xwSWh2NmhRcGJWRXFUWEVIeGFLVF95MUk2UUM0SEY4ZHEzRzYtTkFBTUNNN1FWMENoZm15RThERVcwd29XSkc4?oc=5",
-          "source": "WINK News",
-          "published": "Wed, 11 Feb 2026 18:45:28 GMT",
+          "title": "It took two years, but Google released a YouTube app on Vision Pro - Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcDBqYWpFLUpVNjBGWkY2MkJodFQ3aEVqSzJldWxXQkI2b09Na3lGTFFSRnRBUFR5YUFhSkcwbDhzNjB0RERILXlEc2xZbDdnZGwtVUE0ZkZZeTNheU96TC1ybFp6R1RiSzVUajIyeG9jSWNLMGVsbGRqa19vUFNxV2RTV1BKZXF1YWNlbmxCSE1zMEd5WGIxa0RCQ1pGdFg4NmhGaFlWYVFyQQ?oc=5",
+          "source": "Ars Technica",
+          "published": "Thu, 12 Feb 2026 19:53:05 GMT",
           "region": "GLOBAL",
           "cluster": 3
         },
         {
-          "title": "Residents fume over planned air ambulance base near 'peaceful' North Wales village - North Wales Live",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWFVY2wxVWkzVjZZM0Z4VzhhQWRjanE3QXM3SF8zZmhCdU92cGZyNmpzZ2tfRUNxWm5RQ2tuT21uNWVWd2RiMXdnYzNmMWRuaUprWElTWW8yMzhTOEVtNG9GNURoREE4cmNkMW01azFWdTA4NVFJSjY5U2xMczBxbk41ZW1fekhQQlNRSjdRSVVERldI?oc=5",
-          "source": "North Wales Live",
-          "published": "Fri, 13 Feb 2026 04:04:00 GMT",
+          "title": "Rayman 30th Anniversary Edition Releases Tomorrow, Collects Five Versions Of The Original Game - Game Informer",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXBabWcydE1hWWVfSVBESW9VTnJWTl8tZVBEVVFaVnplSVh6ek5HaFg5OGRERVVnLUV6bDRjTmpUdkNOT2pIVzVDaHozQkVLTXRYWWR5a0tFN1ZWMVNFeEtWT1RQM3VOQVZGNDlzVWhscDlfZm1mWVV4QUhXVThEUW1TTFpXcWgwYjVTVEtZbGprbHI5clYzaDZNNTFoLXdBNTBscU5YMzYtX21kRzhZbm8ydGpuVm9idmRYRWVTWQ?oc=5",
+          "source": "Game Informer",
+          "published": "Thu, 12 Feb 2026 22:29:08 GMT",
+          "region": "GLOBAL",
+          "cluster": 3
+        },
+        {
+          "title": "Monster Hunter Stories 3 Preview: Me and My Pet Rathalos - IGN",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWw0bG5OaUtXOGFyb202amhWMmhiellHVzhrUFdsZmpzZEdhMkJacEtUQmtWcVQ5ZExEMlVlZEQ3NDVxeTN4TVZwVFFJZENtaWppeHctZXlLUXBnMnJKeS1MS0h1UF9xUi1NNExLYW84NDlXalBXQ2NJUkotblhULVNpRE1yaF8ybnJkYw?oc=5",
+          "source": "IGN",
+          "published": "Thu, 12 Feb 2026 15:00:00 GMT",
+          "region": "GLOBAL",
+          "cluster": 3
+        },
+        {
+          "title": "Lego Star Wars ‘The Mandalorian and Grogu’ sets just launched, and we got a first look - CNN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mR2ZJNS1VYlJFQTlRNklZb2FsUVBXZnFEbWNQc08wa0VabW1NOTBYSzg0V1BYX08ydnQ4TVotcXp2LWJJTm1HeFA4RUdFYUowR2EtczJrSTBIM01RbndFckh6NWpsZzBOM2tOY0twOEJrYkY3eFHSAXtBVV95cUxPXzZZamNicEFEb21nUWpxUTJxN050SFRGalZjVUQ5V3NDVEQ3a1llRjV4UW9wZ21CUk5CT25walRpejh0U0J4RzlyYUFUMHFDaVBBeWlhSWQzN29jN3pmbi1KVkJvekhzc1dBS1BEUHRnUmJYRUl0aW5sNkE?oc=5",
+          "source": "CNN",
+          "published": "Thu, 12 Feb 2026 22:45:00 GMT",
+          "region": "GLOBAL",
+          "cluster": 3
+        },
+        {
+          "title": "US, Taiwan finalise deal to cut tariffs, boost purchases of US goods - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3V6ako2b2hSTks0VzNyaVlaTzNaMEpRa19rQUlJSHZ4YVFqSzB1SDVudXY4UGJvTHc3V1EzR1U4SF9BTzgta0hmU2RpZ2NtNThXSmNtLTRTcnpUX1RUVWRQUy16aVJRNVZfOVQxY0RTUklKb0pralZwQ05LcGlUMWNPZnJ3TVNQamNoWmFnaDRSRzk0ZGRGcEtISWo1UTNvR0VubUZHTGhPb29Zb2g5R3dEQjF3ZjNBU2FKN3hfVWs?oc=5",
+          "source": "Reuters",
+          "published": "Thu, 12 Feb 2026 22:07:00 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Gold and silver ETFs crash up to 10%. What should investors do? - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdktOM1pvYzQ5c1VMN0MxX0oyOHVHRkJKcHVCNWM2bW4zYXdVUl9NYTZTTXdNWUo3MGdwNlVwQ2pvQkcwZVlZckkzam9zVzdXN1BnYmkyZTlMODRmb1g2ZlhYVld3bDh4bmdpaTdHbzNuYzFvYWxNdERFUmdUZGFxT2JQYnFMckRlSkV1bFd1ek5LSXMyQ0xyV2lSUXhibl8zcmc2Ym9pVG9BUGdCLVhlc0V5ODd0TXVsV2tkYU5uLXQ3QjTSAcgBQVVfeXFMT1JHVkMtbWN3RDBVZlVJMVgtUEMtcjRxdFE1ZEV1N3pkMFQ1djNqZWJaN1pnREN6N2JVclFQM0t1RFMwVnNaNTBXZVNhQTlXclR1eHRBQVc1MFVIUmVScHBWSkswR0NoT3JjMVhNTHBwamkzU3ZscTI0bnNYaHBfcmstbF9nTGVlUGVTUzlQYlJ6Q1lIQWsyVXFEVTk4UkJfckVkdEl5Q08yQ1VJRnFjX3VIQ1gzUzB2aTB5TzJhTkhNV3dhQUFTcnM?oc=5",
+          "source": "The Economic Times",
+          "published": "Fri, 13 Feb 2026 05:47:31 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ2lmLVozMEVSazZTZ0w3WXRnTXlQY2hZZU8xWHNqZ2JzLXQ2cm5PMEp0Z3paVVM5cFM2WE11WlhTaXd5ZFFTQzNCYXdlX2hiZXFiMXphT3dVMnQxT2lydHo5eFZSMmpySFhIblRkdWZqTXVtZTV2VThHSU9rUXBPMTFBX3pwUjdqZXk1dWNiUmF4d25PWk1VQUVYTDlKbWhFMTI2Y1RtN3hHR1ZUcXpxLUpMSXNMVWozT2x2ZmVpQ3VBRjg?oc=5",
+          "source": "TechCrunch",
+          "published": "Thu, 12 Feb 2026 18:30:12 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGFJQmhYbDM3aURHUms3eS10ZUJWQkU1TXVoTVIyLWJxUU1LZG5NT0tPalhpR3ktMUdqb21GWGxBZlNMc2pqU0pwcGR0dVp5UXpNZi1LOXhlSTBETUhnNjBJQ1Q4WHBQNkpVSEFlS01tN0kzMXpGRjRHLWhDM2VzOWFSbEtyQW52dXFuQnBnSXlXNEotOFhNeGxEcmRGTEdxOHF0T0xJQ1VKSjZpREVFcDZJQXc1SHpjZzl4d25IT1RVRmN3UTh5OGNzeVl1MTQ0MVN3b2xQOGxqdW85a0xZV0Rn0gHnAUFVX3lxTE1ISjI1WGhfSUh2bzFoa3VOWnVnNVVuc2w2bElfVTdFa0VMdUxMdVFfc1dQMTNQcXdzVnhjeEEtMHM5WGE1M1o5eFdvVzB3UW84OHV5Y0ZMRnlPZ3hYQlM2NEJiaFlPRUtwYnF1OG1UWHltV0J2U2czR0tMcWNmOVZsNW80NXNPOThPTHZjSVp4R0FOMjZBYU5pbHJHTUUyVV9YYW1WTHNDcWh1SWhQSXFrTHZvUGZHQkw4MTNXSm1OWExBaXp0TUoxcE9sVWJfTWpWZTJNaWgwNXI4X2dOcy1vQm1ja0ZJWQ?oc=5",
+          "source": "The Economic Times",
+          "published": "Wed, 11 Feb 2026 15:42:13 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "For stock market, AI turns from lifting all boats to sinking ships - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWs4QlN0OXZ6bjBxLVNEYTF5aGxXRWdZejloWUJHQkpaaGNld0twTGVtWnFqenJZNHdjbnY4UnF5dlI2dk1UVTZrRktKNFNGdHoxYkpsNW9kSGl6SnZUdVlNTTZpX2lVS01fSi1QRXBycTE2cmlhQndwV0xuaF9mamtBRFdFVzhmaFJtVWdGZS1JOFBMY0lzemppRzRaV3c?oc=5",
+          "source": "Reuters",
+          "published": "Thu, 12 Feb 2026 16:10:08 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Scaling a startup: Why you must focus on the ‘who’ as well as the ‘what’ - imd.org",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDhndENHajdaaXk2aHR5Y0xhQXdCeXNnb0VIOGRSa2d6QW94Y0dEb0VmU0EyTW1qWHc5ZVJGVUZqbTBuYmxfTFJnOEJNYWE0aFUzcC03R0EtNEVUX0FKb1FadlpTMDk5cjVJNjRtN2tvYlBnSElnM2xaY1JUZjM1SWtXcE9VbkV1bW1NMFpCSW1yR3pQN3BteklCWmRramxpU0ZpVGFHUUEtUQ?oc=5",
+          "source": "imd.org",
+          "published": "Fri, 13 Feb 2026 08:04:35 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Alphabet stock rises, outperforming tech sector amid Gemini AI update - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFVmb2xCVGJHLVdDOEZ2bTh3YlFwa25idjBKUXR1SDNiZzVvNHJxRWh6Y3k2RU9KNXpfSE5EbTQ5Q2RlcW42aldfSUNWTW9GRl9jVHhpa016eG1VdnBuSUNKck1oTTI1dUhoby1jZ1NHMjIwT29pUHBBU1NpZ1JzblV2YzRuY044b2JSbHdvWXdoUQ?oc=5",
+          "source": "Yahoo Finance UK",
+          "published": "Thu, 12 Feb 2026 17:26:09 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "This tiny protein helps control how hungry you feel: Study - The Sentinel - of this Land, for its People",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGhqeV8tTkhXNW1xU2hzNkJPSDB4ZWZIblp4cUVjaFdPYWRLdlRkMGN3NEFscWMyNFlxa2d2eWNTME90Q0JMZUdhbkZCY0V3OTVzZElnUnNoeTN0WDF0Z0VLVjFvN05lUkJmSTZJOEN2RnNRbjBPd2xQNW4tWERSZ20xTVp2ZTU4b0lWS005R3Mzd3JrZ3prTFJXZ1dmTGZoZEQyRtIBsgFBVV95cUxPZjhaekJ5WGloYWJWdzQ2dGpsS2ozV29jaGpKeEpwRnVjZjBudjByZXRBUXY4N3ViVV91UDk4bXhQY0Nzb0xuZjBvZHlibVFVY3hpTjIxTEs3RVNSY1oxWENCa0g3TjhIeVR1RXRRRXhveXNTYnBOQ0VRQ0djQm1VZnR3ZlRqSzVRUmVEclM1dFBVNm1BZDB4aE1pSU1kdTNmVVY2c1RtOUtkYThDVXFNLXRR?oc=5",
+          "source": "The Sentinel - of this Land, for its People",
+          "published": "Fri, 13 Feb 2026 04:43:53 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Men lose their Y chromosome as they age. Scientists thought it didn’t matter – but now we’re learning more - theweek.in",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNekFFSktiNnJVbUpoV0NxeDhZOXJWaWFTOW5lYjNYZ0RZanhfZ2ZvZXdnQ1IyQ0lCWU4zamxkclJSUU1Fc0lEdUl6eXRYS3dBeTF0eks3SmdnT0o1eDctR0tHa1NyczhWeTZzdERieHZJOU1rX3pmWmdTN04xMVNoTWFwMGhnYm1EcW5Cc1NSeFpWM1ViZzJKbkVZemNlQWEtbm9VcGZraXg5clQ4SU0wOHN1Mk9yWHViR1Vvc1EwTDhNX0tzMGp1dExHOC1jNUljQ1kyTlJiQTdPcVNEaTQzeVFkNTJ1ZjdTQTl5bG4wdkJ2ZzhUbU1qTi1UZDM0SVozZjJ5TXB0OF85RG5oaHVFa3Z3SUNIckhIdUllVGNIelNUZ9IBpwJBVV95cUxOOFVLdFcxQ29RbGlISVVITVI1NWtjblN6S1JKWjdaZDBRMHdWYlVFUFpDWFd2NmJwY1h3TXRQUFVkcEZyemFtd1dTcF9XeGhHYXBSc0lpRkVrYmU2NkhRZnE5bzJtb19tN0JDTm5HZUZtTG14Tlg4YTVoQ25RQVpyMTRKLWlTQ2tKSHkwWFVidjB2TmljcUxtd3BXaGlqaWpTVGR4cVZiSFREQ1pWbS0zM2JSVHRtYVVhSFpSeTNaUC0yLVZXa2J6TnlQUlVDLUtGUXI5TkFZVnJaeFVCSENXd0tjclFoZ29vZ3JqNUVYd0VPeXV4TjBiS0drcE4tUnUtcFBnMzZ5SEJEN0lzWWlKZTMyV0QxOXFSTmdSajFqTTF2cW8wMnpj?oc=5",
+          "source": "theweek.in",
+          "published": "Fri, 13 Feb 2026 04:26:22 GMT",
+          "region": "INDIA",
+          "cluster": 3
+        },
+        {
+          "title": "Donald Trump plans to roll back tariffs on metal and aluminium goods - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemx4UjlSMGRnb3p3UVV6T2FiT0I4RDk2MEF0UlQ5TDl3Nm45cnIwMXN1WTlPQ2gzWnRxdnhOb2pkZUo3ZkRhYzJuZ1lKLTRiT2U2UWxSOXZ3SnNiY0ZSYVdOQTlYblZEV3BKcjU0YXI?oc=5",
+          "source": "Financial Times",
+          "published": "Fri, 13 Feb 2026 05:00:31 GMT",
           "region": "EUROPE",
           "cluster": 3
         },
         {
-          "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - The Sun",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYld2TGVaT21Fc0FjanVkNUZpa3VjZG9wX3Z1YWVVcnhmWVVDTTNTVUd5OThlWkpseGNqdE9BUVRqR2wwaU9LZE9nUTU3SXB1YzA3RjJuSUE2V1pwQ05BV0JvNXJMdDEwaHdZLUdDMDZFTlFXWVFZclV5RGd1Wlo0UHNmNVZpRVprUFE?oc=5",
-          "source": "The Sun",
-          "published": "Fri, 13 Feb 2026 08:28:10 GMT",
+          "title": "Anthropic raises $30bn at a $350bn valuation in latest funding round - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEd0wwdEpiVmQyaWNoSW9VeU9yalBETmpNT0dOQVBrLS15ejJOQk9mSS1pMmVoNGVtZE8zczQ1YkJzdEJvOHAxWnVZdFg4Wk9FVFE4enYyeW5LNThvRTROTHl1Vi1US09iZ3dZUE9wZXk?oc=5",
+          "source": "Financial Times",
+          "published": "Thu, 12 Feb 2026 19:00:03 GMT",
           "region": "EUROPE",
           "cluster": 3
         },
         {
-          "title": "Mother of fire disaster victims speaks to Swiss bar owners at hearing - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fTWtQWEs5MWFmNlo4RE5SN0FwMTNRb1QtanNDNG9CNGt6V0t0eDFlNzRpTWlhWXRaUVphTmpGYnpjNllXdkJfOEV3YWJXOEE0bURIQ2hJeWxqQUQw?oc=5",
-          "source": "BBC",
-          "published": "Wed, 11 Feb 2026 14:20:33 GMT",
+          "title": "GeForce NOW launches Amazon Fire TV app with 1080p60 streaming support - VideoCardz.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkJmQmIzcWM1bWxMM1o2di1WSWc2dGFlbVNaYmtudHFyMUdCanRNakZoQ3ZmU0VGSWZTX3h1eUNLSURmbnpWZGhHRkwwMVRiRDBZODRBdmVJT1JnMmZrWWJkalhnVDE4X1BEMHlvYkswUzBtYVJVVTFkZU4zRFBlODRILUZRZjNFd1Rwd1dQQkdUdEY4V3RxZzZUMVJNNUE?oc=5",
+          "source": "VideoCardz.com",
+          "published": "Thu, 12 Feb 2026 14:21:00 GMT",
           "region": "EUROPE",
           "cluster": 3
         },
         {
-          "title": "Addenbrooke's study explores skin cancer and driving position - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QRWpnTmo5eXB0UDZETHJBNUJJMExjUDRvTDI4YkcwNGNjYUd2MDROaGlLWjBuUDhKbmtBSDlsX0RsaVdMMDBEMnFOdUlYTE1UZ29tOFc4YnFtLWh5?oc=5",
-          "source": "BBC",
-          "published": "Fri, 13 Feb 2026 06:22:38 GMT",
+          "title": "The Gmail app on Android just got a long-overdue quality-of-life update - Android Police",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zQlk2TmkxT01TSlZsUmZMTmR1cDBQMl80VmdXYXFzMUdYUFlWblY5QjdkMzJQbnEwcWIwWktiOEZkRzRTTGNhR1BXd01qd29Gd29MYWVpYzFJQnpwbGVvMW5IcC05WnFHZmhlUThqVmVuZHczNkhv?oc=5",
+          "source": "Android Police",
+          "published": "Thu, 12 Feb 2026 02:05:00 GMT",
           "region": "EUROPE",
           "cluster": 3
         },
         {
-          "title": "Man charged with attacking woman with axe in attempted murder - CNA",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXhZdGdobTNzTGkzVmNTaGVMRW1PV0FFOUYwakVacDBWOW5wS2c0NlU2SElROTVZM0tDMUhNM2FSZ0RZRV94M0tXS3hRejFYM3R5b1MydlNXdkxFeGFXYzNyc245cWp1YkFkOWtQWTZkbS1ENWx4SXExTzBDZ2xKVldwMFFkUDNsakt6b244c0xOZw?oc=5",
+          "title": "Argos is back with another massive Big Red sale — I've picked the 10 best tech deals with up to 50% off - TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQjM0aVY5MjljWmxZOVFOZU9tWWVmek9KUmZNV2R2MnRJZGJLNkZ5SS14RElHd0J5R0pOMjhib3NoNlZhT3N3c1owMEhwSVNzTUhtdVh0cUtEZFQ5bHVHdGllM2tJa0ZFbFhkaUw4WlJrUklteW8tTVEwVDV2OUcwbjJuYjlwTVBnY2E0MW5nNG9DRWltWWJDRVlJMnJKNUhYblZlazBHRDFfVU9MWENtbFB5czBqUm5fVVhldTkzbGd0Zk9JVDYwMzhtN1hOeXRJVnZGeXdNNHRJQ0R2eXNGRGtB?oc=5",
+          "source": "TechRadar",
+          "published": "Wed, 11 Feb 2026 16:48:10 GMT",
+          "region": "EUROPE",
+          "cluster": 3
+        },
+        {
+          "title": "US, Taiwan finalise deal to cut tariffs, boost purchases of US goods - CNA",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEdpd3l1WWY0RjM5bDZETmpLcERieXphWkVva2Q0Yk5ORlg3NlFoRHJ3ejhaSUVPUnFDMlYxYmtLbkdmVzQ1WWd3MkhPTlZNODNhQUR4eFRsWng5SW5lb0ExWW9STkkxbGp0RTBRdEdGQk9UU3lVQm5ReFh2UlRkaGk4MUh4TXJKb3dGR0t0dnVsdXJVbGg4eFZB?oc=5",
           "source": "CNA",
-          "published": "Fri, 13 Feb 2026 04:16:59 GMT",
+          "published": "Fri, 13 Feb 2026 00:13:00 GMT",
           "region": "ASIA",
           "cluster": 3
         },
         {
-          "title": "Shoppers hold man who fell down escalator at PLQ, take him to seek first aid for bleeding foot - AsiaOne",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDc05KQkhQdjNtUFJHMzhJaWZvNW8tMlVQNTladGgxclp5OGE4cEFMQVh6OVVPWEZrbXRzVEFSaWkxT21SU250Y3VKRDd6dFVDVm5nbE9aRW5TU2t1aE96eWVTRTJzMHV0bVFsX3gxYms4bmJJR2VlYnF3?oc=5",
-          "source": "AsiaOne",
-          "published": "Fri, 13 Feb 2026 04:40:28 GMT",
+          "title": "GIC Leads $30 Billion Series G in Anthropic - gic.com.sg",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREgzVlptSXNmQnZPSGJGZUtKRUNocHpLX1hXVE5YUWpkYTY1ZkYxbno1NmlVdjdrMUV4ZXJtb1FVcXNjV2RxYmpWRFYxXzJLdDZ4NUp3cnBSbGFSYlhDa3lqR2k0QklWTU5Rc1JtS3ZBdzlUVnhKMzdGVU1fMjZiU1p1V3lvZw?oc=5",
+          "source": "gic.com.sg",
+          "published": "Thu, 12 Feb 2026 19:09:24 GMT",
           "region": "ASIA",
           "cluster": 3
         },
         {
-          "title": "Blind boxes to be regulated in S’pore to manage gambling risks: Shanmugam - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG1lM2lnTXBZY3ZTTl9Gd2FMU2F1dHN1WHFaTHgtOFB4UzNOZFdRSlozVXhyLTZZSVBkZEVIbkNhZFVPYjVNWk9DdUdRM2tmcmMtaXZ3Q21tbzhUQUVSdlBLNmRNOXJJcnU4RGVsZ0hIOWF4RGFsMWttNGhoNE9USWI4QlhXaXQtcENoeW4wbV9vLXJ0WjZsSmlLWEpPeS1LWUM5N2tua2tLcmVVQjFJ?oc=5",
-          "source": "The Straits Times",
-          "published": "Fri, 13 Feb 2026 09:05:38 GMT",
+          "title": "Scientists discover protein that rejuvenates aging brain cells - ScienceDaily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xNFR2c1RkZWJLVmVwSW1KX19abDZwLUwzb2xsZEhkYlVFSks5Tm80WXdQSTRRVk5MTmR0cHJkQm1SbTVVQmY5aEFELVhQU2M4eHF5eHVOdXZMTTl2SmNxME5wc3VNMUFFcEVjblZIZw?oc=5",
+          "source": "ScienceDaily",
+          "published": "Thu, 12 Feb 2026 14:44:32 GMT",
           "region": "ASIA",
           "cluster": 3
         },
         {
-          "title": "Filipino food influencer dies after eating ‘devil crab’ - Bangkok Post",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHZsWFYtWmhORU5ObEVOTWlyTTA2dnd5X0ZnNnFCNkwyZmNQWTItWk9meGdlWGlvMU5DYi10aTVzWmNNM2V3YW5VOHItNEY4dGg0VDN2eWk2MVRjWmd4c2h6NzBkdWNxVm9qUjBrY0hPcDZwMFNxOHdLNWxDRlR6VlVPR0EySVFHMlVWLVU2aTJNbzNpU0J0bWM1aUI3OFFDd0dKbTl3?oc=5",
-          "source": "Bangkok Post",
-          "published": "Fri, 13 Feb 2026 00:48:00 GMT",
+          "title": "Mixed-material microrobots created from 3D-printed templates - Chemistry World",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWdQdEhPNl8tbkR5VVg5bnJKbTVqZjdtVld5TEpoZGszcEVWeVdUYkdaM3pVc3cxTFNwVW9jdHRfVXVWekRDLUZoWXN3OWVQcE83emdDLWpUbjBQVVpPNmJMYVRYTksxNVRFdzJBRnhiMzJkLUVncmJORV9lU0ZjVllOemstVlNYaUVpcmVyNmZNYVFicUVFam9iQUNtQk0zekx1WEZ3WVZoTFhqQW9oWWZR?oc=5",
+          "source": "Chemistry World",
+          "published": "Fri, 13 Feb 2026 10:07:30 GMT",
           "region": "ASIA",
           "cluster": 3
         },
         {
-          "title": "Hazy conditions expected in Singapore soon - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjdhV2VrLTl4cVp5RW9YWHZhajN4TXZlc2NpYzNZR0hUT3lkMS1rM2UtQlk3ZXdQdGxuRXBQaEp3dU8xZmVUR0tCdElweHBHaXRaY2xRc0phYngwa2pFSlBzVl8xTzRPT0hUWHg2QUtlYlNYcm1fTmhqSE45UHh4Y25Rc2Z3anpQN1JFRFc5TVVfeS1lcEdYUEUyckEyWXc1YWdTMkMwX19MWWRpMVBFUFNR?oc=5",
-          "source": "The Straits Times",
-          "published": "Thu, 12 Feb 2026 10:05:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Property flyers distributed to HDB homes must not be left visible from Apr 1 - CNA",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2R0d1RIN01HaldSTDVtOTZyRG8zcDYxay1hZkNVUHRJLWE3OE8zLTdxZEJpbF9KajZSY2R6eEtxazVvbk82cDhCWHRxQy0wWlJ5UHY0WHBQcWZSMTd6QmJCak1id1ZaTGhGc0xZS0FRMVpPLWVhbEYwU3B4WUthcDUyVTh2ZHNUSFRyNFppcmM0U3oxdjVEa2NzSk9iNmd5a3UzT3pqVTU?oc=5",
-          "source": "CNA",
-          "published": "Fri, 13 Feb 2026 08:00:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "SBS Transit bus catches fire on PIE; no injuries reported - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHNFa2FwMnB0NEY5SDZBRGtFZkFCS3FqM2dGZHhOWTZVd21NWFlJbHpfWjR5ZUoyWndvRHNndl9JcGRjVUQ5WHVMZW12VW5LMUtFTkJGQXVzT29pME84RW1zQXhnRU43WGlTeWhvOE9DZjJRRTRNZjdMM0NfS2pJTHhyNVZtQU9iT2JoZUh0UzdlWUhFd1hfcVdJTQ?oc=5",
-          "source": "The Straits Times",
-          "published": "Fri, 13 Feb 2026 05:50:25 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Jail for driver who was speeding when he hit 76-year-old woman, killing her - CNA",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjZOS1RGWGZoN3BEYWdtVEhjdll4ZW1OTm0xSXRPT1lRQ3lwV0pQVXY3aGR4dGNET0VseFZuc25lUGowZEM5dnBZZlNhempXOXgzNzlCdlJSQzBVN3ZBaHVBcnNRZjE1WERZWlRDYzh6SDlnaVRUUHVKNWVJcXRGcXpSdzBkVDAxVi1lZWNvSjhUTDBJd0E?oc=5",
-          "source": "CNA",
-          "published": "Fri, 13 Feb 2026 07:54:21 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Ex-cop charged with molesting woman in hotel in Singapore - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWJDZzBiSW9NcnQ3MnlpVTZDTENkWGsya0h0Ylc4TzRrMkZtVjFNSDN6VHFEQkJMVzJrN3NCb3NHVGtGUEIzR2h3VklXWXhzWEVkRkM4XzBTSWhuWjVKZGJvazNmLVFJcnk1VlFKV0ZHTVoxei1UbVBPRWc4eTgya3pxZERlMWI4NFFobUt3RG1nTk9hN2NwSGN6RDM?oc=5",
-          "source": "The Straits Times",
-          "published": "Fri, 13 Feb 2026 01:53:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "2 arrested after woman found dismembered in Sabah, jealousy the motive, say police - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2dQRFFBY2NCYUttTFJXUjNJeFhKS1ZIM3pja0lCZHNUcGRib1ZTRHdqaDBtdHNEclRnMWgtOTJoZXVUdldnU2tzWGpEQkZhaU1EcUpxaFl6SDFJbWdGYUd0dFZIZmstZ09RQnYxQUJ5RjA3bHc3SDdPb2RPUEpNdlRuNFNpUzJGdHdzTjBNYVRJYkMyU0hTdjJ3cEVEUHlncmk3YVhjNVduVGt5bDFHTU9kbXlIWk43Rzhmc0hHZw?oc=5",
-          "source": "The Straits Times",
-          "published": "Fri, 13 Feb 2026 01:17:29 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Inaccurate bus arrival timings caused by defective software after server failure: Jeffrey Siow - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYkk4LW9TUlRWMWpONGUxNldidERMY1FzWVc0UXpjeEZ4TzUydXprZzZlNDVXVTlua3Q3T18yR05TeTk3S2p0VV9EU29KYlBNSHBZN2hKTVFEdFBwOVJzYjVDOVNRM0xPV1BSQndESE1za0dmYVQtZDFwYXRKUnR0RHBPZ2tBYXRHampuVkFGZ1hVYVRBY3MyTWUxOGd0ZExJaDVQRXk5Q2xuZmZNZEJnQlhocmZaXzZNTmVGbmR6SEdabTdHLUtzSmlWYk52eWx3cG1mZ3BR?oc=5",
-          "source": "The Straits Times",
-          "published": "Thu, 12 Feb 2026 13:50:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "How a K-pop concert in Malaysia led to war of words between Southeast Asian and Korean netizens - CNA Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFkxemU2elVlUjVlX3dDWlRTVVcyYWxha1pZdWtrdjZwTjA3WmhnWmZHajhnNGtrQ2VpVTZpT0tXajNmaHhfbjBqUU5GekRSc2xWVlp3WDlSN0dId3BEbFlaZWo4WFBkbDktWXR5bEoxc3ZPRkxTMXpvUjROYzlRZ3NkUzdfOGI3Mi1lTTlMT2tNaF9ZY21wMDctQ1BqX3RJTVRXUTBn?oc=5",
-          "source": "CNA Lifestyle",
-          "published": "Fri, 13 Feb 2026 08:19:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Paris Baguette Singapore outlets are now officially halal-certified - CNA Lifestyle",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjh4bTFueVFEM25scHJad1BqQzhnbTRDY3dyQUIwZDl1MGpiN19BWVJHckw0dGhfd2llOWNDU0UyYVJwWGYwNmxzYXJZN3Q1czgweXBacnlYMHlFZFFfMjFsNUJlcWlYWVc4SUNqVVk0QVlXeHNYREJDUU5YZE5FRWNOdVhtWUM4QlJ0S0JB?oc=5",
-          "source": "CNA Lifestyle",
-          "published": "Fri, 13 Feb 2026 01:30:00 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Malaysia has positive chance of beating FIFA in court: AFC - VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURPZVczdWJBN0J5ZUFNd2VCTkpJMWpYa1M4TGQ0U3FfXzg2YlZFRXd1WklEblZGT2ZYVUtsWC1wdVpRTFY3d2QtdFBnU3RfeVhGN1pDUFJjTkUyYWdHNmMwS0JfWXZxTm0yUXNGZE81cEdpTWRLZVRMY3hqOE5TSWp1Q1JnSU81XzRIakJHb0hxYnNpTTdTZEItUXN0ckpBWjdjUE9kS2xOMHdvZ2hoX0UtUzJvZw?oc=5",
-          "source": "VnExpress International",
-          "published": "Wed, 11 Feb 2026 23:19:34 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "Solar storms at sea: Why space weather matters for shipping - Gard.No",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0hhaEtGd0Z6Rk9QYk1RdjExOGh0ZXkzSkduVGZoVDdjWHNSc0pzWGM3d0F2MldPX0gwRUN3ZWhmUFB2dWVSTkMwd1hVRlFWVFhkdk1VUy1GaXlySjFYdWxOSzFiQU9pMWZpbWFQX3BMNHhEMlZXSzNUb0dmWWZKSjJpaDZKdTQtVjdGNEt4Z2I1cnpiRGc?oc=5",
-          "source": "Gard.No",
-          "published": "Thu, 12 Feb 2026 08:19:11 GMT",
-          "region": "ASIA",
-          "cluster": 3
-        },
-        {
-          "title": "One in four stroke patients who recover does not return to work: Singapore study - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2VwdW5GbjdKM0REcV9LY1RaQy0yQjZjRHVKcVk3X1lVbF9JMFhqVlVVOXVieG1WYUNmSzlXR09FcUhULWJnelUtZkZqRmNOLUwzMXZFa182Wl9hVmJvcVdGT0dHQ3NMU2pMeFc0UFZwOWROQzQyaE5JS2V2YnFKZ2pmZEdfVVl3MnpZdkFKMzZqVTdsV3J6ejVIclVrVy1XaVpBaGFFRWFBNHc0ZkJTZ1Z6WXluaV92S3VtVHhPS0pTODA?oc=5",
-          "source": "The Straits Times",
-          "published": "Wed, 11 Feb 2026 13:15:00 GMT",
+          "title": "Natural gut-based compound developed to support weight loss safely - Medical Xpress",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbV8yV1JCeGJNOWV2c1dZYjd2aHRjOFRXRmRtU09TZzJ3bFMxenl0ajNMSmRpbUxUUXI5REZMdE9hN3U0ckNQZVRJa1lKSXYyTWJoRkd2VG1HeFRlakltN0ZVU01ZeTBPRVBueUtfYU9RSlFPNXk2NFBJNFhKOVN1WXRLZw?oc=5",
+          "source": "Medical Xpress",
+          "published": "Wed, 11 Feb 2026 22:21:23 GMT",
           "region": "ASIA",
           "cluster": 3
         }
@@ -714,130 +810,10 @@
       "group_id": 4,
       "articles": [
         {
-          "title": "FBI releases first description of suspect in Nancy Guthrie case, increases reward to $100,000 - CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUlPVXVzVGttQVBkSzZKUS1vX0o2SFZmQjAwTG11QXlTaUd6ajFxVjFwV29WZVRmdER1aVJ6Mk1VM1JSUXhNMTlGTUc4bkFUcVVDdVBqRW8tTlRzQnJmN19zYmVvS3Q3LTJEYTFwOFhLdk5LVE51WlhYREVlQ1o0SmJEY2RMNzFfUDlrR04wUzFYbmFNYi1ORlRzVG1NNXNTVEh5dERfQUtwanpFal80ZE1jR0JMdWcwZ2lGZFR3QUNBc1HSAcgBQVVfeXFMTm56NzRJbGpXZlJsV1JuZUZsQ1REZmdtTEtNMTZwbXhwRHk2SUF1RVQ5bjhIVkp5ZEZLU1BSN1hrWlJQTWc5clB1TFphd1BHNUI4X0p0WG1FZFNUR2F0UFZSTmM4d0ZEX0Rrd2J6UmFEUlNVUjFxLXFKV1hDakU2N0o5eXNBWUV2Z0xZcllzeEZSNjVnQXlKR1FEWWFjcEx3c3RzWFNBbE4zMDN2NzZSeTZfUzczYmJ6SHRvcDdNbHZGS3Ffd0lOcm8?oc=5",
-          "source": "CBS News",
-          "published": "Thu, 12 Feb 2026 23:52:00 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Goldman’s Top Lawyer Departs Amid Revelations About Her Ties to Epstein - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjZwMHBmNXZlOUl2MGpvOEd0WUJ4RGVoR25RdW0yTGtxNFJiVGpVX1gxZTRwT2x6UlBpaHlVeUVfMGc4THFrdHlEc18yVVZqMjdEVVdUMzJOSE5HRmRhNlVVcTg0aS04cjR0ZC1VSjRTZEcyMXB1QVUxS2VNZWNLdE5SVndZNDVvNkgyS19zdk5VQQ?oc=5",
-          "source": "The New York Times",
-          "published": "Fri, 13 Feb 2026 04:22:21 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "The Epstein Files and the Hidden World of an Unaccountable Elite - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4taWRfckxJZklhVlFpSzFsdTdYM3hoaWdzdEczTTZZdUJUMmVIODFOWnFTVmhzbjJrZDdLSnljcEhjZDQtTFVlTXM1Qzg2RkhFU0VycnEyNXZTU0hqb0VnU05ONWRCY0ROcEt2NUtJTUxvX0U?oc=5",
-          "source": "The New York Times",
-          "published": "Fri, 13 Feb 2026 02:26:14 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Ambassador Greer Oversees Signing of U.S.-Taiwan Agreement on Reciprocal Trade - United States Trade Representative (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnpmZDRzU0MyMkJKU2l4MjhlYjBzZ0Q2ZVp6aGdiZnJqVExuUU1wTERDY1BaUFhGWnlPWXMtWFdrM2U2SzNpZ0ljTlBFWVRhUjBjVldsdDIxbU42MG13UHlhN3BRTDhKUUhOOFNTZjZJc1R5THhIeHl2OV9aOUFOdHdXV2stQ2EyckJHMkUzUXo2VnVYa05oR1Q3dXlZM3BNUmloVlUxRkJGY3gwTXM0N3dkN3pGbE9laWFFdWRRQkV0YU1pUzJjNC14S0IxRVA2TEtJUHRYdjV5b01mTzBMRzB5U20?oc=5",
-          "source": "United States Trade Representative (.gov)",
-          "published": "Thu, 12 Feb 2026 22:46:23 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Democrats eye legal action, GOP seeks answers on Trump admin \"spying\" on Congress - Axios",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdG5Bbnhmb0VxdEpLU0FVcFQ3WUZTbmJ1WU5WeTBJblZyVnpfZFdtZkhXMEdsei1WZk4yQ2QtNEZGcGwtRGxfandyMUJfN0drUVRtbEhyZWMwMkk0WEtpX1p1ZEZYNzdGQVNjdDFOaUFKOWNfQlYwNGFwNXdjaDd5czZn?oc=5",
-          "source": "Axios",
-          "published": "Fri, 13 Feb 2026 04:44:32 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Second US aircraft carrier is being sent to the Middle East, AP source says, as Iran tensions high - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWpDTl82THV5ZTVTMTNhbXpxc0RZSkE1dV9FM3hmV3lyUHhDeTQwS19EREljVEd1OGdhZlhnQjRITmlDS3lwbVFnbG1qQWFYeHZZdk9mdmpUWkVzclJIZTdLM3BlaGFNWFJ6Q005OUpCMTByTFZ1OEI2Nk9IcURadzlEa25ZbHZQOVZ3a2VVN0UybmthdjRhWlNwODc?oc=5",
-          "source": "AP News",
-          "published": "Fri, 13 Feb 2026 04:57:00 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Pride flag flies again at Stonewall Inn, challenging federal ban - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlZKcnY4SHdjSnFPWHhnQjVjcmdBMm5lR3pYeEFLck1XYVR0b25hWVhTczJONlRQSExha1ZMMUhfZ3c5Qk1qbDI2VTlCUUZ1VU0zYW5YemlSVmtLTnI5WnR6RnV4ZXNjbGhNcEwzMGhJbWRoNkp6VUNHb2FyTzRsNWlKZmI1NE0?oc=5",
-          "source": "The Washington Post",
-          "published": "Fri, 13 Feb 2026 06:56:40 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "CBP officer faces federal charges over allegations he harbored an unauthorized immigrant who was also his girlfriend and niece - CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVBkZVptOWFLSjJ5R19mdG9HZEQ3MkF1eEpNY04xbEpkQlEtS0VZXzVFSTZyblJBQlNfdko2V1BLYk51NW1EOFVNZW5mdk1UYlNpVmlPUFcxSEJVbHpzM29wVHVfajNfRTZtc1dpb0xqckloTnJraUlETDNuNUdXMXNzOFBSVXE2S3VGbV9ST2EybnJ2V0Vzd1U0LUdWQzlaUWhHYUJlamlFdEx6NEpiU2lseEowc3h1T2fSAb8BQVVfeXFMTXZYN0cwdjZ1QVFlTGt0MHAxdkZ0enRXdGVUNjJ0dTNkcjRnTDBvMWFjbGM0LVJvUXhzSDd1Nl90cjJTTFhfRGNaejlGRWtrZHVUSWxwUEFFNWJCQWJqSHdBOXE0cnBORzRYcGNFWjJJd2lYTVgxRXFaeGlRcjAzN2l0OVY5ZjlMMGtsZUFvVGNhbTJkRU1SeXFVTWRnRHFUR25YR3JQdU93Zk5iczlzWmVxRWNjS21TZU5lbWREM2M?oc=5",
-          "source": "CBS News",
-          "published": "Fri, 13 Feb 2026 02:22:05 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Former McKinsey partner to lead Australian opposition party - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWkZqQ3ZxR0xLNlcyVGRXNlpYZ0thTWNiNzd1SFFON2JNcEZxNmdYQVlXSVRPRXFlVDJMckFaOXJrLUlRSnozc1R5dy03RXQ0TkFIVi16WDY3M0JSTThfUW9wRFhTZ0Uxem1ZU0VuY2Q?oc=5",
-          "source": "Financial Times",
-          "published": "Fri, 13 Feb 2026 01:27:34 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "EU leaders ready countermeasures to pressure from Russia, China and Trump - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0xmWFNBVE16WmxMaXJxYlB4NEhiS3VfbVBwME9yUUg3OWtXMTBYcFBUdHZoMkdhWW1rV3MtVWMtZnBNQ05NZHVNWVZYTkRXaHpoX0pyLVY1NnZVUl9xRlZ5RUpJRzFmZmg0bHBFV0xzN0pYczNSVTZaUUFrQWlhU0lubjljejVhZlhGY2tpa0h3SU03Q2o3X1V0QW0?oc=5",
-          "source": "AP News",
-          "published": "Thu, 12 Feb 2026 21:37:00 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "‘Death to Isaac Herzog’ graffiti seen in Australian university - The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PQ2Vta2dFWnFiazdscnRzallXblh0U2RfU1huOGxYbFVyUTNZVC1LM3NrLXk1WlN5UG4wX1lXZG4tZGI3Nnl1eWQ1SWZMR1BOMi00YUozTG5YSTBxX0xxZTFhVl9jTkVCWHc?oc=5",
-          "source": "The Jerusalem Post",
-          "published": "Thu, 12 Feb 2026 08:47:58 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2dmNllRMS1OZ3M1eFNPZEx1eTlEMUpKUzJEN05tMFN2NEJsemhNeTgzOVhaRVM2aHRIbkhQNXRjMmNhZHYxTmZyS1VDMXM2TTZ6Uy00UGJXemtxQTZJTHdRR2tDNDB0WGJMMWN0VWVnemphVDI0UlZIRGFkbTBrUTAzTDNhSTktXzNDUm1vY0JjQ2NpMGluRmk2Vk9UVlBVLUZxVzlWX3k?oc=5",
-          "source": "The New York Times",
-          "published": "Thu, 12 Feb 2026 18:59:17 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Republicans Have Moved Into a New, Even Dumber Phase of Bad Bunny Outrage - Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGtkR2V0LTR6Yl9oMFd6U3BVbEMtTi1WemVzN29CYzcwNktNU19OS3dJVUM2aFNBSFFpV2lObkZHU2dkQlhnVmk5eVFjZGFNc25aLWd2Tl9veGhOdHo1NmhCRWtKOVdBakdSckRiRmp4TVBnRnVONE9GSjR0eUZRSTd2d3NJM1FHeWU0bVFGdWxQOGxpT2pjUnpGVUpibWdwY2JiTnd5bEo?oc=5",
-          "source": "Rolling Stone",
-          "published": "Thu, 12 Feb 2026 17:49:03 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "King Charles helped Andrew buy Virginia Giuffre’s ‘silence’: report - The Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1T1RlTmxyVWVTUVRjNnI3dnBQQ0pEYl9Oc3BkVk1zaVQyRU1HdV9OMjV5d1dDQUtCeWlYSVlGVTZPTk9xbTMtYV92QkxwbjZ6WTdlX3l1eUpZbkZRRXVVSnl0bWJTYmNNMHdLT1N5anhRZTdrTnfSAXtBVV95cUxOQ1hKUnZGTnYxLTlsckpFVGlTRWlQSFVKQkVydDB4YlRFNlE2YUtLTENEWGFNbmI2bm5LdVl5cXduME1BVms2SXdxdy1mOWhjMWloYUpTZl9NM1JjNXpGYXl5bGI1YWg5dGxfNk1BWmRmRnZXNWZzY25fbmM?oc=5",
-          "source": "The Mercury News",
-          "published": "Thu, 12 Feb 2026 22:49:13 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "‘Crime 101’ Review: Stealing Diamonds and Movie Ideas - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSHk4cHgtNmc4SXVJZ0FFTEJid0doNV9mOG9mVDdxUEFUOHVLR3J4eURKRmVkbDJLNnNEeU9ybDcyMDZfcTVpV2poUHE4Q1lsYl9icnY4bXdsZWNJd1k3OHJlbi1FVDdfWXotekdDaEU?oc=5",
-          "source": "The New York Times",
-          "published": "Thu, 12 Feb 2026 10:02:47 GMT",
-          "region": "GLOBAL",
-          "cluster": 4
-        },
-        {
-          "title": "Will the NFL take action against Steve Tisch? - NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHFBMnhieEVLNjZLYXlnMk94cGdnUmZQM3JwSmhvSnZpWmhUcDgyMHhDZktjSFNHLXU4SDdBWXIzUkdpRm9TUVFTbzVsX0dHN0FTcmxfQ3V3WUlXSXVfekFZdUVRRk1nMmFYVXo0aER6QzhjcWE3d0h2MzJ2NXUzTlJNWmFONEFLaUd3R29wLUxuTW02TDBlRnNSRElDeVhwdzZpY21IbXRWZw?oc=5",
-          "source": "NBC Sports",
-          "published": "Thu, 12 Feb 2026 22:26:36 GMT",
+          "title": "Casey Mears races to Daytona 500 starting spot; BJ McLeod qualifies after Alfredo’s finish disallowed - NASCAR.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGtVNGV0Qlg5cTZadGw3QThHVkNLa2dUN2dUcnpqOWlCUm5DaHI0UlpyRXlhUWNTRWRqcnJRR0plQmhQOGZ5WGY5dmE3LThueWdyR0VUWkhGdkp6MWRtcWJqSDlRT3UxZ1ZuSUtwUzNqT1ZhTFppVXJyaktOWWNVcnZTSXM4WXJBYzJKN2pVWW5lbTNYU0JPQ2x3N2ZCY2h1TFBiSlRBRWdDUdIBrwFBVV95cUxOUWY0SVFsWGRQbEM2T0RFOGRGb2hORjdzOTkzd1hNRFhoenpDMFpXZExpX2x1NWdGel9qMFF1aFhTVzZKSjNxYmUyNWhhRGg4SmM5VXpQczNtdFdPUVpoZXdfYXJTY1UwczQyejlXd21HYW55ZWRVWUV4NVFmUERzZ1E0R1F2c2w3NDVaU3FtRzZEU3FyeXJ4N0VZM3FaQ0J0RWl1T1lqV2hBaEQyR1d3?oc=5",
+          "source": "NASCAR.com",
+          "published": "Fri, 13 Feb 2026 06:29:25 GMT",
           "region": "GLOBAL",
           "cluster": 4
         },
@@ -850,42 +826,26 @@
           "cluster": 4
         },
         {
-          "title": "New York Fed: U.S. consumers, businesses bear nearly 90% tariff costs - Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazBHVHVfdmdaOW1TLVZITkM3MjlXOFBNZGRaeTJEWEpqT3dmNGE0QWUtc2Faa0ZoUWxtX0JxUFNfb21EczhlaW9LT2VJQm9pQ1hwRWRzaHJqRVZfSGRmaVdFbE02dTY0RUM1ZlF2ZFVBU2FwZ1dBOE11RWdOQUVrVFAzTTJ6bWszNW9ETFVjZ09DQUNk?oc=5",
-          "source": "Forex Factory",
-          "published": "Fri, 13 Feb 2026 03:59:00 GMT",
-          "region": "INDIA",
+          "title": "Johnston County Confirms First Measles Case Since 2018 - JoCo Report",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEtVSzBYaVU2OHdWa1NnOThUWnhUS0dsR3ZNbGZob3doSlFCUWNxRWx0TWxSMEVUY1ZRNjFObUZkSF8wTE9wRDRnVkxqLThCc1kxOFN0MVVPZmFMWHAxd0E0N09EVXF5SVpuZ3NqaE9pc01yS3V4VGl3RFQxcllTTHBTV2U?oc=5",
+          "source": "JoCo Report",
+          "published": "Wed, 11 Feb 2026 17:20:20 GMT",
+          "region": "GLOBAL",
           "cluster": 4
         },
         {
-          "title": "Trump ends Minnesota immigration crackdown, 'but we're not going away,' says Border czar Tom Homan - Mint",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTGtIRk52aGtucXJwR1V3VGhUSTVMMHFnYUZDN19sZFJPYTBBaHVZdDhCYXFINnpGUURZT0ZOOFdqRFhKZlFPMmRLVjM4Q0pFVlM3ZUVlZm5LVXVYSnVwV3loZm5yT0o5MmQ0SG1fdURHbjl6MkpEdjB2X2NySWJ1M2V3TDV3RmlGN2FNNndDa2hhU0ZwRHFINUZZeVlhUWRQNDdNZzI5TjVKR1k2TmNiUjFWNXRjeE03b2FOOVY5TDJhWjFCOVJaandvTERIZjBYMURJNjM2LS1HZ19JZFZ2SFRvdmxFQdIB6wFBVV95cUxOSDlIclJvYXZHbmhRZDRnN2wzZHpMbU1ycHBkT08tNXI5RW1WdEp2bWlHVkZhS295eGpZR29pR2NqcFpjd2owV2xWOTZ1bVFSNEVLZkRTTU1TNW0tOWh2ZnRDYlZYVG1qbE1ZXzJDMjkwc1BtbDN6enQyNnRMMlRqWm9zLUlvMk1rUmJUelBjRUVESjdWVldZWDByZ2FIWjJ1bktxQnpiLWc4c182ZTdWb3BwYzFYQlpObGRfQ01NYVRPWFBFWHNlRUxvSHl0UVBXdVhNaHJsa18zLW95V2VLZzIwV1B2N1J5RUN3?oc=5",
-          "source": "Mint",
-          "published": "Fri, 13 Feb 2026 03:10:35 GMT",
-          "region": "INDIA",
+          "title": "57 cases of measles confirmed at Ave Maria University, 7 currently contagious - WINK News",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0ZMdHI4RjFiR0hSUFJMNG5VaFoxRXZTSTMxM1JRR2FiUHdiOGVuRy1pVWEwSzRBbkpUZlFncUFYQ3ZTSGMwWVdibTBLclpXbDNoRzI2YWtld1o5MUNFSkgwdXd6aFlWMGZwaTdPb1ZyYlNIS3FMdmVaSlJjWW1IR2RXQ1hvMlNZVmNhYy1MSXloT3pTdC1Rc2ZETDZxUGtYMTlWc3FTeWNQRWZkZlUzLUhnRE5KZ0xwSWh2NmhRcGJWRXFUWEVIeGFLVF95MUk2UUM0SEY4ZHEzRzYtTkFBTUNNN1FWMENoZm15RThERVcwd29XSkc4?oc=5",
+          "source": "WINK News",
+          "published": "Wed, 11 Feb 2026 18:45:28 GMT",
+          "region": "GLOBAL",
           "cluster": 4
         },
         {
-          "title": "US, Taiwan finalise deal to cut tariffs, boost purchases of US goods - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3V6ako2b2hSTks0VzNyaVlaTzNaMEpRa19rQUlJSHZ4YVFqSzB1SDVudXY4UGJvTHc3V1EzR1U4SF9BTzgta0hmU2RpZ2NtNThXSmNtLTRTcnpUX1RUVWRQUy16aVJRNVZfOVQxY0RTUklKb0pralZwQ05LcGlUMWNPZnJ3TVNQamNoWmFnaDRSRzk0ZGRGcEtISWo1UTNvR0VubUZHTGhPb29Zb2g5R3dEQjF3ZjNBU2FKN3hfVWs?oc=5",
-          "source": "Reuters",
-          "published": "Thu, 12 Feb 2026 22:07:00 GMT",
-          "region": "INDIA",
-          "cluster": 4
-        },
-        {
-          "title": "Apple 0-Day Vulnerability Actively Exploited in Sophisticated Attack to Target Individuals - CybersecurityNews",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42SW1nZWdPejdJd0RlbWlGQmtSZHBZXy1CTjJjMk82bVhVZU42cnNDVHp2YmxraUhGZDYzQzVCYVpGblMxdkVIT2xlaDhfMnRDc1QzejYwMVRXRVRIelRVeHhHSG1DVFFYMjFoVk9YNE1iWlpv0gF6QVVfeXFMUERDNk5Xbm92NEJZMGVVS2pyd2pjRFFocEJBTmtseldCeHN2ZF8xc1NvUDNseGFRZFVjMnBycTBrSnVaZ3RnUlAyeUpJaEljTUxJTXp4SGdaRXFqMmVELVdXMXZsNkFvc2ZWb2VNS3ljZTA0ck5xUTJDMUE?oc=5",
-          "source": "CybersecurityNews",
-          "published": "Thu, 12 Feb 2026 02:42:16 GMT",
-          "region": "INDIA",
-          "cluster": 4
-        },
-        {
-          "title": "Emerald Fennell's Wuthering Heights divides critics and audiences, does it manage to capture the violence of the original novel or is it just horny? - Softonic",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVXlYX1hxT09NekdORC1JeTY4bnVjN293RDBSSUpsbHAySjZ6SjU4R2ZXQXhfa0pCSWpZLWVtNUgxVVBRQ2xpOGtyWVgzZWYzOHNYRHFIUEhuSXdqVk1Xa2pkV3RLcEhjbzY2aWZpc3JLTWhDQ1NieERxN3VHeExnX3JhakJlbzlhOEVCSUJ4dkZPZXl5UGZqSUNFVm9pVjU0Snk3VEZOVFdRaFZxVjJtclc5LXRyVWd4Vk5kYkh6MlJzM0tNTUU1Qlk2M3NtRXA2WUdZbnJaci1IZklnb0JKZnVtMFpDT2JYbW5HbWJXNHd1NjBIb0c2amJhejVEdS1vLVNVYjc5MkpRZw?oc=5",
-          "source": "Softonic",
-          "published": "Thu, 12 Feb 2026 11:07:56 GMT",
+          "title": "Biological E. Secures Phase II WHO Pre-Qualification for nOPV2 - The Indian Practitioner",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2Uxai1WLWJwNkxJckRHYlNZcDlUalplZjdYU2pZdXZ4WFUtNF9JVExqSEZwSVU1YU5ad1RiWS05WmxLbjNFVzNRcU9nSlJyUHZaSzlLMUFKUExiZm8yUjNYbjl0Nk4zekluRDFSUWhUa1k4Z0lJY3lWSHVEZ2llVHhaTTRjUHk0SGFIdVFUZkMwMHRXNlloQ09mSDM?oc=5",
+          "source": "The Indian Practitioner",
+          "published": "Fri, 13 Feb 2026 07:44:55 GMT",
           "region": "INDIA",
           "cluster": 4
         },
@@ -898,122 +858,82 @@
           "cluster": 4
         },
         {
-          "title": "Trump revokes landmark ruling that greenhouse gases endanger public health - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFc2JSdE5jWW1JdVFrZlVYcFlBZE9uUnRDZkQ5VEh4QjJEWlB5OHRmOXp4Z1VEcGEzMkxjNmJTRmdqSkFGX3lYcHJ3LTNEWTJocFpmT3dLNkV0S0xC?oc=5",
+          "title": "Bikinis banned on Sydney bus over ‘cleanliness’ concerns - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFh2dWkwb3NxRUpmdTF3NDVBc19NWjZDMlBGNk9aS05UanltTTRmaFRuUXhydmpCaTRHWUJPZXdiQnBudEZqN0V5RVpvTzZpVXBvQUg5TFIxVDhPLUY4UXFlTHRFVlB6dWVBRlZ0a1V0MFNKRjZ0V1Nfbld4WHRVYmJMclBHazlJZkVOSTdBYw?oc=5",
+          "source": "The Guardian",
+          "published": "Fri, 13 Feb 2026 10:29:00 GMT",
+          "region": "EUROPE",
+          "cluster": 4
+        },
+        {
+          "title": "Vaping in cars with children could be banned under new plans - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZGZ2Sy11dmp6TkJ4VExlenNzQUhJSVVoQUZJRDJCaVdJNDNsUTNNUWpZaDhPdl9LeUlMcHN2Vk83Zk9JRjQxSG9Hclk0ZDY4YThRTmNFN0dBRm9B?oc=5",
           "source": "BBC",
-          "published": "Thu, 12 Feb 2026 18:46:47 GMT",
+          "published": "Fri, 13 Feb 2026 00:12:27 GMT",
           "region": "EUROPE",
           "cluster": 4
         },
         {
-          "title": "Democrats at Munich security summit to urge Europe to stand up to Trump - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDBzSm9hVUhPVG01Tm41LTM3azctSUJoNjJFTkc4aHdrS1dGVl9BZEhweUtTeGVmdEZDb1dmb1Zfak01b2FoOUVPYy1QWVdwRlBIb3VIY3JScUZlOFl3WDVRcTVwcU5JN2pkbldpZ0RveXhuLWxGV1F5SktNR2YxaWczWnB6UTEtYVlnc0pZOTF1dUZxZVRleVZYWEwwUGNrUmhpSjVKeGJGODZVSXNpWHE4TFI?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 08:31:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Trump plans to roll back tariffs on metal and aluminium goods - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemx4UjlSMGRnb3p3UVV6T2FiT0I4RDk2MEF0UlQ5TDl3Nm45cnIwMXN1WTlPQ2gzWnRxdnhOb2pkZUo3ZkRhYzJuZ1lKLTRiT2U2UWxSOXZ3SnNiY0ZSYVdOQTlYblZEV3BKcjU0YXI?oc=5",
-          "source": "Financial Times",
-          "published": "Fri, 13 Feb 2026 05:00:54 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Reeves urged to reassure MPs over public finances amid £6bn-a-year Send costs - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWpXMF90aGVWdUI4ZkRDbUtKR2ZXeEF1V1BZTng2WGVkeG12VGJXQ2lxUHN2NDdid3VVLVVPeG1MZllsWTBVMUd3NWY3ZmJncG1TaXROQTI4SGdFUEJlR2tPRm5SS3E3X0txTlhEODU2VVVYTFBlQkRQMHpmZ3Z2X2E2RlBrX0dTdnlEX01DWmZtSlMwVEgyRlJTejFoMlFDa3Bz?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 07:02:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Keir Starmer set to call for multinational defence initiative to cut rearmament costs - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SzJwY1FIdkRUbU41d0JNeENNTldIYW9QWGZjYzB1NzVsQ1VnRFIwNk1FeXkyUU5HZVNZOWc1VUJlQUtnd2plUXFkdEV2aE4wU2dwY2w1RVU0MEdlZGZYQVZxN3BwZFFMWnFHeGY0Nzg?oc=5",
-          "source": "Financial Times",
-          "published": "Fri, 13 Feb 2026 05:01:54 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "British tourist detained in Iran: ‘I naively thought we’d be OK’ - The Telegraph",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUk5jSUpsNTFVU0d4X2pGZ2o1S0NMeGZpX3Fua2VBT0ptbjA4U2NTbHdzXzZFY3d3cXF6ZWdPbVpmYXNyT2lYN01wbzVsUUtmZWdpSVVpdjRoeUZ5QTg5bFNuYmMwVVJkXzF0a0dTRXFUYjk2UlJDOExIaFJpS3F0VGNTRXlFUGhacmxrRHlXNS03MlVwZzUyX3U1elpKSFpY?oc=5",
-          "source": "The Telegraph",
-          "published": "Fri, 13 Feb 2026 07:35:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Global beer company with 500 staff based in Scotland to cut 6,000 jobs - The Scottish Sun",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY095LUVIVDlucmFPUU5SSUZOc1ppMkRiYUF2UVUycV9NQWlTZkt5QlVhWU0teUxEdHVhdTREcGZkQU0xdjhwMUQ1RTRWRjhKQ29SZGg2aG5TaERCMFA5UjZ3QnZjSEFjV1pMeGViNlpnX3dfR21vSjNueUR5MG45elZZMWg4dzZfYU5GaklhUQ?oc=5",
-          "source": "The Scottish Sun",
-          "published": "Thu, 12 Feb 2026 08:17:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Attempt to modernise NS&I has been a ‘full-spectrum disaster’, MPs find - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkhqalRwZ1BXbUo4YTdiVmhRYjh6a045eHhGVGc0Mmo1MXB6aVZVaVpVSk9PRjhSdjZXZnlTSHMwVXNYUTBOLU90YV9PcXE2NVdyNGFMUGhrZHpqenM3U2QyZFh6enA1bWp2Tzd1cC1VSFV4WFpQazFEenlPWm45dDQ0U3FYNUNFT2JjMFpKUERZOWNWNm9uS3RfbU1wWTRuZU5ydDRjekk1engteEoyRFB4SURJWlBId281Z2k1RmpXUHNm?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 09:01:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Apple faces new tensions with Trump administration - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dkdHUHpSekRMUjdHSHJvOEJfdWtyWkZxUDZNajFKc2ZhWHZGTWtGSzVabEp2T251cEYzbF9ubEw3dktsaHd5RjF3TmV2clYxVmxrRzZUUmdsOG9pVXFpMXNCRTVHeUFjT0NLTVphUXU?oc=5",
-          "source": "Financial Times",
-          "published": "Thu, 12 Feb 2026 02:17:46 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "I’ve tested Sony’s WF-1000XM6 wireless earbuds, and they should worry Bose and Technics - What Hi-Fi?",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zeGVZclFwYkNhYU1GdTZta3JLdVJXT1ZGdE1LcjJma2NZbXRQakQzSXByOWpsQlI2RDEzU2ZKOEx5VThEY3R3LVJ0QjhXem1RRUFOVy0xSUhyNzRkT3lwaTctNDlJclF0TUJLbWRzWXI1NmlsVUNV?oc=5",
-          "source": "What Hi-Fi?",
-          "published": "Thu, 12 Feb 2026 16:00:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Steven Spielberg donates $25,000 to James Van Der Beek's $2m GoFundMe - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FQjVJdlJITVg5ajFKRDBKVlZYY1daS005QWxFQTUwS1BMZ0U1QmNabjJOaTJHTmFpdXV0azZnTnBkMEc4Y2xMNEtfbDRUMHZuV2pRamp1a0dVMmx6?oc=5",
+          "title": "Addenbrooke's study explores skin cancer and driving position - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QRWpnTmo5eXB0UDZETHJBNUJJMExjUDRvTDI4YkcwNGNjYUd2MDROaGlLWjBuUDhKbmtBSDlsX0RsaVdMMDBEMnFOdUlYTE1UZ29tOFc4YnFtLWh5?oc=5",
           "source": "BBC",
-          "published": "Fri, 13 Feb 2026 09:40:18 GMT",
+          "published": "Fri, 13 Feb 2026 06:22:38 GMT",
           "region": "EUROPE",
           "cluster": 4
         },
         {
-          "title": "‘We thought Midnight Cowboy might end everybody’s career’: the diverse, disruptive, Oscar-winning cinema of John Schlesinger - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdORWRaRTB2Sl9mNlB2Wl9FQkxRWnlWNW5fdmJPY1cwVnB1aGkzcGwxUk5HNGlXcTFra1V0U2lZTG9mUS1ibExrY0ZscldkMEpzQ0hzVGF1aW5vOGFNZ0w2X3R4MGhqelQyVmxMTGlfQW9SdnJrYWdUTU9yc3hHLXRIRmVSbXlLTUlQLTUtQ3hwRGhWLVNkZ2pQMHd3OG1iNk00TmFXdHVRTzA5?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 08:33:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "It’s Never Over, Jeff Buckley review – a sympathetic, urgent look at a life cut tragically short - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hvUG1sMVVkQWpQQ2tiWkpnRUY5eVpSSG5kWmpKdUxOWTlEaGs5UnpCTVFIZExxS3J1eTdUX1Vmb0VMQmRfRF9DMXFPTlRqcEMxTXJQblJEUllQRnBxMGRmZ0NkcWdYeXhlRFdkV1g4Q0RQOEp3cTVjb1B1S1M3MnprVUFyalU0LVl6czlmUDNQYjV5QWduX3VsYnVrLVhsaV9abml4eDdBR2lyQjdXVktXbTByS2xRSlFCZDk2SHItZ092VXUwQlktVm1zTUNaWFE?oc=5",
-          "source": "The Guardian",
-          "published": "Thu, 12 Feb 2026 09:02:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "Criminals exploit ‘stigma and embarrassment’ to sell fake erectile dysfunction drugs - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWRmOGp3RjA2cHU4T2UzSXpDbFNONHllX2o5QjJHdDZ5RDdmUjBLcElHeDBTSEl1UE12aGNZU1Q4SDZvUnA3VVhnVUJ4VWRRVFIzVkIzbU9zQnFVeGhOXzY1ZllDWkYtWjhoSy1MdEtleUpyc2xSQks0cWRIMEI2ejlDWkJKbkFWYTBKcXFvd1d1SzV2TFpEcnFyb1QwcGRjNjFvYVA5T05CSTZWUkxVWlBjUzBEMGJZclBUUmpveEZXSUFpU0dPWHRB?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 00:01:00 GMT",
-          "region": "EUROPE",
-          "cluster": 4
-        },
-        {
-          "title": "US, Taiwan finalise deal to cut tariffs, boost purchases of US goods - CNA",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEdpd3l1WWY0RjM5bDZETmpLcERieXphWkVva2Q0Yk5ORlg3NlFoRHJ3ejhaSUVPUnFDMlYxYmtLbkdmVzQ1WWd3MkhPTlZNODNhQUR4eFRsWng5SW5lb0ExWW9STkkxbGp0RTBRdEdGQk9UU3lVQm5ReFh2UlRkaGk4MUh4TXJKb3dGR0t0dnVsdXJVbGg4eFZB?oc=5",
+          "title": "Property flyers distributed to HDB homes must not be left visible from Apr 1 - CNA",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2R0d1RIN01HaldSTDVtOTZyRG8zcDYxay1hZkNVUHRJLWE3OE8zLTdxZEJpbF9KajZSY2R6eEtxazVvbk82cDhCWHRxQy0wWlJ5UHY0WHBQcWZSMTd6QmJCak1id1ZaTGhGc0xZS0FRMVpPLWVhbEYwU3B4WUthcDUyVTh2ZHNUSFRyNFppcmM0U3oxdjVEa2NzSk9iNmd5a3UzT3pqVTU?oc=5",
           "source": "CNA",
-          "published": "Fri, 13 Feb 2026 00:13:00 GMT",
+          "published": "Fri, 13 Feb 2026 08:00:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Filipino food influencer dies after eating ‘devil crab’ - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHZsWFYtWmhORU5ObEVOTWlyTTA2dnd5X0ZnNnFCNkwyZmNQWTItWk9meGdlWGlvMU5DYi10aTVzWmNNM2V3YW5VOHItNEY4dGg0VDN2eWk2MVRjWmd4c2h6NzBkdWNxVm9qUjBrY0hPcDZwMFNxOHdLNWxDRlR6VlVPR0EySVFHMlVWLVU2aTJNbzNpU0J0bWM1aUI3OFFDd0dKbTl3?oc=5",
+          "source": "Bangkok Post",
+          "published": "Fri, 13 Feb 2026 00:48:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Longer MRT closures to come as LTA accelerates rail upgrades after recent disruptions - CNA",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOEJ4RU1LNVFGdEhWUFFPdDNaQUw0VFJXWnN2X0RnVG5yQUNONktXYjBFQzZRYW40OUxxbm50Z2c1UmxUbzZxdVg1elN4TGM5UWpZS1k0OWI3NldhdWFRelhQUWtQYU1qR01Xc0QxMGJUbHBvaEpOUkZhRzNsVzF6Wms1T3M2UW91MEM5RGp2WjI0aENCRUZfNXU4elQxZFlpNzNtdUdGbGphUQ?oc=5",
+          "source": "CNA",
+          "published": "Fri, 13 Feb 2026 10:00:10 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "NTUC to roll out AI training pathways for workers at all skill levels, subsidy for AI tools - CNA",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0l1cnFEYi0yM0tiNlJ4Si1qdWtTQ3ZYcG5KWUt4Ukw2OUotRmY3WUZJSHpFWEhQOTlocEJMRDFzSExCY1RwbG5sd2JQdWNYeDR1aThQZ3FJZEVBVFBHUVlXUHMxRFJsRWQ1Vzg2ckJnZGJZOGJJU3ZFOGJlbDh1TTNIZEltZlBZaGRqc2h4LVpidXZySGFlNUR6c0MweE1JZ1JhZmVWSQ?oc=5",
+          "source": "CNA",
+          "published": "Fri, 13 Feb 2026 04:00:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Budget 2026: Smokers to pay more for tobacco products as 20% tax hike kicks in on Feb 12 - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTd3NXRGYmRhMHRRd2tpdjFnWi00VklSdG9QbTY4M2tVeXZoZDZ4aHJfRjgtVW9VNXEtY1l2dm1aV0VyQndsd2loVnFENkxqSHlvNmFYWERmUFpEblE2NklMcmd2SnZJYVkwcFpxQmFveEJwX2hBZEhTNUhSS2x1MTY4emY3YWhoeUtoVEEwcXlXMTZIRnhUOWtsWFNRLUhyWVo1d0I4bTlPQQ?oc=5",
+          "source": "The Straits Times",
+          "published": "Thu, 12 Feb 2026 12:33:48 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Temporary or permanent relief? The future of CDC vouchers - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGg0b2JSNzJCWjhHc0o5bjlFQlZTZDBZaENFOGVVRFNBZXNMdHZfbTRYZGVXUEt6dVU1ODNJVGtJRE5nRVhnbzlqbnVldUZQbExyTVpMZkxmNzBMZ1FuZEdSYS1uOUZnb0lzcWVuX1dnV25kSkJFMlR5MlpOVmw0eV9OY3pJREtMUXBCMnprMHVOcElJUXBiMl84VQ?oc=5",
+          "source": "The Straits Times",
+          "published": "Wed, 11 Feb 2026 10:04:40 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Black smoke, burning flames: Bus catches fire along PIE, Singapore News - AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MUllSNld3MDZBSHJUY1BuUE5lV25Kckx4c3hnV01RX1VmU0MwY2FIQ1MxQUhJTFV6a3JqRGpQWXRaTmFxNDhma1dRNUNadUpEZlpBdGRCWmM0eUR1R3otYlozZ2c?oc=5",
+          "source": "AsiaOne",
+          "published": "Fri, 13 Feb 2026 04:58:54 GMT",
           "region": "ASIA",
           "cluster": 4
         },
@@ -1026,18 +946,90 @@
           "cluster": 4
         },
         {
-          "title": "Trump revokes basis of US climate regulation, ends vehicle emission standards - The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHkxaGw0VzRIbms4cDBCN0ZONW92cVRMWjdURGtqTjNoNzNwUjFRbmVEV2hZaTI4OE91TVUyWDV4QnEteVJDZTVKZk04VFJ3Uk1YZ0t4RkloTU1SbXdmSWp0NWFrNG5ORjhDQURKUWJJU1RONGFWcmpYWHZpSHFtVVd6RlZyaUh6VUxoNE9DTzNFWXNHWDB1QVJ5RDhZR1NTeUoxbE1aNzExYzJTbTVXdXFiNVFaV1dKZ3AzX01WeVRrdmM?oc=5",
+          "title": "Singapore to regulate blind boxes due to gambling risks - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWG1lM2lnTXBZY3ZTTl9Gd2FMU2F1dHN1WHFaTHgtOFB4UzNOZFdRSlozVXhyLTZZSVBkZEVIbkNhZFVPYjVNWk9DdUdRM2tmcmMtaXZ3Q21tbzhUQUVSdlBLNmRNOXJJcnU4RGVsZ0hIOWF4RGFsMWttNGhoNE9USWI4QlhXaXQtcENoeW4wbV9vLXJ0WjZsSmlLWEpPeS1LWUM5N2tua2tLcmVVQjFJ?oc=5",
           "source": "The Straits Times",
-          "published": "Thu, 12 Feb 2026 23:21:50 GMT",
+          "published": "Fri, 13 Feb 2026 09:05:38 GMT",
           "region": "ASIA",
           "cluster": 4
         },
         {
-          "title": "Chong Wei wants to have heart-to-heart talk with Pei Kee - NST Online",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHBYd3R5ZmpDNFBSb0pJRGFVUXZuTEZYU2U0UE4ydVlYMzN6aTZHLTRtUGJhUmVNRnFteFJWak1TN3daU1dsZm1XLXJ6dzFyZHVrdTlScTFzU1lwd0trVHlEbTZKNzA2SkVOTHFPNy1nS3p2eENNVS16MHVNeUZGNDNWenIyT0NybklNcXhNNWg2UWUzQmpRTHc5WE1IOFB1MlY00gGoAUFVX3lxTFBJV0cyajd0YXhNVFVXdjNkdEVWTTV5bF9odG9JLTNwMklFTXp4U3FNVE43TDJYYmd0Ri1TaHI2VTFMWEg5Rll1VnAyWlRvaWk0THRKZE4wd1N6MzJqTGdQQ0wwN2F2dURZTU5LaXNiWWZPcUx0WHFuU29FeHhGN0d6Vk9VY090Vnp3V29nR1JxMFo5Tm9ZWTNhTkdVTXhuSEx5ZjZneXpEZg?oc=5",
-          "source": "NST Online",
-          "published": "Thu, 12 Feb 2026 12:27:15 GMT",
+          "title": "Inaccurate bus arrival timings caused by defective software after server failure: Jeffrey Siow - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYkk4LW9TUlRWMWpONGUxNldidERMY1FzWVc0UXpjeEZ4TzUydXprZzZlNDVXVTlua3Q3T18yR05TeTk3S2p0VV9EU29KYlBNSHBZN2hKTVFEdFBwOVJzYjVDOVNRM0xPV1BSQndESE1za0dmYVQtZDFwYXRKUnR0RHBPZ2tBYXRHampuVkFGZ1hVYVRBY3MyTWUxOGd0ZExJaDVQRXk5Q2xuZmZNZEJnQlhocmZaXzZNTmVGbmR6SEdabTdHLUtzSmlWYk52eWx3cG1mZ3BR?oc=5",
+          "source": "The Straits Times",
+          "published": "Thu, 12 Feb 2026 13:50:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Banks drag STI below 5,000 post-Budget, but analysts see ample ‘fiscal dry powder’ - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0pwS3hfenBLRGdBU2E2MUNwREU1ZFR5akJxaEJ3bFVtd2JmZlZETHl6TXJ4Z1dIdHdSeWtrT3I4VW9XNngyNW9ZSUVLRHdRbGFIbVBLMWhnQnRvelhZWm1lay1UdWdKdnlTUUJpWERfRmxwUHk4blFGVklwSlpwbGM4NjBzdXRKWjIxZnVMQWowcS1BMGdZOU5jRjdCdEZYaTVNa29jeFF1Y25zblp2RFRaZ2lwLXFQbEhCdVZJV0xjYWM?oc=5",
+          "source": "The Business Times",
+          "published": "Fri, 13 Feb 2026 01:36:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "The Dior Archie is Familiar Comfort - Esquire Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySUl4QTJ5dE5vWmtHZFA3WWNjdWFvVElsamIzdDRGaUlfRnFCMWRlUFotakpESkxBQ2tSeTVGLXJhVkFEdXFtUWZDUE0ycEJ0RVdkUTdpN28yMDJ1Um5DRXdLZHlzQ0Vr?oc=5",
+          "source": "Esquire Singapore",
+          "published": "Fri, 13 Feb 2026 07:13:49 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Last-minute SG Culture Pass activities for Valentine’s Day and CNY week - CNA Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmlFU0JQRlV4d2tZdEJfWUxBbmJpWmpOQm5KcXJCakhJQUtnVWd5S1RiR2RfYzZkMmk5SHVDcVpzUW9vckNpVUtyT3lON1FpbTNZaXJpcF9SMEc1NUNmb00teEJlalh6SEZYM3NHQ19iMDN2aVhFcWRIOVhNaXdUd3k2V1h5ZnZPQTUtQ05sZDZHZHYxV1ZZMjVzU3BfZ3ItU0JkckNhYXlHOU9GckFHVXR3?oc=5",
+          "source": "CNA Lifestyle",
+          "published": "Fri, 13 Feb 2026 07:01:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "How a K-pop concert in Malaysia led to war of words between Southeast Asian and Korean netizens - CNA Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFkxemU2elVlUjVlX3dDWlRTVVcyYWxha1pZdWtrdjZwTjA3WmhnWmZHajhnNGtrQ2VpVTZpT0tXajNmaHhfbjBqUU5GekRSc2xWVlp3WDlSN0dId3BEbFlaZWo4WFBkbDktWXR5bEoxc3ZPRkxTMXpvUjROYzlRZ3NkUzdfOGI3Mi1lTTlMT2tNaF9ZY21wMDctQ1BqX3RJTVRXUTBn?oc=5",
+          "source": "CNA Lifestyle",
+          "published": "Fri, 13 Feb 2026 08:19:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Paris Baguette Singapore outlets are now officially halal-certified - CNA Lifestyle",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjh4bTFueVFEM25scHJad1BqQzhnbTRDY3dyQUIwZDl1MGpiN19BWVJHckw0dGhfd2llOWNDU0UyYVJwWGYwNmxzYXJZN3Q1czgweXBacnlYMHlFZFFfMjFsNUJlcWlYWVc4SUNqVVk0QVlXeHNYREJDUU5YZE5FRWNOdVhtWUM4QlJ0S0JB?oc=5",
+          "source": "CNA Lifestyle",
+          "published": "Fri, 13 Feb 2026 01:30:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Malaysia has positive chance of beating FIFA in court: AFC - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdURPZVczdWJBN0J5ZUFNd2VCTkpJMWpYa1M4TGQ0U3FfXzg2YlZFRXd1WklEblZGT2ZYVUtsWC1wdVpRTFY3d2QtdFBnU3RfeVhGN1pDUFJjTkUyYWdHNmMwS0JfWXZxTm0yUXNGZE81cEdpTWRLZVRMY3hqOE5TSWp1Q1JnSU81XzRIakJHb0hxYnNpTTdTZEItUXN0ckpBWjdjUE9kS2xOMHdvZ2hoX0UtUzJvZw?oc=5",
+          "source": "VnExpress International",
+          "published": "Wed, 11 Feb 2026 23:19:34 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "2 new measles cases in Singapore; authorities refute online claims of childcare centre infection - CNA",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkxKQnQtNVpGM2dWNUJtWXVvYUgwU095RXVCU210b1NQOXlnaERURF9BTHhXZXJ3RExYaktqQ1pFVExWX05PV1ZVN1RFaFRlVFczQTdIUVNRR21Ic19tajFtbHlDbDhRekRQNzRxQ2JhbGgyMmJQY2hPaEFkeDVYR2ZwekdfWEtSQTNWLS1JZDhSMUQwaHpYVS1teFNHNnc1QUEzVmFFMDA?oc=5",
+          "source": "CNA",
+          "published": "Fri, 13 Feb 2026 08:54:51 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "One in four stroke patients who recover does not return to work: Singapore study - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2VwdW5GbjdKM0REcV9LY1RaQy0yQjZjRHVKcVk3X1lVbF9JMFhqVlVVOXVieG1WYUNmSzlXR09FcUhULWJnelUtZkZqRmNOLUwzMXZFa182Wl9hVmJvcVdGT0dHQ3NMU2pMeFc0UFZwOWROQzQyaE5JS2V2YnFKZ2pmZEdfVVl3MnpZdkFKMzZqVTdsV3J6ejVIclVrVy1XaVpBaGFFRWFBNHc0ZkJTZ1Z6WXluaV92S3VtVHhPS0pTODA?oc=5",
+          "source": "The Straits Times",
+          "published": "Wed, 11 Feb 2026 13:15:00 GMT",
+          "region": "ASIA",
+          "cluster": 4
+        },
+        {
+          "title": "Just Five Minutes Of Light Exercise Boosts Children’s Brain Power And Mood - Asian Scientist Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDN2ZWFCckZrT0pYY3IwdmkycTZ4YktoS2s2OEtiSENOVk5hVUluMFBjSGExU19XQkQ0M1JfRS1VVzU5MlpZRjlyWnlqbnR0MGpxZkZ1TFJaWVdoZEpqZ0pWWG5wSDhpZklNUEQ3UHF2S3VWY0VXQVFNMjBVVTdpM1paZHRZc21TTGRIUVdqOWlkTVpRbFhGamhvMDkzaVF3T2gxLVF1aHFXVWllTHFWSURQcDAwajJoejlCdw?oc=5",
+          "source": "Asian Scientist Magazine",
+          "published": "Wed, 11 Feb 2026 15:12:17 GMT",
           "region": "ASIA",
           "cluster": 4
         }
@@ -1047,43 +1039,155 @@
       "group_id": 5,
       "articles": [
         {
-          "title": "When Amazon badly needed a ride, Europe’s Ariane 6 rocket delivered - Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHVNWDJpRU43SktTcnNjd2x1Sl9SUHFodXU4VkY2LWFlUWJXS1pfT1R0bTdiWHZqSXFWSmtfX0xEQnVVaW9kdi1NUUtYeGMxZUtOanpmNWNjNmFHaHg0TENzRG5Dc3ZFWVI3Z2xQRE45VzFSZ1RESURGWExPNDg5a2JtaTJfU3dEODhVdXhBcWstNXJCbWFxNzZsa294NVEta3d2dkpLVQ?oc=5",
-          "source": "Ars Technica",
-          "published": "Fri, 13 Feb 2026 00:34:29 GMT",
+          "title": "Culver City, a crime haven? Bondi’s jab falls flat with locals - Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1RRS1dwOVhhakllZExpRXVVd2FCYWRjb0VEUmpQcUpVYVVSalZDS0VuQ1gzcjJUTUlrTEN3OVRZZG43dTd0THVGcVVVam9HTzJ5TXZCQXkxUjdMMHlwVWdTQjgwZDZHLWxZNUx5ZkNKMWVYRHVhVjQxS0ttQm54QzR6WG45MnNfZWpESVdUV0l6OUlQX2tPV2lB?oc=5",
+          "source": "Los Angeles Times",
+          "published": "Thu, 12 Feb 2026 23:44:00 GMT",
           "region": "GLOBAL",
           "cluster": 5
         },
         {
-          "title": "Sony WF-1000XM6 Earbuds Review: A Cut Above - CNET",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kblItdXdVVnhxQm5sNnh1LWJXQmVVWmRXa25MQTRvcXgtSVBwOHZRRXlPbURPOTZTeFluSm1JXzlDWTRSSGtmeFdTVVZIeElUeDRKQ3RmR01JcmVzZzlKLXNObHVFa3ZQTlpVX21obFZxQQ?oc=5",
-          "source": "CNET",
-          "published": "Thu, 12 Feb 2026 16:01:00 GMT",
+          "title": "‘Death to Isaac Herzog’ graffiti seen in Australian university - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PQ2Vta2dFWnFiazdscnRzallXblh0U2RfU1huOGxYbFVyUTNZVC1LM3NrLXk1WlN5UG4wX1lXZG4tZGI3Nnl1eWQ1SWZMR1BOMi00YUozTG5YSTBxX0xxZTFhVl9jTkVCWHc?oc=5",
+          "source": "The Jerusalem Post",
+          "published": "Thu, 12 Feb 2026 08:47:58 GMT",
           "region": "GLOBAL",
           "cluster": 5
         },
         {
-          "title": "2026 Olympics, Day 6 recap: Kim outdone, Ukrainian skeleton athlete files appeal - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzFvYTVNeGpQLVprcmY1VG1aZWRVN2ltdGd6SjFCeEZ0MzRxSFhqY1RsQ1dxcF9jU2xucHRVVzZmQy1LemlvQ3RtTVcwUkxhdW96LWIyR1hVLVpHd3dkam9ZbnY5S3hiM1BOUmE3aU43QU43Vm82dlBwSVFoX2hibTZmMGd2TjBPTFZoWnQ0ZWlmZkZzSDctWlF3WXI?oc=5",
+          "title": "Sex workers at Pahrump brothel are unionizing, alleging unfair contracts and conditions - The Nevada Independent",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeEtfa05OTmNIdkQyaU5TMWUyeWZPamFyZXVZNFZnZm1kWEpSZWtjd1FMdDBHbzUzZklzdFYwRmtsZDVwa2tzVjZpbVJ6UnIwaWV3enFJcUhiWUtkVjhHcHk5aEFURmpfUWg5dzdLSzRWM2pweUpIZmg0UEY1SWdBTDBuYUR3WGl0d0xBTHFpNEFXVVM4d0NLWS1lc19fX0wtWjB6ZERvblJkMjFXbVNiQUhHQ3MtX1B2anNRNDlYT18xb3FXRUE?oc=5",
+          "source": "The Nevada Independent",
+          "published": "Thu, 12 Feb 2026 01:16:43 GMT",
+          "region": "GLOBAL",
+          "cluster": 5
+        },
+        {
+          "title": "I Watched \"Wuthering Heights\" To See If It's *That* Shocking (Sue Me, I Loved It) - BuzzFeed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY01maWJFdnhaT2E2SE55dXdpaVRnb2ZGZXJiQXZzNzFUVDJMR3JZWUxfODNXdS1leU4zYnA4YUtYamVEVnVneE5kWUtDR0FuR2V5T0JrV1VFWS1qemEyeFVETm4xSkliSk0wYUFWQkZPU2xKckxXdWVZd2xoQkJYZg?oc=5",
+          "source": "BuzzFeed",
+          "published": "Thu, 12 Feb 2026 15:46:03 GMT",
+          "region": "GLOBAL",
+          "cluster": 5
+        },
+        {
+          "title": "‘Crime 101’ Review: Stealing Diamonds and Movie Ideas - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSHk4cHgtNmc4SXVJZ0FFTEJid0doNV9mOG9mVDdxUEFUOHVLR3J4eURKRmVkbDJLNnNEeU9ybDcyMDZfcTVpV2poUHE4Q1lsYl9icnY4bXdsZWNJd1k3OHJlbi1FVDdfWXotekdDaEU?oc=5",
           "source": "The New York Times",
-          "published": "Fri, 13 Feb 2026 08:25:00 GMT",
+          "published": "Thu, 12 Feb 2026 10:02:47 GMT",
           "region": "GLOBAL",
           "cluster": 5
         },
         {
-          "title": "Seahawks' Julian Love sets record straight on how much they knew was coming from Patriots offense in Super Bowl LX - NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHhPR0NGUkJNQXdKUG5jODZYbGZjdDZBNjBwX0lvR1M2RWx6LV9LTGdLZk0wbEJyYlZmS210cGRnNHFGeWtWM05NaEk1TUN2VTdtcVBhX3FiX1JUcko3akpfeS04N25kNHBlU0thMjBENUV1djB5aGpzTVg0SDNYcF8tUV81Wi1SZzV3Ym1PYll1TktKTlljTUs3ak5YSmluWnItRXg0NktpcHBYaUhFRE5YS2tCZWF4NC1iOExYM0Y1dTE2aXQ1eTJaZG56dG5mREU4Rw?oc=5",
-          "source": "NFL.com",
-          "published": "Fri, 13 Feb 2026 01:51:00 GMT",
+          "title": "SpaceX Crew-12 launch live updates: Falcon 9 rocket launching ISS astronauts today - Space",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0s2c0htWXRENmpwTlB0NTQ0RW1lUWlUejhXaFpYQXBMNG4ydW4tNzRGZDVxWTdrTkJlVkljZkJwWEtJdmptMEx6bVBFaVJMU29jWUxTMl9GQW1vYnVLYjZyM3RHVGwwbXdCNmtpdURlMWNNS1NBamFJYmpwanpfeDlfSGxTenF5VmZaR3I1WmQxZw?oc=5",
+          "source": "Space",
+          "published": "Fri, 13 Feb 2026 10:02:51 GMT",
           "region": "GLOBAL",
           "cluster": 5
         },
         {
-          "title": "Leclerc leads Norris on second day of Bahrain testing - Formula 1",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnhQNllCZ21WYngtbnlrdXpvYXFGQlpkeGpqejVKajVpWmpMUVVHZVpyeE9YejdwdTVpM2U5Z0gyTG9ybGlMWjdONDlXdU1zS00xY0ctWWhJeExNUC1kWmZoNFFPZXhLRmpRMEV3blVDWDZaWUlqY0hnTFhaMnY0UG5JOXJJWVJJY0VtN3VFZGR4SFI5Rzl3ek1Zak9YYV9XNzNKM2VDeDE5Wld1c19ZV0ZILWdSbUdBWEh4Q1JpbDJwTWR5UTMzc3Q5WQ?oc=5",
-          "source": "Formula 1",
-          "published": "Fri, 13 Feb 2026 01:02:48 GMT",
-          "region": "GLOBAL",
+          "title": "Delhi schools get fresh bomb threats; students, teachers evacuated | Latest News Delhi - Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUlN4THNmTTE2WTFBS0kzQlNWdjNSV2lRV1dBejJGNFl0WlZsNnQ1bkxPSzEteDAzeXpwN1NFVncwQnk3X0hwdjFOTkhid1EyRjlrbnZFcTVRRjdQRzJKRHBkRVFSakdZOEtYY25NYzNZV2k3V252ZEhZSDBSN3JZeC1YUlhDekJ6a3Zhbmpyb1dyOW9TOFFZV01xSWhyOXZILUxWcWV3cUhUdzRIYkYzc1kxYUJmWkgwWjBSdFVHMGdxcWQyNHJvTlg3eVRvYy1EM3F0ZEV4UXJWZzlpZW5R0gHkAUFVX3lxTE9iMkQ4OUlsZi1WVXY5SG1EU3BGNDBlc194SmRHcUtqRkRaLWVzM2hKSkg4dTdTTkJCaTc5QWQyb3FleksyVkRjSW1XVm5udUU2OTdCaTg4eE9NLTQ5WWpISzBEa3VId3BzaUd4S3FZVHh4amM4YnhzSlVPeC1wRjRSQ3dpb0FoV3V5OThrYlZTaGFIQlNSWUtYR2F2VlZOUW15cjNwQ1RxTF80cHJlSGppVWxGMGNWbHNBbVItLVVlSE5IZTYwNHdkN1NHb3JZN0dlTE15SExjY0dQd2tGelNTV1ZfVw?oc=5",
+          "source": "Hindustan Times",
+          "published": "Fri, 13 Feb 2026 04:17:25 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "37-year-old man collapses, dies at TVK chief Vijay's rally in Tamil Nadu's Salem - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUmZINkE1X2diclRqUzl6T0lxU215Um9qNlI0ZHV5djNVaVFqazhLN0k4Vk9sV09BdzJ6d29lTDNfMmhpb29oLW1ydE1LTGdaU0pXWkp0ejZwRE1CV0pQTkl2M3NVS2RhWXJ4RHhKUkstamxza0NwNzR5NjRSSk5XbEgyU1RKeUowTVVYRDQ1N2JZbTduMTl4QzlNX2JNZUNMTlZQcmZxZmluWE9XZ3FGN3lXQ2ttbEUyM2lFZm9jUUt3WFNPR0NXX0ZfOTFIN3h4WU9obXFjZGRwZkhIS3hqd1JiWDRraWNkd3c?oc=5",
+          "source": "Times of India",
+          "published": "Fri, 13 Feb 2026 09:45:00 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "Gangster with 50+ cases shot dead by three assailants at Dehradun mall - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY1NFMEtCc3NVUGgyWEJrZ1l0VUg3S0NmazNQTTBRbmRZNW5wMnJ4aVNJYWJCZmwxaWRJVVREbWcyMGVvX3dNdGdxbFBJX3k3REVBdTBjZnRMV084c1NsQVhvejQxWGZpRUY4TjVTY3NpS1Y4dWtkdWp1d09QRkw5WU81Z2gyMVM5cUxGd2paZDlGQW1BVUlrZVNBZWRqU1J0SlhfZURkRGFlU1NCYzJuaUt0eERvbjlmcHQ5aVJYMUlNRDZlRnlTSkp4LTFpZms4UkU2VklONWtQRW1aQUFEQ21SN2kyTVhYWDRZ?oc=5",
+          "source": "Times of India",
+          "published": "Fri, 13 Feb 2026 06:38:00 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "Bhopal 11th-grader gangraped in four cars, filmed, threatened with consequences - India Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ29RY3ZXdEFQQ0h4MV9VanlJbXB2ZU5FUGkwWGFZTlNUQW1HbDAwTHJlYlAzYTF5U3Iwc2FnVjZHUU9qZkFVdXpRUW44TVZTWTU4OF9LcnFKSGltRWpKUFlDWkxmdTNac0xfWG9PMWpzSXRFTzhjY2RHWi1lRW14M0Z2Ynp0XzVvWmdqeEtEUXREMDY0UU5qV05Gb2tUZl9sa2RZSExpWTRiWklOLWFrVi1DX3RYcV9obHRSQnF4SE45REJaeFJxczdTWkpvTUxBdVHSAdcBQVVfeXFMTXNGZFoweDctSGpRZ08zME52cEFsR0FNOHRaM2xrVWJ3YUFuZHpPUDJleFhFS2FsOHdOQmtCYXM5UzR6RXlxS19UanBMekJ5UlRhSFdSOUdSWFVyZjRYT2tBbGJtYXZxb1lrbWN3MXNRS1VucTFSZURHV0s5RkxySHZxY2poQlRUUE83M2VYNS16Ujk3TmY2ZlF4dUEwS1N5WVFtTmRFSDBhdHlRZHRqdnFTbTg5WXZua0ZscGw2Mmh2TlNhdDdkUVpfcWFlNVZIMVkyUk1TeUk?oc=5",
+          "source": "India Today",
+          "published": "Thu, 12 Feb 2026 18:24:34 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "CIA sabotaging Chinese military? US releases video appealing to potential PLA spies; Beijing sees red - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVS04OHpxelJxMlVjLXJkaHlEelFfcWd3RnIwUGs1bkx3MXdiZkdraFZzNy1HeVY4MG9qM0o2RlFEM0JtUUtiWktOalE2NlpLRVlrSU5KOGJfampidHBod0JPVVdzbUQ0djFFcGNCZVJvcGZXcEpDZDl0MkhlWGZaNWFfOUVjNXliVm5IX3ZwWW8zUTZKWG1LY09qa3AxU001RXBTaTZxbDlyaVFqajR2d1hHVHJDd1lDR3E2cDlxeDlzdmc0MTNtakpDNmMycExUVWdkQ2lIM0FZMUNvV0hpSHRNNmxDV1YzUFZEUFBnclp5RlJQTkpBYkttaXNBdEU?oc=5",
+          "source": "Times of India",
+          "published": "Fri, 13 Feb 2026 10:06:00 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "Emerald Fennell's Wuthering Heights divides critics and audiences, does it manage to capture the violence of the original novel or is it just horny? - Softonic",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVXlYX1hxT09NekdORC1JeTY4bnVjN293RDBSSUpsbHAySjZ6SjU4R2ZXQXhfa0pCSWpZLWVtNUgxVVBRQ2xpOGtyWVgzZWYzOHNYRHFIUEhuSXdqVk1Xa2pkV3RLcEhjbzY2aWZpc3JLTWhDQ1NieERxN3VHeExnX3JhakJlbzlhOEVCSUJ4dkZPZXl5UGZqSUNFVm9pVjU0Snk3VEZOVFdRaFZxVjJtclc5LXRyVWd4Vk5kYkh6MlJzM0tNTUU1Qlk2M3NtRXA2WUdZbnJaci1IZklnb0JKZnVtMFpDT2JYbW5HbWJXNHd1NjBIb0c2amJhejVEdS1vLVNVYjc5MkpRZw?oc=5",
+          "source": "Softonic",
+          "published": "Thu, 12 Feb 2026 11:07:56 GMT",
+          "region": "INDIA",
+          "cluster": 5
+        },
+        {
+          "title": "Police name Leicester man last seen in 2024, as digging begins at property in the city - Sky News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzN3dGRXMzRITnd0czZkM2phRTNweVZfUzRfOTdONnpkT1FPRGVuZF8xV2pTalBQc1Z5Y2N5YVdXOGFmQi1HVGFFOGFSSkdxMnZDUy1ILWFXYXk1LVZOU0h3RnVKOENFMGQyMUFocVBfd0xZb1NLS2lmcW91NUgzR1MwLW1leGxRZEl1bGVyNFZFYmZvTW8xOE80OGRsaF9URHVJTk1VY1cwcGhLTU92WWhYd2I3VFJxb1NIUTJ3?oc=5",
+          "source": "Sky News",
+          "published": "Thu, 12 Feb 2026 22:29:16 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "'We warned nursery about abuser Vincent Chan - they dismissed us,' parents tell BBC - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnampMaFI0SDRWTkdKeExYbkgzQTd3MzZiQm1mYmk5OU1pRG9jaDRDOWhHLW04NXZwRVlDTHY1UlFBRzBpRHM3MDVYMVJuamNsang5bExnNEVJWjMw?oc=5",
+          "source": "BBC",
+          "published": "Thu, 12 Feb 2026 17:33:19 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYld2TGVaT21Fc0FjanVkNUZpa3VjZG9wX3Z1YWVVcnhmWVVDTTNTVUd5OThlWkpseGNqdE9BUVRqR2wwaU9LZE9nUTU3SXB1YzA3RjJuSUE2V1pwQ05BV0JvNXJMdDEwaHdZLUdDMDZFTlFXWVFZclV5RGd1Wlo0UHNmNVZpRVprUFE?oc=5",
+          "source": "The Sun",
+          "published": "Fri, 13 Feb 2026 07:32:00 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "Romance conman Ray McDonald back on dating app after jail release - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QYk5SektPWEZObENVX2h3OEQ5SzNNc0o1NGg5OXJLelVjZFRCQXY1Y243Mk52N1pwM21YUHZEUnhYUUFUYlZ4Z3NqSkFMVzBvWURDSVRaZTQtNDZU?oc=5",
+          "source": "BBC",
+          "published": "Fri, 13 Feb 2026 02:22:14 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "Wuthering Heights spotlights Yorkshire filming locations - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVbjE1RzctM1F2NWhBbEVYdTRERHVhQXZNYmt5MDZsUENGQkFuM1F2QlE1dTlTTlBYTUFUS0ZtRkl6dzZWaGV1TUh2cFo0alRYSXM5b09UZWcwbGtw?oc=5",
+          "source": "BBC",
+          "published": "Fri, 13 Feb 2026 07:40:40 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "‘We thought Midnight Cowboy might end everybody’s career’: the diverse, disruptive, Oscar-winning cinema of John Schlesinger - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzdORWRaRTB2Sl9mNlB2Wl9FQkxRWnlWNW5fdmJPY1cwVnB1aGkzcGwxUk5HNGlXcTFra1V0U2lZTG9mUS1ibExrY0ZscldkMEpzQ0hzVGF1aW5vOGFNZ0w2X3R4MGhqelQyVmxMTGlfQW9SdnJrYWdUTU9yc3hHLXRIRmVSbXlLTUlQLTUtQ3hwRGhWLVNkZ2pQMHd3OG1iNk00TmFXdHVRTzA5?oc=5",
+          "source": "The Guardian",
+          "published": "Fri, 13 Feb 2026 09:38:00 GMT",
+          "region": "EUROPE",
+          "cluster": 5
+        },
+        {
+          "title": "Footballer Thomas Partey charged with two further counts of rape - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWllzUUhONGl4U2NkNk9fdmpjWS1saWs1aHZwT0VLSXV5NDYxRE0wU0RIc1dIZTZwQkpTRkJZQXBtVnUtWWJpUjFtczdxOFl4cTJzSUpNYWU1TlNnVFliWXpzR2hlQjFtbHhuT3VfVFZ1TWY1aXpwT25NbHU2cGRiSUEyYjhBVlpQ?oc=5",
+          "source": "The Guardian",
+          "published": "Fri, 13 Feb 2026 02:30:00 GMT",
+          "region": "EUROPE",
           "cluster": 5
         },
         {
@@ -1091,102 +1195,38 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUlJUNTdBcUFVV3RIdVhuNS1sd25aUTY1LTlIRFg0WWw5OW15UUFPT0xCNTliTGh5SUhiVnZrdTBvdHNTeG1SWEtfODRYMWpQU3RlMC1GdVZNTlQ5UGQ0VnY4d0JzRmlLZVRheUQxQVc3UGs?oc=5",
           "source": "CNN",
           "published": "Fri, 13 Feb 2026 05:01:46 GMT",
-          "region": "GLOBAL",
+          "region": "EUROPE",
           "cluster": 5
         },
         {
-          "title": "Saturn’s Rings Came From a Two-Moon Collision About 100 Million Years Ago, Study Says - Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFBiQ1RkYmZIRjN1TVF2eWNWX2Y3bWxrNnRwNzZSc1o2Mm9KYkxiS05ZSHJfU05Nbl9ZUUpZZUNic2xOWGR5M213c1k4cTZTTndYeHZsQkh2XzRWN2JKdnRfRTI5U3VuUGJqQl9VMi13bnB2NVRsaENrbExhYUxlRkUyNVpmbzdKMmVrdTFGQl9xa2hKS3cwTFc0bDdRUmFjLVlzUkFCcVZuVzhNWlJlZ2J6dnE?oc=5",
-          "source": "Gizmodo",
-          "published": "Thu, 12 Feb 2026 23:30:53 GMT",
-          "region": "GLOBAL",
-          "cluster": 5
-        },
-        {
-          "title": "NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test - Spaceflight Now",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmFCcldVNDNLYng1RTNlOWFtU0hvTjlENS1vdkxiVDlRbXlJMUZObjBUN1lWUGJZRnk4aTYwUXdLalZYdGxOYnhpVVlwcnRScXJvbGJzRzhzWEFFa2VkSDJtb3RzZDNMZ056cDRqeWRyWi1NUlpkWEZvLUwydFZpb2cyV1hyckxpTzJsMU5RT1BUTTZkakZzcVdCbnR6QUJhZDV0elpHbDA5V3ZhNmtGMw?oc=5",
-          "source": "Spaceflight Now",
-          "published": "Thu, 12 Feb 2026 15:34:51 GMT",
-          "region": "GLOBAL",
-          "cluster": 5
-        },
-        {
-          "title": "Barcelona player ratings vs Atletico Madrid: Hansi Flick needs a Plan B! Joan Garcia and Alejandro Balde among biggest flops while Eric Garcia sees red as Blaugrana's high line is horribly exposed in Copa del Rey thrashing - Goal.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN2Y3SUZSRXNZbGpFV25McGhUOU11M0RlbC1DLVk1TkJsdVpJZzF2d21wTnYwZl9wYVdoZV9QWThTQ1VuZHlqV0ZRSUtIaFdPVzd5YkoxcWRsQ2Q5QmI2WVJWWXVFbnlGcllyZUhhVzJIcFFVazlJMEo4RFB1VGtrMlQ0WWVOZUZHNFk5YnptbjNneDhXVE1IS3IwYVJXQTRjekNITlg5b0RqQzRqWlF1TW5CNENDeFF0elFaTkJyVmhqSG5kc3lxU2w0elFWOE1wQzZtM24xTDd4SkE1dWc?oc=5",
-          "source": "Goal.com",
-          "published": "Fri, 13 Feb 2026 03:15:16 GMT",
-          "region": "INDIA",
-          "cluster": 5
-        },
-        {
-          "title": "Ireland, Oman aim to keep qualification hopes alive - Cricbuzz.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZk0tQjJBX2g3SWpZamFIUXU1eW1NYk5oZzFQRXRHcEZxWFZSSl9PWDdWT1BHY3hXb0o5NlpaTGNJQXM0N3VCLXN2dXJHVjN3X1VPMHhyOHVMQWc1M29qdHhnbUxuaTYzblItNkJOQm10aWdjNk5zNEQtLWhEeHVjSElMLXN6aU9Od3N3TmRxSmRFYUZLRTVPcnhLQQ?oc=5",
-          "source": "Cricbuzz.com",
-          "published": "Fri, 13 Feb 2026 05:38:32 GMT",
-          "region": "INDIA",
-          "cluster": 5
-        },
-        {
-          "title": "Keane Lewis-Potter header earns Brentford point to deny leaders Arsenal - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDN2OTVPNjVadXdfbjRrNHJEalJmaXhNd0lBRXBRQy1RRzNjY3Brc1Z3YkNOandfdlpoc2toaFltUEQyWkdjYUZWc0V3OWczRmxaZFJDaFVna3I4MjUzX1R1eFRyWlhuZlQ0NFE4SDJrc1ZkLWEwZGwwSDM3M0tMYjFPV1UtM25zSkJPdGZSTTdyWEFieGFtbzVR?oc=5",
+          "title": "Criminals exploit ‘stigma and embarrassment’ to sell fake erectile dysfunction drugs - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWRmOGp3RjA2cHU4T2UzSXpDbFNONHllX2o5QjJHdDZ5RDdmUjBLcElHeDBTSEl1UE12aGNZU1Q4SDZvUnA3VVhnVUJ4VWRRVFIzVkIzbU9zQnFVeGhOXzY1ZllDWkYtWjhoSy1MdEtleUpyc2xSQks0cWRIMEI2ejlDWkJKbkFWYTBKcXFvd1d1SzV2TFpEcnFyb1QwcGRjNjFvYVA5T05CSTZWUkxVWlBjUzBEMGJZclBUUmpveEZXSUFpU0dPWHRB?oc=5",
           "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 02:41:00 GMT",
-          "region": "INDIA",
-          "cluster": 5
-        },
-        {
-          "title": "UK weather latest: Arctic blast hits Scotland and northern England with snow and ice warnings - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CaG43TTEyRDJfYnV4QTN1QUl3bEk3ajFrRVhkdm1ESnpoYWg0VGJjUWFSWm8wN0xqS29OejdSS2NiUFI3M0Z6U1VGcDN3R3hHNERqRjhZUQ?oc=5",
-          "source": "BBC",
-          "published": "Fri, 13 Feb 2026 09:56:28 GMT",
+          "published": "Fri, 13 Feb 2026 00:01:00 GMT",
           "region": "EUROPE",
           "cluster": 5
         },
         {
-          "title": "Rare great white spotting shows ‘ghost’ species still alive - Oceanographic Magazine",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT09YOEhLSERoV3lVY0pfQkFocjQ0a0QyUTl3R1Y3UVdndEFaeTlMa0VRb0o4NEc5UDdyRmFXZ3RualRtY2tyUzItcmI4RGFxOVlJc2ZpMjhnVWxmNmNLT2lnUWUwR0RueU1mT1VrRjgycFhWTWlMX0p2ZDdHN0tZOERXRjJWZGZGUVJKQ3FEclBSZDVSTVU0MERYVXlmdw?oc=5",
-          "source": "Oceanographic Magazine",
-          "published": "Wed, 11 Feb 2026 17:35:58 GMT",
-          "region": "EUROPE",
+          "title": "Man charged with attacking woman with axe in attempted murder - CNA",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXhZdGdobTNzTGkzVmNTaGVMRW1PV0FFOUYwakVacDBWOW5wS2c0NlU2SElROTVZM0tDMUhNM2FSZ0RZRV94M0tXS3hRejFYM3R5b1MydlNXdkxFeGFXYzNyc245cWp1YkFkOWtQWTZkbS1ENWx4SXExTzBDZ2xKVldwMFFkUDNsakt6b244c0xOZw?oc=5",
+          "source": "CNA",
+          "published": "Fri, 13 Feb 2026 04:16:59 GMT",
+          "region": "ASIA",
           "cluster": 5
         },
         {
-          "title": "Chelsea XI vs Hull City: Predicted lineup and confirmed team news - London Evening Standard",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0xRaHVTV0pwdW5ZUms0a1YyankzdHR5RFlFRjdTbDdMLTliSk1mYVhZeFpaUTFnMjU5YmQ4TXdTSWpwcThQemRlczNwZnZHd2xtMmVxQno4cEFKS0pNQms1UWFMVFNhWVFYVTdrNW9FZ0d5c1FfUEo5ejNqMjExRDNSRjItbTZvckdJZ2N0d0NWaW5POVNyU3NBaWZMLW5MenBGVU5VTEFxVXB6cnAtMUZjRjJ5bllaeVBvX2ZBZ3hrcWYxcExJVXpWVUNIUVl1a21kLTVRYUI5T1ltbTkw?oc=5",
-          "source": "London Evening Standard",
-          "published": "Fri, 13 Feb 2026 06:56:43 GMT",
-          "region": "EUROPE",
+          "title": "Jail for driver who was speeding when he hit 76-year-old woman, killing her - CNA",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjZOS1RGWGZoN3BEYWdtVEhjdll4ZW1OTm0xSXRPT1lRQ3lwV0pQVXY3aGR4dGNET0VseFZuc25lUGowZEM5dnBZZlNhempXOXgzNzlCdlJSQzBVN3ZBaHVBcnNRZjE1WERZWlRDYzh6SDlnaVRUUHVKNWVJcXRGcXpSdzBkVDAxVi1lZWNvSjhUTDBJd0E?oc=5",
+          "source": "CNA",
+          "published": "Fri, 13 Feb 2026 07:54:21 GMT",
+          "region": "ASIA",
           "cluster": 5
         },
         {
-          "title": "FA Cup fourth round: 10 things to look out for this weekend - The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXJCQ2tzd3hwWGhRd2UyU3pBVmYwWmxrbUN2dkFnS0dVYlROakRPODlKell4QnY1QW4zMExVMVR3VEVweEZuRjFZWWU1OFZ4WUs0TlFoWkgzcUJwV1NhTlcySHE5R05RcnQ3alRhSU95eUNRM3NFaHpMSnNkYWJkV1p1ZkJFOEl5akhDWnFLUE5rMEhlN1FEWEZ5eU95VjF3Q0dkZ2lIUVk4M2c?oc=5",
-          "source": "The Guardian",
-          "published": "Fri, 13 Feb 2026 00:03:00 GMT",
-          "region": "EUROPE",
-          "cluster": 5
-        },
-        {
-          "title": "Winter Olympics 2026: Chloe Kim denied third snowboarding halfpipe gold by Choi Ga-on - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45SjFlVHkxX3NSTGhBS29Jd3VES29VVEFORDltSjk5NVcyVWtFbmFnSjB2cHYwMHVySGNxY0dicDVkblVfblhTM2FubTd6aUtjakhCTGR0bEdCcEk?oc=5",
-          "source": "BBC",
-          "published": "Thu, 12 Feb 2026 20:27:22 GMT",
-          "region": "EUROPE",
-          "cluster": 5
-        },
-        {
-          "title": "Scotland v England: The fight for dual-qualified Six Nations stars - BBC",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rSGR4STUtU3M2OExRbHV6TDFPQ1BSQk9nX2hKTGNDbmcxbXhOWkp1NE90ZmVsdGdUVUh3bHFVRnR4bXY2Z09JWGMzXzl4RXhNRXNSWWRWYnNKbkFJYUJ0cFp6U1lURnZORjZUcC1B?oc=5",
-          "source": "BBC",
-          "published": "Fri, 13 Feb 2026 07:26:24 GMT",
-          "region": "EUROPE",
-          "cluster": 5
-        },
-        {
-          "title": "KrisFlyer Spontaneous Escapes for March 2026 announced - The MileLion",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHJoZzVob0RtREhiRXNEWnlGWEhrNjlSc3FyUzQzNHF6Zm92OGpocmFFNnRRelEtN0ZhcWRFQ0dEMTJfcVlrMEJ3NXhNUHA3YXo3UWRGNkdaZ2F6aGQ4WWFlamVFNnZ2S0JBUkNxZFFVNno5R2tQeVZRb0t6MXZKTTlrZEF2UjdKOE16MHZRbTg?oc=5",
-          "source": "The MileLion",
-          "published": "Fri, 13 Feb 2026 04:21:48 GMT",
+          "title": "2 arrested after woman found dismembered in Sabah, jealousy the motive, say police - The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2dQRFFBY2NCYUttTFJXUjNJeFhKS1ZIM3pja0lCZHNUcGRib1ZTRHdqaDBtdHNEclRnMWgtOTJoZXVUdldnU2tzWGpEQkZhaU1EcUpxaFl6SDFJbWdGYUd0dFZIZmstZ09RQnYxQUJ5RjA3bHc3SDdPb2RPUEpNdlRuNFNpUzJGdHdzTjBNYVRJYkMyU0hTdjJ3cEVEUHlncmk3YVhjNVduVGt5bDFHTU9kbXlIWk43Rzhmc0hHZw?oc=5",
+          "source": "The Straits Times",
+          "published": "Fri, 13 Feb 2026 01:17:29 GMT",
           "region": "ASIA",
           "cluster": 5
         },
@@ -1195,22 +1235,6 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQW40OHNKRUlSVm84OWV4ZXZyNGtwNXdoN000OFhVSWpZeWF5RExXQy0xZXJoem5icTluNW1MS2wwTDdqM2cwaEY0aEdPajJSZGRvT1I4UnRQU0did0RKMlNJOGFxMmpMdjlUdjlmT2k2QjFuTXdMb0laMG5hbW5LSUdaYy10TEZyZTQxSURSYjhkbUR1dkhOc0RrYlcxdHlaUTI3M0ZrTQ?oc=5",
           "source": "AsiaOne",
           "published": "Fri, 13 Feb 2026 05:03:00 GMT",
-          "region": "ASIA",
-          "cluster": 5
-        },
-        {
-          "title": "Brentford 1-1 Arsenal (13 Feb, 2026) Game Analysis - ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lemNKN0ZPeU1LQjZMR3d0TWVRUUhMZm4wTi15VU1KbWV0Q180Q2g2bGw3ZV9FWU1NZW8zT0ZENlRFQVgyMXNKcHZYcDNUc3k2bDBwcW5GXy1hMG1GMk0xMU9oOGRrQQ?oc=5",
-          "source": "ESPN Singapore",
-          "published": "Fri, 13 Feb 2026 01:07:30 GMT",
-          "region": "ASIA",
-          "cluster": 5
-        },
-        {
-          "title": "Raheem Sterling joins Feyenoord until end of season - ESPN Singapore",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDRkRk1mMUQzbkZwRUJmQlY5YzJEUmo4anNPNFZkU1M5U0JfUkRlb2V2NFFkLXJGRGEtbVp6cURxWVhRNTN2NWs1LVl6S0tLbWxsXy1CX0V2SzBPd0VLRmZhbERNbmxYeW1pMFNUSUQycnFZY0ZlLUROWWh5bXNMb0F1RmthR1p5dnF6Q3RnVTl6Vk5YNDV0Tg?oc=5",
-          "source": "ESPN Singapore",
-          "published": "Thu, 12 Feb 2026 23:55:58 GMT",
           "region": "ASIA",
           "cluster": 5
         }
